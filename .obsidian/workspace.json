@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "ba01c8339fdd4177",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ea03599e877ae5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e1e3ed99ba1c379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/AZ 900/Azure services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78bcd31107534fff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-29 15.57.50.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7a658aca7894435",
+    "type": "split",
+    "children": [
+      {
+        "id": "aacd6ea7d6f7ce81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b452f514f62dd26d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "875b04307bdd7be5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "185663e6a31dbfbe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc7a37eb77d09aaa",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3356f26a3090c413",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 527.5
+  },
+  "right": {
+    "id": "9a3831a1bcf77e74",
+    "type": "split",
+    "children": [
+      {
+        "id": "65ac0df1e5bb0ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b3bfd81713058ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Vault/AZ 900/Azure services.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "928a9aadb692f98b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Vault/AZ 900/Azure services.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa015d34cd30ce09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e5e0904aa955b9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Vault/AZ 900/Azure services.md"
+              }
+            }
+          },
+          {
+            "id": "8eb8741023f858f2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "bc7a37eb77d09aaa",
+  "lastOpenFiles": [
+    "Obsidian Vault/AZ 900/SECURITY BASICS.md",
+    "Pasted image 20240110152506.png",
+    "Pasted image 20240110140601.png",
+    "Pasted image 20240110134338.png",
+    "Obsidian Vault/AZ 900/Network Presentation.md",
+    "Pasted image 20240109200018.png",
+    "Pasted image 20240109131458.png",
+    "Pasted image 20240109130838.png",
+    "Pasted image 20240108204544.png",
+    "Pasted image 20240108204456.png",
+    "Pasted image 20240108204345.png",
+    "Obsidian Vault/AZ 900/Azure services.md",
+    "Pasted image 20240108161019.png",
+    "Excalidraw/Drawing 2023-12-29 15.57.50.excalidraw.md",
+    "Excalidraw",
+    "Obsidian Vault/AZ 900/ALZ.md",
+    "Obsidian Vault/AZ 900/AZURE VIRTUAL NETWORK.md",
+    "Obsidian Vault/AZ 900/NETWORKING.md",
+    "Obsidian Vault/AZ 900/Networking Basics.md",
+    "Obsidian Vault/AZ 900/STORAGE.md",
+    "Obsidian Vault/AZ 900/Load balancer.md",
+    "Obsidian Vault/AZ 900/extraaa.md",
+    "Obsidian Vault/AZ 900/AZURE Landing Zone/ALZ.pdf",
+    "Obsidian Vault/AZ 900/AZURE Landing Zone/Azure Landing Zone.pdf",
+    "Obsidian Vault/AZ 900/ALZ.pdf",
+    "Obsidian Vault/AZ 900/Azure Landing Zone.md",
+    "Networking Task/Network task 5 FIREWALL.md",
+    "Networking Task/Load Balancer Task.md",
+    "Networking Task/Task networking VPNGW.md",
+    "Obsidian Vault/AZ 900/AZ900/STORAGE.pdf",
+    "Obsidian Vault/AZ 900/WHY CLOUD AND WHY AZURE.md",
+    "Obsidian Vault/AZ 900/AZ900/WHY CLOUD AND WHY AZURE.pdf",
+    "Obsidian Vault/AZ 900/RESOURCES LOCK & SERVICE TRUST PORTAL.md",
+    "Obsidian Vault/AZ 900/AZ900/RESOURCES LOCK & SERVICE TRUST PORTAL.pdf",
+    "Obsidian Vault/AZ 900/AZ900/Networking Basics.pdf",
+    "Obsidian Vault/AZ 900/AZ900/NETWORKING.pdf",
+    "Obsidian Vault/AZ 900/AZ900/Load balancer.pdf",
+    "Obsidian Vault/AZ 900/DIFFERENCES.md",
+    "Obsidian Vault/AZ 900/CLOUD DEPLOYMENT MODELS.md",
+    "Obsidian Vault/AZ 900/CLOUD COMPUTING.md",
+    "Obsidian Vault/AZ 900/Benefits of Cloud Computing.md",
+    "Obsidian Vault/AZ 900/AZ GOVERNANCE AND COMPLIANCE.md",
+    "Obsidian Vault/AZ 900/Cost MANGEMENT.md",
+    "Obsidian Vault/AZ 900/AZURE POLICY.md",
+    "Obsidian Vault/AZ 900/AZURE Identity ,access and security.md"
+  ]
+}
