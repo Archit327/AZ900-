@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5ea03599e877ae5a",
+        "id": "ec21c163df2888f9",
         "type": "tabs",
         "children": [
           {
-            "id": "4e1e3ed99ba1c379",
+            "id": "ce61aa019d7b5d8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Azure services.md",
+                "file": "Obsidian Vault/AZ 900/SECURITY BASICS.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "78bcd31107534fff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-29 15.57.50.excalidraw.md"
               }
             }
           }
@@ -95,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 404.5
   },
   "right": {
     "id": "9a3831a1bcf77e74",
@@ -111,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Azure services.md",
+                "file": "Obsidian Vault/AZ 900/SECURITY BASICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Azure services.md",
+                "file": "Obsidian Vault/AZ 900/SECURITY BASICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Azure services.md"
+                "file": "Obsidian Vault/AZ 900/SECURITY BASICS.md"
               }
             }
           },
@@ -184,22 +174,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b452f514f62dd26d",
+  "active": "ce61aa019d7b5d8d",
   "lastOpenFiles": [
-    "New Text Document.txt",
+    "Assets/Pasted image 20231128152631.png",
+    "Assets/Pasted image 20240110204356.png",
     "Obsidian Vault/AZ 900/SECURITY BASICS.md",
-    "Pasted image 20240110152506.png",
-    "Pasted image 20240110140601.png",
-    "Pasted image 20240110134338.png",
-    "Obsidian Vault/AZ 900/Network Presentation.md",
-    "Pasted image 20240109200018.png",
-    "Pasted image 20240109131458.png",
-    "Pasted image 20240109130838.png",
-    "Pasted image 20240108204544.png",
-    "Pasted image 20240108204456.png",
-    "Pasted image 20240108204345.png",
+    "Networking Task/Task networking VPNGW.md",
+    "Assets/Pasted image 20231121151218.png",
+    "Networking Task/Network task 5 FIREWALL.md",
+    "Networking Task/Load Balancer Task.md",
+    "Assets/Pasted image 20231227162741.png",
+    "Assets/Pasted image 20231225215536.png",
+    "Assets",
     "Obsidian Vault/AZ 900/Azure services.md",
-    "Pasted image 20240108161019.png",
+    "New Text Document.txt",
+    "Assets/Pasted image 20240110152506.png",
+    "Assets/Pasted image 20240110140601.png",
+    "Assets/Pasted image 20240110134338.png",
+    "Obsidian Vault/AZ 900/Network Presentation.md",
+    "Assets/Pasted image 20240109200018.png",
+    "Assets/Pasted image 20240109131458.png",
     "Excalidraw/Drawing 2023-12-29 15.57.50.excalidraw.md",
     "Excalidraw",
     "Obsidian Vault/AZ 900/ALZ.md",
@@ -213,17 +207,12 @@
     "Obsidian Vault/AZ 900/AZURE Landing Zone/Azure Landing Zone.pdf",
     "Obsidian Vault/AZ 900/ALZ.pdf",
     "Obsidian Vault/AZ 900/Azure Landing Zone.md",
-    "Networking Task/Network task 5 FIREWALL.md",
-    "Networking Task/Load Balancer Task.md",
-    "Networking Task/Task networking VPNGW.md",
     "Obsidian Vault/AZ 900/AZ900/STORAGE.pdf",
     "Obsidian Vault/AZ 900/WHY CLOUD AND WHY AZURE.md",
     "Obsidian Vault/AZ 900/AZ900/WHY CLOUD AND WHY AZURE.pdf",
     "Obsidian Vault/AZ 900/RESOURCES LOCK & SERVICE TRUST PORTAL.md",
     "Obsidian Vault/AZ 900/AZ900/RESOURCES LOCK & SERVICE TRUST PORTAL.pdf",
     "Obsidian Vault/AZ 900/AZ900/Networking Basics.pdf",
-    "Obsidian Vault/AZ 900/AZ900/NETWORKING.pdf",
-    "Obsidian Vault/AZ 900/AZ900/Load balancer.pdf",
     "Obsidian Vault/AZ 900/DIFFERENCES.md",
     "Obsidian Vault/AZ 900/CLOUD DEPLOYMENT MODELS.md",
     "Obsidian Vault/AZ 900/CLOUD COMPUTING.md",

@@ -1,4 +1,4 @@
-
+==%% 
 5 pillars 
 identify
 protect 
@@ -6,7 +6,7 @@ detect
 respond
 recover
 
-diff feature in 
+diff feature in different liscence %%
 #### NEED of SECURITY
 - ease of visibility - the data is on the internet and and many can seee the data  , since many cloud services are accessed outside the corporate network.
 - access management - who can access the data or information or trhe resources on the cloud role based access should be used to give least privileged access  
@@ -115,3 +115,4 @@ It is security tool by microsoft azure for monitoring security posture managemen
 Not only for azure cloud and its resources but also for hybrid and multicloud microsoft defender have plans for azure arc cloud security posture management.(CSPM)
 
 
+![[Pasted image 20240110204356.png]]
