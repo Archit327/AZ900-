@@ -91,12 +91,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 527.5
+    "width": 361.5
   },
   "right": {
     "id": "9a3831a1bcf77e74",
@@ -169,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +184,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bc7a37eb77d09aaa",
+  "active": "b452f514f62dd26d",
   "lastOpenFiles": [
+    "New Text Document.txt",
     "Obsidian Vault/AZ 900/SECURITY BASICS.md",
     "Pasted image 20240110152506.png",
     "Pasted image 20240110140601.png",
