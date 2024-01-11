@@ -1,28 +1,6 @@
 ==NSG, ASG, Bastion and Virtual machine .
 
 ASG- logical grouping of the virtual netwprk resources for easier maintainance
-### AZURE VIRTUAL MACHINE
-
-Virtual Machines are azure resources used for computing. Basically it gives you the flexibility of virtualization without having to buy and maintain the physical hardware that runs it.
-Typically we choose a virtual machine when we need more control on the compute aspects.
-
-#### How VMs are related to Virtual Network
-
-VMs are integral part of networking infrastructure, and they interact with various networking components to communicate within a virtual network and with external resources.
-
-#### Virtual network
-VMs are deployed inside the virtual network in specific subnet.
-
-#### Network Interface
-each VM has its network interface and by that the VM gets connected to the Virtual Network.
-
-#### IP addresses 
-A VM after creation gets its PUBLIC and PRIVATE IPs, to send and receive traffic.
-
-#### Network Security Groups
-NSGs are often associated with VM to control inbound and outbound traffic
-
-So, these basic uses in networking can justify how is VM related to the networking.
 
 [ASG
 ![[Pasted image 20240108160558.png]]
@@ -109,3 +87,46 @@ vm1 cannot ping vm2
 vm2 cannot ping vm1
 ![[Pasted image 20240108204456.png]]
 
+
+#### LIMITS for NSGs
+==we can have upto 5000 NSGs per subscription
+and 1000 NSG rules per NSG
+
+#### Properties that are displayed and to be determined for making the **rule**
+
+1. **NAME** -> unique name for the rule 
+2. **Priority** -> It is  number between 100 to 4096.
+		the rules are processed according the priority .
+		lower is the number higher is the priority and vice versa.
+3. **Source/Destination** -> These can be IP address , service tags , or Application Security 
+				groups.
+				NSGs are processed after the azure translates public IP to private IP for inbound
+				and NSGs are processed before azure translates the private IP address to public IP address for outbound.
+4. **Protocol** -> TCP , UDP, ICMP , which protocol we wanna use .
+5. **Direction** -> The direction are two types INBOUND and OUTBOUND
+6. **Port range** -> we can specify port range like 80 , 
+
+
+----
+### AZURE VIRTUAL MACHINE
+
+Virtual Machines are azure resources used for computing. Basically it gives you the flexibility of virtualization without having to buy and maintain the physical hardware that runs it.
+Typically we choose a virtual machine when we need more control on the compute aspects.
+
+#### How VMs are related to Virtual Network
+
+VMs are integral part of networking infrastructure, and they interact with various networking components to communicate within a virtual network and with external resources.
+
+#### Virtual network
+VMs are deployed inside the virtual network in specific subnet.
+
+#### Network Interface
+each VM has its network interface and by that the VM gets connected to the Virtual Network.
+
+#### IP addresses 
+A VM after creation gets its PUBLIC and PRIVATE IPs, to send and receive traffic.
+
+#### Network Security Groups
+NSGs are often associated with VM to control inbound and outbound traffic
+
+So, these basic uses in networking can justify how is VM related to the networking.
