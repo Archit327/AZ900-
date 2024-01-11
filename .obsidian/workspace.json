@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "ba01c8339fdd4177",
+    "id": "f777f43808b824e0",
     "type": "split",
     "children": [
       {
-        "id": "ec21c163df2888f9",
+        "id": "046b18af9cb1ea70",
         "type": "tabs",
         "children": [
           {
-            "id": "ce61aa019d7b5d8d",
+            "id": "b0b039d8a6a4b368",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/AZ 900/SECURITY BASICS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a7a658aca7894435",
+    "id": "4fd67b699be1fea5",
     "type": "split",
     "children": [
       {
-        "id": "aacd6ea7d6f7ce81",
+        "id": "d7ee3c78cf56ff4c",
         "type": "tabs",
         "children": [
           {
-            "id": "b452f514f62dd26d",
+            "id": "731a745d1864f7db",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "875b04307bdd7be5",
+            "id": "1e639603131a4315",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,26 +54,10 @@
             }
           },
           {
-            "id": "185663e6a31dbfbe",
+            "id": "8d61608ba20a0cb1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "bc7a37eb77d09aaa",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "3356f26a3090c413",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
@@ -85,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 300
   },
   "right": {
-    "id": "9a3831a1bcf77e74",
+    "id": "36a138203165c5aa",
     "type": "split",
     "children": [
       {
-        "id": "65ac0df1e5bb0ed6",
+        "id": "3452dd62dc1ae1a1",
         "type": "tabs",
         "children": [
           {
-            "id": "6b3bfd81713058ad",
+            "id": "bf2b37ca5a56e7d1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/AZ 900/SECURITY BASICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,19 +92,18 @@
             }
           },
           {
-            "id": "928a9aadb692f98b",
+            "id": "99fe6958af54a894",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/AZ 900/SECURITY BASICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aa015d34cd30ce09",
+            "id": "dd3229f10418132b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,25 +114,14 @@
             }
           },
           {
-            "id": "6e5e0904aa955b9e",
+            "id": "295c663d75fa98f5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian Vault/AZ 900/SECURITY BASICS.md"
-              }
-            }
-          },
-          {
-            "id": "8eb8741023f858f2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,63 +130,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ce61aa019d7b5d8d",
-  "lastOpenFiles": [
-    "Assets/Pasted image 20231128152631.png",
-    "Assets/Pasted image 20240110204356.png",
-    "Obsidian Vault/AZ 900/SECURITY BASICS.md",
-    "Networking Task/Task networking VPNGW.md",
-    "Assets/Pasted image 20231121151218.png",
-    "Networking Task/Network task 5 FIREWALL.md",
-    "Networking Task/Load Balancer Task.md",
-    "Assets/Pasted image 20231227162741.png",
-    "Assets/Pasted image 20231225215536.png",
-    "Assets",
-    "Obsidian Vault/AZ 900/Azure services.md",
-    "New Text Document.txt",
-    "Assets/Pasted image 20240110152506.png",
-    "Assets/Pasted image 20240110140601.png",
-    "Assets/Pasted image 20240110134338.png",
-    "Obsidian Vault/AZ 900/Network Presentation.md",
-    "Assets/Pasted image 20240109200018.png",
-    "Assets/Pasted image 20240109131458.png",
-    "Excalidraw/Drawing 2023-12-29 15.57.50.excalidraw.md",
-    "Excalidraw",
-    "Obsidian Vault/AZ 900/ALZ.md",
-    "Obsidian Vault/AZ 900/AZURE VIRTUAL NETWORK.md",
-    "Obsidian Vault/AZ 900/NETWORKING.md",
-    "Obsidian Vault/AZ 900/Networking Basics.md",
-    "Obsidian Vault/AZ 900/STORAGE.md",
-    "Obsidian Vault/AZ 900/Load balancer.md",
-    "Obsidian Vault/AZ 900/extraaa.md",
-    "Obsidian Vault/AZ 900/AZURE Landing Zone/ALZ.pdf",
-    "Obsidian Vault/AZ 900/AZURE Landing Zone/Azure Landing Zone.pdf",
-    "Obsidian Vault/AZ 900/ALZ.pdf",
-    "Obsidian Vault/AZ 900/Azure Landing Zone.md",
-    "Obsidian Vault/AZ 900/AZ900/STORAGE.pdf",
-    "Obsidian Vault/AZ 900/WHY CLOUD AND WHY AZURE.md",
-    "Obsidian Vault/AZ 900/AZ900/WHY CLOUD AND WHY AZURE.pdf",
-    "Obsidian Vault/AZ 900/RESOURCES LOCK & SERVICE TRUST PORTAL.md",
-    "Obsidian Vault/AZ 900/AZ900/RESOURCES LOCK & SERVICE TRUST PORTAL.pdf",
-    "Obsidian Vault/AZ 900/AZ900/Networking Basics.pdf",
-    "Obsidian Vault/AZ 900/DIFFERENCES.md",
-    "Obsidian Vault/AZ 900/CLOUD DEPLOYMENT MODELS.md",
-    "Obsidian Vault/AZ 900/CLOUD COMPUTING.md",
-    "Obsidian Vault/AZ 900/Benefits of Cloud Computing.md",
-    "Obsidian Vault/AZ 900/AZ GOVERNANCE AND COMPLIANCE.md",
-    "Obsidian Vault/AZ 900/Cost MANGEMENT.md",
-    "Obsidian Vault/AZ 900/AZURE POLICY.md",
-    "Obsidian Vault/AZ 900/AZURE Identity ,access and security.md"
-  ]
+  "active": "b0b039d8a6a4b368",
+  "lastOpenFiles": []
 }
