@@ -1,10 +1,6 @@
 ==NSG, ASG, Bastion and Virtual machine .
 
-ASG- logical grouping of the virtual netwprk resources for easier maintainance
-
-[ASG
-![[Pasted image 20240108160558.png]]
-]
+### ==Network Security Groups
 #### What is NSG?
 
 Azure Network Security Group(NSG) is a set of rule that control the inbound and outbound network traffic to network interfaces, VMs and ither resources within virtual network. 
@@ -55,14 +51,25 @@ There are basically 3 default rules configured
 - Deny All OutBound
 
 
-### Creating a NSG rule
+### ==Creating a NSG rule
+
+#### Properties that are displayed and to be determined for creating a **rule**
+
+1. **NAME** -> unique name for the rule 
+2. **Priority** -> It is  number between 100 to 4096.
+		the rules are processed according the priority .
+		lower is the number higher is the priority and vice versa.
+3. **Source/Destination** -> These can be IP address , service tags , or Application Security 
+				groups.
+				NSGs are processed after the azure translates public IP to private IP for inbound
+				and NSGs are processed before azure translates the private IP address to public IP address for outbound.
+4. **Protocol** -> TCP , UDP, ICMP , which protocol we wanna use .
+5. **Direction** -> The direction are two types INBOUND and OUTBOUND
+6. **Port range** -> we can specify port range like 80 , 3389, 443 etc.
+
 
 ![[Pasted image 20240109200018.png]]
 The NSGs are evaluated based on 5 Tuples ==Source, Source Port, Destination, Destination Port, Protocol==  
-NSG rule are classified into two categories - Inbound Rule and Outbound Rule
-
-
-
 #### LABS on NSGS basic rules established 
 - RULE 1- RDP allowed for VM1 by MY IP adress
 - Rule 2- RDP allowed for vm2 by MY IP address
@@ -92,23 +99,19 @@ vm2 cannot ping vm1
 ==we can have upto 5000 NSGs per subscription
 and 1000 NSG rules per NSG
 
-#### Properties that are displayed and to be determined for making the **rule**
+---
 
-1. **NAME** -> unique name for the rule 
-2. **Priority** -> It is  number between 100 to 4096.
-		the rules are processed according the priority .
-		lower is the number higher is the priority and vice versa.
-3. **Source/Destination** -> These can be IP address , service tags , or Application Security 
-				groups.
-				NSGs are processed after the azure translates public IP to private IP for inbound
-				and NSGs are processed before azure translates the private IP address to public IP address for outbound.
-4. **Protocol** -> TCP , UDP, ICMP , which protocol we wanna use .
-5. **Direction** -> The direction are two types INBOUND and OUTBOUND
-6. **Port range** -> we can specify port range like 80 , 
+### ==Application Security Groups
+
+ASG- logical grouping of the virtual network resources for easier maintenance
+
+![[Pasted image 20240108160558.png]]
+
+
 
 
 ----
-### AZURE VIRTUAL MACHINE
+### ==AZURE VIRTUAL MACHINE
 
 Virtual Machines are azure resources used for computing. Basically it gives you the flexibility of virtualization without having to buy and maintain the physical hardware that runs it.
 Typically we choose a virtual machine when we need more control on the compute aspects.

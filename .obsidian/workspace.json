@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -151,5 +150,9 @@
     }
   },
   "active": "b0b039d8a6a4b368",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Networking Task/Load Balancer Task.md",
+    "Obsidian Vault/AZ 900/Load balancer.md",
+    "Obsidian Vault/AZ 900/Network Presentation.md"
+  ]
 }
