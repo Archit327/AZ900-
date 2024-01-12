@@ -41,3 +41,23 @@ The orgs officially hire them to use their technical skills to break into the sy
 
 The techniques are same as of the black hat hackers but they dont do any harm they just find the loop holes and vulnerabilities in the systems and prevent them.
 
+Ethical hacking is carried out by these type of hackers.
+
+#### Devices prone to get hacked
+
+- Smart Phones
+- Laptops
+- webcams
+- routers
+- emails
+
+#### Prevention from Getting Hacked
+
+- Software update regularly
+- unique and different passwords for diff accounts
+- https encryption
+- avoid clicking on ads or strange links
+- download form genuine sources and websites
+- updated antivirus software
+- VPNs
+- MFA
