@@ -107,7 +107,7 @@ ASG- logical grouping of the virtual network resources for easier maintenance
 
 ![[Pasted image 20240108160558.png]]
 
-
+ASG enables you to configure network security as a natural extension of an application's structure, allowing you to group virtual machine and define network security policies based on those groups
 
 
 ----
@@ -133,3 +133,8 @@ A VM after creation gets its PUBLIC and PRIVATE IPs, to send and receive traffic
 NSGs are often associated with VM to control inbound and outbound traffic
 
 So, these basic uses in networking can justify how is VM related to the networking.
+
+---
+
+### ==Service Tags
+
