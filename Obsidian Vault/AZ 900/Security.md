@@ -62,3 +62,10 @@ Ethical hacking is carried out by these type of hackers.
 - updated antivirus software
 - VPNs
 - MFA
+
+
+### Log4J vulnerability
+
+It is a vulnerability present in apache web server .
+so there is a java based software utility which is used to record the user activities.
+in the version 2.0-2.14 there is a vulnerability in log4j utility.
