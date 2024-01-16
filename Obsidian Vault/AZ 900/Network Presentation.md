@@ -156,24 +156,16 @@ Azure Bastion is a service in Microsoft Azure that provides secure and seamless 
 
 2. **No Public IP on VMs:**
    - **Reduced Attack Surface:** VMs behind Azure Bastion do not need public IP addresses, reducing the attack surface and minimizing exposure to potential security threats.
-
-3. **Azure Portal Integration:**
-   - **Access via Azure Portal:** Users can initiate RDP or SSH connections to VMs directly from the Azure portal, providing a centralized and user-friendly interface for managing VMs.
-
-4. **Multi-Factor Authentication (MFA):**
-   - **Enhanced Security:** Bastion supports multi-factor authentication, adding an extra layer of security to user access.
-
-5. **Network Integration:**
-   - **VNet Integration:** Bastion is deployed in a Virtual Network (VNet), ensuring that the connection from your local machine to the VM traverses the Azure backbone network, providing a secure and private channel.
-
-6. **Easy Configuration:**
-   - **No Client Installation:** Unlike traditional VPN connections, there is no need to install a VPN client on the local machine. Users can access VMs directly from the Azure portal.
-
-7. **Role-Based Access Control (RBAC):**
-   - **Access Control:** Access to Azure Bastion can be controlled using Azure Role-Based Access Control (RBAC), allowing administrators to define who has access to the service.
-
-8. **Audit and Logging:**
-   - **Audit Trails:** Azure Bastion provides detailed logs and audit trails, allowing administrators to monitor and track user access to VMs.
+3. **No hassle of managing Network Security Groups (NSGs):** 
+	Azure Bastion is a fully managed platform PaaS service from Azure that is hardened internally to provide you secure RDP/SSH connectivity.
+4. **Protection Against Port Scanning:** 
+	   Your VMs are protected against port scanning by rogue and malicious users because you don't need to expose the VMs to the internet.
+5. **Hardening in one place Only:** 
+	   Azure Bastion sits at the perimeter of your virtual network, so you don’t need to worry about hardening each of the VMs in your virtual network.|
+6. **Protection against Zero Day Exploits:** 
+	   The Azure platform protects against zero-day exploits by keeping the Azure Bastion hardened and always up to date for you. 
+   
+ 
 
 ### Use Cases:
 
