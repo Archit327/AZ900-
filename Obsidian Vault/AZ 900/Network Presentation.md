@@ -142,8 +142,7 @@ So, these basic uses in networking can justify how is VM related to the networki
 ---
 
 
-Azure Bastion
-=
+### ==Azure Bastion
 
 Azure Bastion is a service in Microsoft Azure that provides secure and seamless Remote Desktop Protocol (RDP) and Secure Shell (SSH) connectivity to virtual machines (VMs) directly from the Azure portal, without the need for a public IP address on the VM. Bastion acts as a jump server, allowing you to securely connect to your VMs over Remote Desktop Protocol (RDP) or Secure Shell (SSH) using the Azure portal, thus reducing exposure to potential security risks.
 
