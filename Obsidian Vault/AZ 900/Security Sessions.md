@@ -63,6 +63,9 @@ Ethical hacking is carried out by these type of hackers.
 - VPNs
 - MFA
 
+#### Vulnerability , Exploit and payload
+so 
+
 
 ### Log4J vulnerability
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Network Presentation.md",
+                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Network Presentation.md",
+                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Network Presentation.md",
+                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Network Presentation.md"
+                "file": "Obsidian Vault/AZ 900/Security Sessions.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   },
   "active": "b0b039d8a6a4b368",
   "lastOpenFiles": [
-    "Obsidian Vault/AZ 900/Security.md",
+    "Obsidian Vault/AZ 900/SECURITY BASICS.md",
     "Obsidian Vault/AZ 900/Network Presentation.md",
+    "Obsidian Vault/AZ 900/Security Sessions.md",
     "Networking Task/Load Balancer Task.md",
     "Obsidian Vault/AZ 900/Load balancer.md"
   ]
