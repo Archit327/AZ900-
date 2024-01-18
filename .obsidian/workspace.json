@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -152,10 +151,12 @@
   },
   "active": "b0b039d8a6a4b368",
   "lastOpenFiles": [
-    "Obsidian Vault/AZ 900/SECURITY BASICS.md",
-    "Obsidian Vault/AZ 900/Network Presentation.md",
+    "Assets/Pasted image 20240117192915.png",
     "Obsidian Vault/AZ 900/Security Sessions.md",
-    "Networking Task/Load Balancer Task.md",
-    "Obsidian Vault/AZ 900/Load balancer.md"
+    "Obsidian Vault/AZ 900/Network Presentation.md",
+    "Obsidian Vault/AZ 900/Load balancer.md",
+    "Assets/Pasted image 20231103131916.png",
+    "Obsidian Vault/AZ 900/SECURITY BASICS.md",
+    "Networking Task/Load Balancer Task.md"
   ]
 }

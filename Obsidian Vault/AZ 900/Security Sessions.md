@@ -63,8 +63,28 @@ Ethical hacking is carried out by these type of hackers.
 - VPNs
 - MFA
 
-#### Vulnerability , Exploit and payload
-so 
+#### Vulnerability -
+vulnerabilities are the weakness that can be exploited by cybercriminals to gain unauthorised access to a computer system.
+after exploiting(misusing )the vulnerability a cyber attacker can run malicious codes , install malware and steal sensitive data.
+
+#### Types of Vulnerabilities-
+- **Hardware** -
+		  Humidity , dust , soiling, natural disaster, poor encryption.
+- **Software** -
+		  Insufficient Testing, lack of audit trail, design flaws, email injection, code injection, SQL injection, 
+- **Network** - 
+		  unprotected comm. lines , insecure network architecture, lack of authentication, or poor network security.
+- **Personnel** - 
+		  poor password management, poor security training, lack of security awareness, downloading malware via email attechments
+- **Physical site** - 
+		 unreliable power source or no keycard access
+- **Organisational** - 
+		  lack of audit , improper internal controls, incident response plan
+
+#### Exploit 
+
+#### Payload
+
 
 
 ### Log4J vulnerability
