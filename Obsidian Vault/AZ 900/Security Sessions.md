@@ -76,18 +76,23 @@ It can be done two ways
 Scanning the whole network or server or the application , identifying the threats or the vulnerabilities , searching for the loopholes through which they can get access to exploit the network or application.
 
 #### 3.Gaining Access - 
-Getting access to the particular network or the application or device , using that particular vulnerability as a window to enter.
+Getting access to the particular network or the application or device , using that particular vulnerability as a window to attack on that particular device.
+The hacker tries to exploit that vulnerability and increase his privilege to the admin level and install the application that he needs or can modify his data.
+
+##### 4. Maintaining Access
+the main theme of maintaining access is to keep the hacker inside the network in the targeted system , This is until he gathers the data he deems valuable and until his all data gathering is done he has to maintain the access in the system.
+The hacker can keep the backdoor accessible by installing a hidden infrastructure like trojan horse, rootkits, and channels.
+#### 5.Clearing Track
+After the theft is complete and its time to come out of the system, the hacker has to clear all the footprints .The footprints can be the changes made by him in the system, or the software he has installed to gather data or get login access.
+
+This is the most imp part for the hacker to take care of, as he should not be traced.
+This phase also comes under maintaining access, as he has to clear his footprints to help avoid detection while maintaining access.
 
 
 ---
 #### Vulnerability -
-vulnerabilities are the weakness that can be exploited by cybercriminals to gain unauthorised access to a computer system.
+vulnerabilities are the weakness that can be exploited by cybercriminals to gain unauthorized access to a computer system.
 after exploiting(misusing )the vulnerability a cyber attacker can run malicious codes , install malware and steal sensitive data.
-
-#### Types of Vulnerabilities-
-- **USERS** - the human make such mistake or errors. It can intentional or may be unintentional , which can affect the security of the server or applications or the network.
-- **Operating** **Systems** - so the unresolved bugs in the OS , or if the OS is not patched then it can be vulnerability which may be exploited by the hacker.
-- **Applications** - 
 
 #### Exploit 
 it is like mis using the that known vulnerability for bad cause.
@@ -112,3 +117,8 @@ in the version 2.0-2.14 there is a vulnerability in log4j utility.
 ---
 
 ### Vulnerability
+
+### Types of Vulnerabilities-
+- **USERS** - the human make such mistake or errors. It can intentional or may be unintentional , which can affect the security of the server or applications or the network.
+- **Operating** **Systems** - so the unresolved bugs in the OS , or if the OS is not patched then it can be vulnerability which may be exploited by the hacker.
+- **Applications** - 
