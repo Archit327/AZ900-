@@ -62,33 +62,53 @@ Ethical hacking is carried out by these type of hackers.
 - updated antivirus software
 - VPNs
 - MFA
+----
+### ==Phases of Hacking
 
+There are basically 5 phases of hacking
+
+#### 1. Reconnaissance - 
+This is first step for starting the hacking procedure, which starts with ==gathering of information== of the target server or network or its any application.
+It can be done two ways 
+		1. active - in this the attacker directly gets the information from the site or the org getting attacked , or may be directly getting the data or privacy of the device which is getting to be hacked. So basicaaly it is a direct reference.
+		2. passive - this is like attacker will gather info. from diff sources , it can be like known employ of that org , or the social platforms.
+#### 2.Scanning - 
+Scanning the whole network or server or the application , identifying the threats or the vulnerabilities , searching for the loopholes through which they can get access to exploit the network or application.
+
+#### 3.Gaining Access - 
+Getting access to the particular network or the application or device , using that particular vulnerability as a window to enter.
+
+
+---
 #### Vulnerability -
 vulnerabilities are the weakness that can be exploited by cybercriminals to gain unauthorised access to a computer system.
 after exploiting(misusing )the vulnerability a cyber attacker can run malicious codes , install malware and steal sensitive data.
 
 #### Types of Vulnerabilities-
-- **Hardware** -
-		  Humidity , dust , soiling, natural disaster, poor encryption.
-- **Software** -
-		  Insufficient Testing, lack of audit trail, design flaws, email injection, code injection, SQL injection, 
-- **Network** - 
-		  unprotected comm. lines , insecure network architecture, lack of authentication, or poor network security.
-- **Personnel** - 
-		  poor password management, poor security training, lack of security awareness, downloading malware via email attechments
-- **Physical site** - 
-		 unreliable power source or no keycard access
-- **Organisational** - 
-		  lack of audit , improper internal controls, incident response plan
+- **USERS** - the human make such mistake or errors. It can intentional or may be unintentional , which can affect the security of the server or applications or the network.
+- **Operating** **Systems** - so the unresolved bugs in the OS , or if the OS is not patched then it can be vulnerability which may be exploited by the hacker.
+- **Applications** - 
 
 #### Exploit 
+it is like mis using the that known vulnerability for bad cause.
+It can be done by software , tools or malicious code.
+It can be a program or instruction designed to find the vulnerability, or the loop holes in the network to take advantage to gain access in the application or the system.
 
 #### Payload
+So payload is the thing which enters to the victims network or device and does the harm or steal data or any other sensitive info. 
+Payload is the thing which will be the responsible for creating all the mess or loss.
+Stealing of sensitive info , or hacking the software, writing malicious codes , injecting codes etc.
 
 
-
+---
 ### Log4J vulnerability
 
 It is a vulnerability present in apache web server .
 so there is a java based software utility which is used to record the user activities.
 in the version 2.0-2.14 there is a vulnerability in log4j utility.
+
+==pending
+
+---
+
+### Vulnerability
