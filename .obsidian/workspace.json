@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
+                "file": "Networking Task/Network task 5 FIREWALL.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
+                "file": "Networking Task/Network task 5 FIREWALL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
+                "file": "Networking Task/Network task 5 FIREWALL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md"
+                "file": "Networking Task/Network task 5 FIREWALL.md"
               }
             }
           }
@@ -152,8 +151,8 @@
   },
   "active": "b0b039d8a6a4b368",
   "lastOpenFiles": [
-    "Assets/Pasted image 20240117192915.png",
     "Obsidian Vault/AZ 900/Security Sessions.md",
+    "Assets/Pasted image 20240117192915.png",
     "Obsidian Vault/AZ 900/Network Presentation.md",
     "Obsidian Vault/AZ 900/Load balancer.md",
     "Assets/Pasted image 20231103131916.png",
