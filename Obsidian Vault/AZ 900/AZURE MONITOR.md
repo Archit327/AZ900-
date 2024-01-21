@@ -29,5 +29,13 @@ Metrics can also display the data about the disk space, CPU load etc.
 These metrics provide the raw material used by the monitoring systems to analyze the environment , automate responses and alert human being when required.
 
 #### What is Monitoring ?
+So as metric collects data in your system , about the system is working , how much is CPU loaded with tasks , here monitoring is the process of collecting , aggregating and analyzing those values to improve awareness of your components and behavior.
+Data from various environments are collected into monitoring systems that are responsible for storage, aggregation, visualization, and initiate the responses when the values meet specific requirements.
+
+#### What is Alerting ?
+Alerting is the responsive component of a monitoring system that performs actions based on changes in metric values.
+Here, alerting aligns with monitoring who gives the alerting a type of message that according to the metrics monitored of particular service or resource, there are some changes which should be identified and managed immediately.
+
+
 
 
