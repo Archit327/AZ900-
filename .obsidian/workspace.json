@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
+                "file": "Obsidian Vault/AZ 900/AZURE MONITOR.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee524d6158b0262d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -85,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,11 +155,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b0b039d8a6a4b368",
+  "active": "ee524d6158b0262d",
   "lastOpenFiles": [
+    "Obsidian Vault/AZ 900/AZURE MONITOR.md",
+    "Assets/Pasted image 20240121153304.png",
+    "Obsidian Vault/AZ 900/Security Sessions.md",
     "Obsidian Vault/AZ 900/SECURITY BASICS.md",
     "Networking Task/Network task 5 FIREWALL.md",
-    "Obsidian Vault/AZ 900/Security Sessions.md",
     "Assets/Pasted image 20240117192915.png",
     "Obsidian Vault/AZ 900/Network Presentation.md",
     "Obsidian Vault/AZ 900/Load balancer.md",
