@@ -11,7 +11,7 @@ In this document we will try to highlight the key considerations for configuring
 1. ALERTS - These are the notifications that inform the conditions of the targeted or monitored resources and services.
 2. METRICS - It is a feature of azure monitor that collects numeric data from monitored resources into a time-series database.
 3. THRESHOLD - It is  a specific value which is spiked then the alert is send specifying that scenario or the change made in the particular monitored service or resource.
-4. 
+4. LOGS - Events or performance data, traces related to specific application or resource are stored in azure monitor logs
 
 ![[Pasted image 20240121153304.png]]
 
@@ -36,6 +36,8 @@ Data from various environments are collected into monitoring systems that are re
 Alerting is the responsive component of a monitoring system that performs actions based on changes in metric values.
 Here, alerting aligns with monitoring who gives the alerting a type of message that according to the metrics monitored of particular service or resource, there are some changes which should be identified and managed immediately.
 
+Alerts and Actions -  So there are some alerts which can be configured with some predefined actions , such that as the threshold is triggered it can send the alert to the humans and and also do some actions benefiting the workflow.
+For example - if there is a website working on 10 backend server , and after a point of time all the server are busy and there is requirement of some more server at backend at that time, then an alert can configured such that as there is increase in server capacity then send an alert and as well as scale the backend with 5 more servers.
 
 
 
