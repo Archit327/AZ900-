@@ -122,3 +122,20 @@ in the version 2.0-2.14 there is a vulnerability in log4j utility.
 - **USERS** - the human make such mistake or errors. It can intentional or may be unintentional , which can affect the security of the server or applications or the network.
 - **Operating** **Systems** - so the unresolved bugs in the OS , or if the OS is not patched then it can be vulnerability which may be exploited by the hacker.
 - **Applications** - 
+
+---
+
+#### Famous known Vulnerability
+
+1. out of bounds write vulnerability-
+   This allows an attacker to conduct execution of code or commands
+2. authentication bypass vulnerability-
+   allows an unauthorized user to enter and gain privileged access without proper credentials
+3. code injection vulnerability-
+   this is a type of web vulnerability , that occurs when an application sends untrusted  data to an interpreter and here the attacker will inject malicious code or commands , which will exploit the web application, the server or the system.   
+4. buffer overflow vulnerability-
+   this occurs when the data stored in the buffer is more than capacity of buffer , then buffer overflows causing the data to overflow into adjacent storage.
+   which can cause system crash, thereby creating a chance for attacker to enter. 
+
+   
+
