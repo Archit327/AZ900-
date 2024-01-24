@@ -44,6 +44,10 @@ The techniques are same as of the black hat hackers but they dont do any harm th
 
 Ethical hacking is carried out by these type of hackers.
 
+==pending==
+
+---
+
 #### Devices prone to get hacked
 
 - Smart Phones
