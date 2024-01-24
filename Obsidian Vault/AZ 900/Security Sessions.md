@@ -141,5 +141,31 @@ in the version 2.0-2.14 there is a vulnerability in log4j utility.
    this occurs when the data stored in the buffer is more than capacity of buffer , then buffer overflows causing the data to overflow into adjacent storage.
    which can cause system crash, thereby creating a chance for attacker to enter. 
 
-   
+   ---
+
+### Features of Cyber Security
+
+#### Confidentiality
+it serves as securing the sensitive data from unwanted access or unauthorized user, secure from the internet or any other way that can make that data available out of the org.
+basically hiding the data and info from outside the org.
+
+
+### Integrity
+Maintaining the consistency , accuracy and trustworthiness of data through out the lifecycle .
+The data is always uptodate and complete and have not been accidentally modified  by the unauthorized user.
+
+### Availability
+It refers to the capacity for authorized users or parties to access the information on a consistent and timely access.
+Basically data should be available whenever you need, wherever u need .
+
+### What is Cyber Threat?
+
+It is a harmful act that aims to harm data , steal data or otherwise disrupt digital life.
+it is like an event that can negatively harm the org, it can may be shut down the org for a particular period of time.
+
+### Types of cyber Threats
+There are basically 3 types of cyber threat
+1. Network Threat
+2. Host Threat
+3. Application Host
 
