@@ -169,3 +169,12 @@ There are basically 3 types of cyber threat
 2. Host Threat
 3. Application Host
 
+----
+
+### Malware
+
+It is a malicious software that poses a major threat to the computer system as it gets into the device maliciously and cause extensive damage to the system,. It can get inside with many ways.
+
+Ways by which the MALWARE can enter to your system-->
+
+

@@ -20,14 +20,15 @@
             }
           },
           {
-            "id": "ee524d6158b0262d",
+            "id": "4f7369c73850321c",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,11 +155,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b0b039d8a6a4b368",
+  "active": "4f7369c73850321c",
   "lastOpenFiles": [
+    "Obsidian Vault/AZ 900/Security Sessions.md",
     "Obsidian Vault/AZ 900/AZURE MONITOR.md",
     "Assets/Pasted image 20240121153304.png",
-    "Obsidian Vault/AZ 900/Security Sessions.md",
     "Obsidian Vault/AZ 900/SECURITY BASICS.md",
     "Networking Task/Network task 5 FIREWALL.md",
     "Assets/Pasted image 20240117192915.png",
