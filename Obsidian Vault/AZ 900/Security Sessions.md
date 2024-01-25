@@ -99,7 +99,7 @@ vulnerabilities are the weakness that can be exploited by cybercriminals to gain
 after exploiting(misusing )the vulnerability a cyber attacker can run malicious codes , install malware and steal sensitive data.
 
 #### Exploit 
-it is like mis using the that known vulnerability for bad cause.
+it is like misusing the that known vulnerability for bad cause.
 It can be done by software , tools or malicious code.
 It can be a program or instruction designed to find the vulnerability, or the loop holes in the network to take advantage to gain access in the application or the system.
 
@@ -107,6 +107,14 @@ It can be a program or instruction designed to find the vulnerability, or the lo
 So payload is the thing which enters to the victims network or device and does the harm or steal data or any other sensitive info. 
 Payload is the thing which will be the responsible for creating all the mess or loss.
 Stealing of sensitive info , or hacking the software, writing malicious codes , injecting codes etc.
+
+---
+
+==vulnerability -- galti
+exploit - the object or the zariya uss galti (vulnerability ) ka fayeda uthaane ka 
+payload -- its the impact caused after that exploit on vulnerability
+risk - its the loss or the haani (hindi)
+
 
 
 ---
@@ -126,6 +134,8 @@ in the version 2.0-2.14 there is a vulnerability in log4j utility.
 - **USERS** - the human make such mistake or errors. It can intentional or may be unintentional , which can affect the security of the server or applications or the network.
 - **Operating** **Systems** - so the unresolved bugs in the OS , or if the OS is not patched then it can be vulnerability which may be exploited by the hacker.
 - **Applications** - 
+
+==pending==
 
 ---
 
@@ -152,12 +162,13 @@ basically hiding the data and info from outside the org.
 
 ### Integrity
 Maintaining the consistency , accuracy and trustworthiness of data through out the lifecycle .
-The data is always uptodate and complete and have not been accidentally modified  by the unauthorized user.
+The data must be always uptodate and complete and have not been accidentally modified  by the unauthorized user.
 
 ### Availability
 It refers to the capacity for authorized users or parties to access the information on a consistent and timely access.
 Basically data should be available whenever you need, wherever u need .
 
+---
 ### What is Cyber Threat?
 
 It is a harmful act that aims to harm data , steal data or otherwise disrupt digital life.
@@ -168,6 +179,7 @@ There are basically 3 types of cyber threat
 1. Network Threat
 2. Host Threat
 3. Application Host
+
 
 ----
 
@@ -189,9 +201,9 @@ Ways by which the MALWARE can enter to your system-->
 
 ### Types of Malware
 
-- Adware
-- Spyware
-- Virus
+- Adware - is unwanted software designed to throw advertisements up on your screen, most often within a web browser.they simply trick you to click on it and then install the malware in your device.
+- Spyware - it secretly observes about the computer activities without the permissions and report to the adversery. It basically enters to the device by phishing or spoofing- by clicking the untrusted links or downloading some file from untrusted sources.
+- Virus - 
 - Worms
 - Trojan Horse
 - Ransomware
@@ -210,4 +222,30 @@ Ways by which the MALWARE can enter to your system-->
 - changes in browser - new home page, new extensions and plugins downloaded, 
 - the antivirus stops working and not able to get access to it and turn it back ON
 - lose the access to the entire computer or some particular file
-- 
+
+
+---
+
+### Microsoft Antimalware for Azure Cloud Services and Virtual Machines
+
+
+Microsoft Antimalware for Azure is a free real-time protection that helps identify and remove viruses, spyware, and other malicious software. It generates alerts when known malicious or unwanted software tries to install itself or run on your Azure systems.
+
+Available on-
+solution is built on the same antimalware platform as ==Microsoft Security Essentials (MSE),==   ==Microsoft Forefront Endpoint Protection==, ==Microsoft System Center Endpoint Protection==, ==Microsoft Intune==, and ==Microsoft Defender for Cloud.==
+
+
+Microsoft Antimalware for Azure is a single-agent solution for applications and tenant environments, designed to run in the background without human intervention.
+
+
+### Features available in MICROSOFT ANTIMALWARE for AZURE
+
+- **Real-time protection** - monitors activity in Cloud Services and on Virtual Machines to detect and block malware execution.
+- **Scheduled scanning** - Scans periodically to detect malware, including actively running programs.
+- **Malware remediation** - automatically takes action on detected malware, such as deleting or quarantining malicious files and cleaning up malicious registry entries.
+- **Signature updates** - automatically installs the latest protection signatures (virus definitions) to ensure protection is up-to-date on a predetermined frequency.
+- **Antimalware Engine updates** - automatically updates the Microsoft Antimalware engine.
+- **Antimalware Platform updates** - automatically updates the Microsoft Antimalware platform. 
+
+---
+
