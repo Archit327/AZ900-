@@ -176,5 +176,38 @@ There are basically 3 types of cyber threat
 It is a malicious software that poses a major threat to the computer system as it gets into the device maliciously and cause extensive damage to the system,. It can get inside with many ways.
 
 Ways by which the MALWARE can enter to your system-->
+**7 ways malware can get into your device**
+
+- Phishing and malspam emails 
+- Fraudulent websites 
+- USB flash drives 
+- P2P sharing and torrents 
+- Compromised software 
+- Adware 
+- Fake apps 
 
 
+### Types of Malware
+
+- Adware
+- Spyware
+- Virus
+- Worms
+- Trojan Horse
+- Ransomware
+- Rootkit
+- keylogger
+- Backdoor
+- botnet
+
+#### How to tell the device is infected with Malware ?
+
+- computer slows down
+- popup ads on the screen
+- system crashing
+- mysterious lots of disk space
+- increase in internet activity rather than ur task
+- changes in browser - new home page, new extensions and plugins downloaded, 
+- the antivirus stops working and not able to get access to it and turn it back ON
+- lose the access to the entire computer or some particular file
+- 
