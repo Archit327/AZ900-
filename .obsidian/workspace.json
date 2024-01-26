@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian Vault/AZ 900/Security Sessions.md"
+              }
             }
           }
         ]
@@ -155,8 +158,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4f7369c73850321c",
+  "active": "b0b039d8a6a4b368",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240125193803.png",
     "Obsidian Vault/AZ 900/Security Sessions.md",
     "Obsidian Vault/AZ 900/AZURE MONITOR.md",
     "Assets/Pasted image 20240121153304.png",

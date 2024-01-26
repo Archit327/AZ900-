@@ -249,3 +249,4 @@ Microsoft Antimalware for Azure is a single-agent solution for applications and 
 
 ---
 
+![[Pasted image 20240125193803.png]]
