@@ -44,7 +44,23 @@ The techniques are same as of the black hat hackers but they dont do any harm th
 
 Ethical hacking is carried out by these type of hackers.
 
-==pending==
+#### 3.Grey Hat Hackers
+
+These are moreover a combination of both black and white hackers such that they can do hacking with both good and bad intentions.
+they can do ethical hacking for bug bounties and even do the illegal hacking for ransom. 
+They are not under any organizations they just use their skills and find the vulnerability in the organization's network or system, and then tell them about the bug or the vulnerability and ask them for bounties for appreciations.
+
+
+#### 4. Skript kiddies
+
+These are the most dangerous hackers. They are unskilled hackers who just use the tools made by the professional hackers and use it to hack any system for the sake of fame among their people.
+they don't know any tactics to hack , they just rely on the tools and software available in the market or internet to hack the system.
+
+#### 5.Hactivists
+
+They are like online versions of ACTIVISTS , it can be a hacker or a grp of hacker who anonymously hacks the server or the system of a org or the govt for social works and political works.
+
+
 
 ---
 
@@ -54,7 +70,7 @@ Ethical hacking is carried out by these type of hackers.
 - Laptops
 - webcams
 - routers
-- emails
+- emails(software)
 
 #### Prevention from Getting Hacked
 
@@ -74,28 +90,28 @@ There are basically 5 phases of hacking
 #### 1. Reconnaissance - 
 This is first step for starting the hacking procedure, which starts with ==gathering of information== of the target server or network or its any application.
 It can be done two ways 
-		1. active - in this the attacker directly gets the information from the site or the org getting attacked , or may be directly getting the data or privacy of the device which is getting to be hacked. So basicaaly it is a direct reference.
-		2. passive - this is like attacker will gather info. from diff sources , it can be like known employ of that org , or the social platforms.
+		1. active - in this the attacker directly gets the information from the site of the org getting attacked , or may be directly getting the data or privacy of the device which is to be hacked. So basically it is a direct reference.
+		2. passive - this is like attacker will gather info. from diff sources , it can be like social platforms.
 #### 2.Scanning - 
-Scanning the whole network or server or the application , identifying the threats or the vulnerabilities , searching for the loopholes through which they can get access to exploit the network or application.
+Scanning the whole network or server or the application , identifying the threats or the vulnerabilities , searching for the loopholes through which they can exploit that vulnerability and get access to the network or application.
 
 #### 3.Gaining Access - 
-Getting access to the particular network or the application or device , using that particular vulnerability as a window to attack on that particular device.
-The hacker tries to exploit that vulnerability and increase his privilege to the admin level and install the application that he needs or can modify his data.
+Getting access to the particular network or the application or device , by exploiting that particular vulnerability as a window to attack on that particular device.
+The hacker tries to exploit that vulnerability and increase his privilege to the admin level to get all the access of the network or software and install the application that he needs to install to do the hack and theft or to modify the data.
 
 ##### 4. Maintaining Access
-the main theme of maintaining access is to keep the hacker inside the network in the targeted system , This is until he gathers the data he deems valuable and until his all data gathering is done he has to maintain the access in the system.
+the main theme of maintaining access is to keep the hacker inside the network of the targeted system . This is until he gathers the data he deems valuable and until his all data gathering is done he has to maintain the access in the system.
 The hacker can keep the backdoor accessible by installing a hidden infrastructure like trojan horse, rootkits, and channels.
 #### 5.Clearing Track
 After the theft is complete and its time to come out of the system, the hacker has to clear all the footprints .The footprints can be the changes made by him in the system, or the software he has installed to gather data or get login access.
 
 This is the most imp part for the hacker to take care of, as he should not be traced.
-This phase also comes under maintaining access, as he has to clear his footprints to help avoid detection while maintaining access.
+This phase also comes under maintaining access, as he has to clear his footprints to avoid detection while maintaining access.
 
 
 ---
 #### Vulnerability -
-vulnerabilities are the weakness that can be exploited by cybercriminals to gain unauthorized access to a computer system.
+vulnerabilities are the weakness or the loopholes that can be exploited by cybercriminals to gain unauthorized access to a computer system.
 after exploiting(misusing )the vulnerability a cyber attacker can run malicious codes , install malware and steal sensitive data.
 
 #### Exploit 
@@ -104,7 +120,7 @@ It can be done by software , tools or malicious code.
 It can be a program or instruction designed to find the vulnerability, or the loop holes in the network to take advantage to gain access in the application or the system.
 
 #### Payload
-So payload is the thing which enters to the victims network or device and does the harm or steal data or any other sensitive info. 
+So payload is the thing which enters to the victims network or device and does the harm or steal data or any other sensitive info. It is famous for creating a impact in the victims system.
 Payload is the thing which will be the responsible for creating all the mess or loss.
 Stealing of sensitive info , or hacking the software, writing malicious codes , injecting codes etc.
 
@@ -203,9 +219,9 @@ Ways by which the MALWARE can enter to your system-->
 
 - Adware - is unwanted software designed to throw advertisements up on your screen, most often within a web browser.they simply trick you to click on it and then install the malware in your device.
 - Spyware - it secretly observes about the computer activities without the permissions and report to the adversery. It basically enters to the device by phishing or spoofing- by clicking the untrusted links or downloading some file from untrusted sources.
-- Virus - 
-- Worms
-- Trojan Horse
+- Virus - virus is a kind of malware which once gets inside the network or the system then starts replicating itself inside the system and infects the whole system. It just ==needs a human contact to start replicating== , it can be clicking on the some link or installing any software or file from untrusted location.
+- Worms - it is all over same as that of the VIRUS , there is just a small difference , that is ==it doesn't require any human contact for replication==, it does that automatically.
+- Trojan Horse - 
 - Ransomware
 - Rootkit
 - keylogger
@@ -249,4 +265,3 @@ Microsoft Antimalware for Azure is a single-agent solution for applications and 
 
 ---
 
-![[Pasted image 20240125193803.png]]
