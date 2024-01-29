@@ -23,11 +23,16 @@
             "id": "4f7369c73850321c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Defender for cloud.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
+                "file": "Defender for cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md",
+                "file": "Defender for cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Security Sessions.md"
+                "file": "Defender for cloud.md"
               }
             }
           }
@@ -158,10 +163,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b0b039d8a6a4b368",
+  "active": "4f7369c73850321c",
   "lastOpenFiles": [
-    "Assets/Pasted image 20240125193803.png",
+    "Defender for cloud.md",
     "Obsidian Vault/AZ 900/Security Sessions.md",
+    "Assets/Pasted image 20240125193803.png",
     "Obsidian Vault/AZ 900/AZURE MONITOR.md",
     "Assets/Pasted image 20240121153304.png",
     "Obsidian Vault/AZ 900/SECURITY BASICS.md",
