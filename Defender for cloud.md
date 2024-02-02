@@ -504,3 +504,21 @@ It provides benefits such as ==attack path analysis , vulnerability scanning , d
 - vulnerability scanning
 - data discovery
 - container and image scanning
+
+---
+
+#### basic difference between CSPM and CWP
+
+CSPM tools analyze the cloud setups to search for vulnerabilities, misconfigurations, and compliance violations. They offer suggestions for how the situation might be improved.
+whereas 
+
+
+
+----
+
+### What is infrastructure service insights ?
+
+|   |   |   |   |
+|---|---|---|---|
+|[Infrastructure service insights](https://learn.microsoft.com/en-us/azure/defender-for-cloud/asset-inventory)|Diagnose weaknesses in your application infrastructure that can leave your environment susceptible to attack.|- [Identify attacks targeting applications running over App Service](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-app-service-introduction)  <br>- [Detect attempts to exploit Key Vault accounts](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-key-vault-introduction)  <br>- [Get alerted on suspicious Resource Manager operations](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-resource-manager-introduction)  <br>- [Expose anomalous DNS activities](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-dns-introduction)|- Defender for App Service  <br>- Defender for Key Vault  <br>- Defender for Resource Manager  <br>- Defender for DNS|
+so basically in cloud workload protection there is a plan such that DEFENDER FOR APP SERVICE and in that plan if we enable that than we can 
