@@ -471,3 +471,13 @@ So for those scenarios the approach of AGENTLESS is preferred where they can pro
 Defender for cloud CSPM is providing numerous features by agentless based approach.
 It provides benefits such as ==attack path analysis , vulnerability scanning , data discovery== without the need of installing AGENTS.
 
+| **Capability categories** | **Agent-based security** | **Agentless security** |
+| ---- | ---- | ---- |
+| Deployment and maintenance | Need deployment/ maintenance, but can be optimized to reduce overhead | No deployment requirement |
+| Performance impact | Performance impact depends on type of agent deployed | No performance impact |
+| Asset discovery and inventory | Can gain deeper insights into workloads for threat collection | API-based, fast and complete discovery |
+| DevOps security | Not Applicable | DevOps Environment connectors helps community between DevOps security team |
+| Posture management and compliance | Comprehensive visibility on details such as installed software and patches | - Contextual mapping of cloud resources<br>    <br>- Risk prioritization<br>    <br>- Analysis of lateral movement |
+| Real-time threat response | Prevention, true real time threat detection& automatic response | Not main use case there because don’t have continuous monitoring |
+| Data security | Cloud native security | - No deployment requirement<br>    <br>- No performance impact<br>    <br>- Risk prioritization |
+
