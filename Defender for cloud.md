@@ -456,7 +456,7 @@ Recently the industry is moving towards Agentless due to the advantages it offer
 It gives seamless scalability, efficient resource consumption and reduced management complexity.
 
 
-## scenario 1
+## scenario 
 ### AGENT based approach
 
 It is beneficial if there is requirement of deep control and visibility over system process such as there  is mission critical system(like no electric power supply or internet connectivity or internet banking can be said as mission critical system).
@@ -481,3 +481,26 @@ It provides benefits such as ==attack path analysis , vulnerability scanning , d
 | Real-time threat response | Prevention, true real time threat detection& automatic response | Not main use case there because don’t have continuous monitoring |
 | Data security | Cloud native security | - No deployment requirement<br>    <br>- No performance impact<br>    <br>- Risk prioritization |
 
+### Benefits that make agent-based solutions an attractive choice:
+
+- **Deep Threat Protection**: Agent-based solutions excel in their ability to provide deep threat protection. With Microsoft Defender for Servers, the agent installed on each server allows for thorough scanning and robust protection by actively monitoring system changes, detecting unusual behavior, and responding instantly to potential security threats.
+- **Frequent Scanning**: Agent-based solutions enable more frequent scanning of servers. Since the agent is directly installed on the server, it can conduct real-time, continuous scanning, ensuring threats are detected and addressed swiftly.
+- **Leveraging File Integrity Monitoring (FIM****)**: File Integrity Monitoring is a vital feature of Microsoft Defender for Servers. FIM enables you to track and record any changes made to critical system files, configuration files, and content files. It helps identify unexpected or unauthorized changes that may signal a security breach.
+- **Utilizing Adaptive Application Controls**: A distinguishing feature of Microsoft Defender for Servers, Adaptive Application Controls, uses machine learning to analyze running applications on your servers and create a list of safe software. When these controls are configured, they alert you when any application runs outside those identified as safe. This enhances your server security by aiding in the identification of potential malware, maintaining compliance with local security policies, recognizing outdated or unsupported applications, and increasing oversight of apps accessing sensitive data.
+- **Deep System Insights**: An agent-based solution provides detailed insights into the server’s system processes. The agent's access to and monitoring of server activities on a granular level aid in understanding intricate patterns and anomalies that could indicate potential threats.
+- **Actionable Remediation**: Agent-based solutions often offer immediate and effective remediation actions during a security event. Because the agent is housed within the server, it can take rapid corrective measures, minimizing the potential impact of a security breach.
+
+### benefits of agentless in dcspm:
+
+- Simplified deployment and scalability
+- efficient resource consumption
+- Cross platform compatibility and flexibility
+- reduces management complexity and workload on managing the security
+
+
+#### Services by Microsoft defender for cloud
+
+- Attack path analysis
+- vulnerability scanning
+- data discovery
+- container and image scanning
