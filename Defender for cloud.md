@@ -451,3 +451,23 @@ and when Endpoint detection and response solutions(EDR) and security information
 #### What is AGENTLESS based protection?
 
 In this rather than deploying an agent within workloads to gather and transmit information , security data is collected using NON-INVASIVE methods , such as ==cloud image analysis== , ==log file analysis==  , and ==API  connections== .
+This approach significantly reduces management overhead and negates the need for constant maintenance of the deployed agent.
+Recently the industry is moving towards Agentless due to the advantages it offers , especially in large scale and complex cloud environments.
+It gives seamless scalability, efficient resource consumption and reduced management complexity.
+
+
+## scenario 1
+### AGENT based approach
+
+It is beneficial if there is requirement of deep control and visibility over system process such as there  is mission critical system(like no electric power supply or internet connectivity or internet banking can be said as mission critical system).
+So these system require a high level of  monitoring and management and control which only AGENT based can provide.
+
+### AGENTLESS based approach 
+Now the agentless protection basically provided by the Microsoft dfc is ideal for a situation where detailed monitoring is waste and impractical.
+So for those scenarios the approach of AGENTLESS is preferred where they can protect by using invasive methods.
+
+
+### Agentless capabilities
+Defender for cloud CSPM is providing numerous features by agentless based approach.
+It provides benefits such as ==attack path analysis , vulnerability scanning , data discovery== without the need of installing AGENTS.
+
