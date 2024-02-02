@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fe342be10669b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Defender for cloud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,10 +163,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b0b039d8a6a4b368",
+  "active": "0fe342be10669b50",
   "lastOpenFiles": [
-    "ARC.md",
     "Defender for cloud.md",
+    "ARC.md",
     "Obsidian Vault/AZ 900/Security Sessions.md",
     "Assets/Pasted image 20240125193803.png",
     "Obsidian Vault/AZ 900/AZURE MONITOR.md",

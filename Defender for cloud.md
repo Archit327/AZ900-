@@ -439,3 +439,15 @@ It accesses your compliance and security posture based on the controls of certai
 
 ---
 
+### Agent based and agentless security protection
+
+#### What is AGENT based protection?
+
+cloud security is piece of agent that can be installed on cloud based or on-prem workloads.
+its purpose is to gain or attain in-depth visibility.
+It is deployed to configure real time threat protection and comprehensive monitoring of individual workloads.
+and when Endpoint detection and response solutions(EDR) and security information and event management software (siem) are combined then we can get synthesized and corelated data and cross platform security incidents.
+
+#### What is AGENTLESS based protection?
+
+In this rather than deploying an agent within workloads to gather and transmit information , security data is collected using NON-INVASIVE methods , such as ==cloud image analysis== , ==log file analysis==  , and ==API  connections== .
