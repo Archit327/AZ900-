@@ -534,6 +534,35 @@ so DNS check that there is no data exfiltration  ,
 app service will check there is no anomalies 
 key vault will safeguards encryption keys and secrets like certificates, connection strings, and passwords.
 
+If we talk about use case scenarios then it can be said that
+Agent-based security is highly suitable for networks with standard configurations andback case and guard systems and also has simple workloads. Importantly, agent-based security is highly secured and effective in collecting data, but you have to configure it for each endpoint manually.
+
+Agentless security will be an ideal choice for your organization if you are looking for a solution that will be compatible with your large and complex network. This solution is more suited to work with workloads that are constantly changing and for environments that work with APIs.
+
+Agent-based security also can enforce security policies, perform scans, and mitigate vulnerability when the network is offline, but agentless is entirely dependent on the network.
+
+-------
 
 
-service endpoints and private end points
+**Agent-based Scanning:**
+
+**More likely to benefit:**
+
+- **Organizations with high-security needs:** Banks, healthcare providers, and government agencies dealing with sensitive data often require deep in-depth vulnerability assessments and real-time threat detection. Agent-based solutions offer granular control and comprehensive protection.
+- **Organizations with manageable IT infrastructure:** Companies with a limited number of critical systems on-premises benefit from the focused protection of agents. Installation and management become less of a burden in smaller, controlled environments.
+- **Organizations with sufficient resources:** Running agents requires additional processing power and memory. Companies with robust IT infrastructure and budget allocated for security can handle the resource impact.
+
+**Agentless Scanning:**
+
+**More likely to benefit:**
+
+- **Large, distributed organizations:** Companies with thousands of devices across various locations, including BYOD environments, find agentless scanning easier to deploy and manage. The lightweight nature is suitable for scaling across diverse endpoints.
+- **Organizations with dynamic environments:** Cloud-based companies or those with frequent infrastructure changes benefit from the agentless approach's ability to scan without requiring installation on every new device.
+- **Organizations with resource constraints:** Companies with limited processing power or budget constraints find agentless scanning less resource-intensive, making it a more feasible option.
+
+**Hybrid Approach:**
+
+**Most organizations benefit from a hybrid approach:** This combines the strengths of both methods for comprehensive coverage. Critical systems can have agents for in-depth protection, while other endpoints leverage agentless scanning for broader reach and easier management.
+
+
+
