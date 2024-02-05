@@ -521,4 +521,19 @@ whereas
 |   |   |   |   |
 |---|---|---|---|
 |[Infrastructure service insights](https://learn.microsoft.com/en-us/azure/defender-for-cloud/asset-inventory)|Diagnose weaknesses in your application infrastructure that can leave your environment susceptible to attack.|- [Identify attacks targeting applications running over App Service](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-app-service-introduction)  <br>- [Detect attempts to exploit Key Vault accounts](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-key-vault-introduction)  <br>- [Get alerted on suspicious Resource Manager operations](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-resource-manager-introduction)  <br>- [Expose anomalous DNS activities](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-dns-introduction)|- Defender for App Service  <br>- Defender for Key Vault  <br>- Defender for Resource Manager  <br>- Defender for DNS|
-so basically in cloud workload protection there is a plan such that DEFENDER FOR APP SERVICE and in that plan if we enable that than we can 
+Infrastructure service insights means that any application or the app service has some backend working for its security and consistency is referred to as a infrastructure service and for having a lookout or monitoring for that backend can be referred as its insights.
+
+so basically in cloud workload protection there are plans like 
+- ==DEFENDER FOR APP SERVICE , 
+- ==defender for DNS and 
+- ==defender for resource manager and also 
+- ==defender for key vaults== 
+
+so they all work on the backend and have insights of the infrastructure.
+so DNS check that there is no data exfiltration  , 
+app service will check there is no anomalies 
+key vault will safeguards encryption keys and secrets like certificates, connection strings, and passwords.
+
+
+
+service endpoints and private end points
