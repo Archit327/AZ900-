@@ -532,7 +532,7 @@ so basically in cloud workload protection there are plans like
 so they all work on the backend and have insights of the infrastructure.
 so DNS check that there is no data exfiltration  , 
 app service will check there is no anomalies 
-key vault will safeguards encryption keys and secrets like certificates, connection strings, and passwords.
+key vault will safeguards encryption keys and secrets like certificates, connection strings.
 
 If we talk about use case scenarios then it can be said that
 Agent-based security is highly suitable for networks with standard configurations andback case and guard systems and also has simple workloads. Importantly, agent-based security is highly secured and effective in collecting data, but you have to configure it for each endpoint manually.

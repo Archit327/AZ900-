@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AZ 900/EDR vs XDR vs MDR.md",
+                "file": "Defender for cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/AZ 900/EDR vs XDR vs MDR.md",
+                "file": "Defender for cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/AZ 900/EDR vs XDR vs MDR.md",
+                "file": "Defender for cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/AZ 900/EDR vs XDR vs MDR.md"
+                "file": "Defender for cloud.md"
               }
             }
           }
@@ -153,8 +152,8 @@
   "active": "b0b039d8a6a4b368",
   "lastOpenFiles": [
     "Obsidian Vault/AZ 900/Agent vs Agentless.md",
-    "Obsidian Vault/AZ 900/EDR vs XDR vs MDR.md",
     "Defender for cloud.md",
+    "Obsidian Vault/AZ 900/EDR vs XDR vs MDR.md",
     "ARC.md",
     "Obsidian Vault/AZ 900/Security Sessions.md",
     "Assets/Pasted image 20240125193803.png",
