@@ -565,4 +565,44 @@ Agent-based security also can enforce security policies, perform scans, and miti
 **Most organizations benefit from a hybrid approach:** This combines the strengths of both methods for comprehensive coverage. Critical systems can have agents for in-depth protection, while other endpoints leverage agentless scanning for broader reach and easier management.
 
 
+----
 
+### Defender for key vaults
+
+Azure Key Vault is a cloud service that safeguards encryption keys and secrets like certificates, connection strings, and passwords.
+
+Enable **Microsoft Defender for Key Vault** for Azure-native, advanced threat protection for Azure Key Vault, providing an additional layer of security intelligence.
+
+#### benefits of Microsoft Defender for Key Vault
+
+- detects unusual and potentially harmful attempts to access or exploit Key Vault accounts
+- shows alerts and optionally sends them via email to relevant members of your organization.
+- alerts include the details of the suspicious activity and recommendations on how to investigate and remediate threats.
+- Alerts from Microsoft Defender for Key Vault includes these elements:
+	- Object ID, User Principal Name or IP address of the suspicious resource
+
+
+#### Investigation & Remediation Steps
+
+Step 1 :
+	Identify the source - if it is insider or known then investigate and ask if it is legitimate or not.
+Step 2: if not identified then check the IP associated with the alert which tried to access. enable the azure key vault firewall
+	may be unknown application tried to access. check the security principals or the best practices and restrict the operations.
+step 3: if the alert shows the microsoft entra role in ur tenant then reach out to the administrator and determine how to reduce or revoke the permissions.
+
+basic Alerts  types - for azure key vaults 
+- **Access from a suspicious IP address to a key vault**
+- **Access from a TOR exit node to a key vault**
+- **High volume of operations in a key vault**
+- **Unusual application accessed a key vault**
+
+---
+
+### Defender for resource manager
+
+- It is the deployment and management service for Azure
+- . It provides a management layer that enables you to create, update, and delete resources in your Azure account
+- we can use management features like locks and tags for organizing the resources
+- Since it manages all the azure resources therefore it is the potential target for the adversaries to attack.
+- It reviews all the operations performed - whether they are performed from portal or azure CLI 
+- 
