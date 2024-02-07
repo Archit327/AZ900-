@@ -601,8 +601,20 @@ basic Alerts  types - for azure key vaults
 ### Defender for resource manager
 
 - It is the deployment and management service for Azure
-- . It provides a management layer that enables you to create, update, and delete resources in your Azure account
+- It provides a management layer that enables you to create, update, and delete resources in your Azure account
 - we can use management features like locks and tags for organizing the resources
 - Since it manages all the azure resources therefore it is the potential target for the adversaries to attack.
 - It reviews all the operations performed - whether they are performed from portal or azure CLI 
+- Defender for resource manager will run advanced security analytics to detect threats and alerts you about suspicious activity.
+
+
+#### benefits of Microsoft Defender for Resource Manager
+- **Suspicious resource management operations**, such as operations from malicious IP addresses, disabling antimalware, and suspicious scripts running in VM extensions
+- **Use of exploitation toolkits** like Microburst or PowerZure
+- **Lateral movement** from the Azure management layer to the Azure resources data plane
+
+
+#### Investigation & Remediation Steps
+
+- verify with the resource owner if the activity was expected or not , if not then treat the related user accounts, subscriptions, and virtual machines as compromised and mitigate the issue.
 - 
