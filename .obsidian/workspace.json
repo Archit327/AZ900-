@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/AZ 900/CWPP.md",
+                "file": "Defender for cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/AZ 900/CWPP.md",
+                "file": "Defender for cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/AZ 900/CWPP.md"
+                "file": "Defender for cloud.md"
               }
             }
           }
@@ -162,10 +161,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ea2751718913e2b4",
+  "active": "b0b039d8a6a4b368",
   "lastOpenFiles": [
-    "Defender for cloud.md",
     "Obsidian Vault/AZ 900/CWPP.md",
+    "Defender for cloud.md",
     "Obsidian Vault/AZ 900/Agent vs Agentless.md",
     "Obsidian Vault/AZ 900/EDR vs XDR vs MDR.md",
     "ARC.md",
