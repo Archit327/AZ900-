@@ -619,3 +619,16 @@ basic Alerts  types - for azure key vaults
 
 
 
+----
+•Microsoft Defender vulnerability management
+
+•Automatic agent onboarding, alert and data integration
+
+•Generates detailed, context-based, security alerts easily integrated with any SIEM
+
+•Attack Surface Reduction
+
+•Automatic Investigation and Response
+
+
+---

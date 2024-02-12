@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Agent vs Agentless.md",
+                "file": "Defender for cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Agent vs Agentless.md",
+                "file": "Defender for cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Agent vs Agentless.md",
+                "file": "Defender for cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/AZ 900/Agent vs Agentless.md"
+                "file": "Defender for cloud.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "eb0c5e32c3096f4f",
   "lastOpenFiles": [
+    "Obsidian Vault/AZ 900/Agent vs Agentless.md",
     "Assets/Recording 20240210155347.webm",
     "Assets/Pasted image 20231107164706.png",
     "Networking Task/Network task 5 FIREWALL.md",
@@ -172,7 +173,6 @@
     "Obsidian Vault/AZ 900/AZURE Identity ,access and security.md",
     "Obsidian Vault/AZ 900/ALZ.md",
     "Obsidian Vault/AZ 900/CWPP.md",
-    "Obsidian Vault/AZ 900/Agent vs Agentless.md",
     "Obsidian Vault/AZ 900/EDR vs XDR vs MDR.md",
     "Obsidian Vault/AZ 900/Security Sessions.md",
     "Assets/Pasted image 20240125193803.png",
