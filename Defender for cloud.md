@@ -6,7 +6,6 @@ What is XDR?
 features of DFC?
 
 
-
 Cloud security explorer
 it equips security admins and power users with query based tools and starter templates for risk hunting and resource exploring , enabling user to query the graph for their own custom findings.
 
@@ -617,4 +616,6 @@ basic Alerts  types - for azure key vaults
 #### Investigation & Remediation Steps
 
 - verify with the resource owner if the activity was expected or not , if not then treat the related user accounts, subscriptions, and virtual machines as compromised and mitigate the issue.
-- 
+
+
+

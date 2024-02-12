@@ -11,6 +11,7 @@ and when Endpoint detection and response solutions(EDR) and security information
 
 In this rather than deploying an agent within workloads to gather and transmit information , security data is collected using NON-INVASIVE methods , such as ==cloud image analysis== , ==log file analysis==  , and ==API  connections== .
 This approach significantly reduces management overhead and negates the need for constant maintenance of the deployed agent.
+
 Recently the industry is moving towards Agentless due to the advantages it offers , especially in large scale and complex cloud environments.
 It gives seamless scalability, efficient resource consumption and reduced management complexity.
 
