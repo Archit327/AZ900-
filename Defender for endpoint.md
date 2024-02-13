@@ -45,6 +45,7 @@ Expand table
 
 
  [Step 4 - Onboard devices](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/onboarding?view=o365-worldwide): Assess and onboard your devices to Defender for Endpoint.
+
  [Step 5 - Configure capabilities](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/onboard-configure?view=o365-worldwide): You're now ready to configure Defender for Endpoint security capabilities to protect your devices.
 
 
@@ -65,3 +66,30 @@ Expand table
 |Management engine|Management engine name and version (for example, System Center Configuration Manager Current Branch 1803).|
 |CDOC distribution|High level CDOC structure (for example, Tier 1 outsourced to Contoso, Tier 2 and Tier 3 in-house distributed across Europe and Asia).|
 |Security information and event (SIEM)|SIEM technology in use.|
+
+
+Microsoft Defender for Endpoint Plan 1 (P1)
+
+P1 includes: - Next-generation protection (includes antimalware and antivirus) 
+- Attack surface reduction 
+- Manual response actions 
+- Centralized management 
+- Security reports 
+- APIs 
+- Support for Windows 10, Windows 11, iOS, Android OS, and macOS **devices**
+
+
+Microsoft Defender for Endpoint Plan 2 (P2)
+
+P2 includes Defender for Endpoint Plan 1 capabilities, plus: 
+- Device discovery 
+- Device inventory 
+- Core Defender Vulnerability Management capabilities 
+- Threat Analytics 
+- Automated investigation and response 
+- Advanced hunting 
+- Endpoint detection and response 
+- Endpoint Attack Notifications 
+- Support for Windows client and server 
+- Support for Non-Windows platforms (macOS, iOS, Android, and Linux)
+
