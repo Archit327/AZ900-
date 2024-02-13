@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defender for endpoint.md",
+                "file": "Defender for cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defender for endpoint.md",
+                "file": "Defender for cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Defender for endpoint.md"
+                "file": "Defender for cloud.md"
               }
             }
           },
@@ -171,11 +170,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6e92cdffda351164",
+  "active": "eb0c5e32c3096f4f",
   "lastOpenFiles": [
+    "Defender for endpoint.md",
     "Assets/Pasted image 20240213130154.png",
     "Defender for cloud.md",
-    "Defender for endpoint.md",
     "Obsidian Vault/AZ 900/Agent vs Agentless.md",
     "Assets/Recording 20240210155347.webm",
     "Assets/Pasted image 20231107164706.png",
