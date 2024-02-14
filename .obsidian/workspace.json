@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "onboarding 2019 server.md",
+                "file": "Defender for endpoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "onboarding 2019 server.md",
+                "file": "Defender for endpoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "onboarding 2019 server.md"
+                "file": "Defender for endpoint.md"
               }
             }
           },
@@ -183,11 +183,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "10b054b588c5a7ff",
+  "active": "6e92cdffda351164",
   "lastOpenFiles": [
+    "onboarding 2019 server.md",
     "Assets/Pasted image 20240214173339.png",
     "Defender for endpoint.md",
-    "onboarding 2019 server.md",
     "Defender for cloud.md",
     "Assets/Pasted image 20240213130154.png",
     "Obsidian Vault/AZ 900/Agent vs Agentless.md",

@@ -11,3 +11,8 @@ step 7- now provide all the details of the new vm , such that name , size and ha
 
 ![[Pasted image 20240214173339.png]]
 
+
+
+direct onboard
+arc enabled servers
+local script
