@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10b054b588c5a7ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "onboarding 2019 server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defender for cloud.md",
+                "file": "onboarding 2019 server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defender for cloud.md",
+                "file": "onboarding 2019 server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Defender for cloud.md"
+                "file": "onboarding 2019 server.md"
               }
             }
           },
@@ -170,11 +183,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "eb0c5e32c3096f4f",
+  "active": "10b054b588c5a7ff",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240214173339.png",
     "Defender for endpoint.md",
-    "Assets/Pasted image 20240213130154.png",
+    "onboarding 2019 server.md",
     "Defender for cloud.md",
+    "Assets/Pasted image 20240213130154.png",
     "Obsidian Vault/AZ 900/Agent vs Agentless.md",
     "Assets/Recording 20240210155347.webm",
     "Assets/Pasted image 20231107164706.png",

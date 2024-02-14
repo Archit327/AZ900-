@@ -12,7 +12,7 @@ it equips security admins and power users with query based tools and starter tem
 
 Defender for cloud really is something that we call a synapse solution.
 
-And cnap is a terme that was defined by Gartner and just stands for Cloud Native Application Protection Platform
+And cnap is a term that was defined by Gartner and just stands for Cloud Native Application Protection Platform
 
 
 Cloud security posture management
