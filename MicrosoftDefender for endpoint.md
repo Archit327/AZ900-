@@ -1,4 +1,37 @@
-u
+Naming conventions --
+At ==launch time - it was named as WINDOWS DEFENDER ATP==
+Then later changed to Microsoft Defender ATP
+and ==currently it is Known as microsoft defender for endpoint==
+
+Portal url - https://security.microsoft.com
+
+What is MDE?
+So basically to saying in very simple terms it can be said as a solution for  securing the endpoints from cyber threats , those endpoints can be the PCs , domain joined devices or other personal devices.
+
+Why do we exactly use MDE?
+The uses can be divided into 4 baseline stages-
+1. Prevent - giving u the right setr of info to evaluate the environment and prevent the threat
+2. Detect - it detects the threat by evaluating the whole environment where there is loophole or a certain resource which is not secure .
+3. Investigate - It goes through all the possibilities and figures out the causes or the vulnerability in the environment or the resources 
+4. Respond - after identifying all the vulnerability and causes of threat  it also helps to remediate them with most effective and convenient way possible.
+
+---
+### Components of MDE
+![[Pasted image 20240218173711.png]]
+
+While first time opening the wizard of MDE you have to provide the data center location. The locations present are US, UK, Europe.
+
+---
+### License Requirements
+  
+1. ==Defender for endpoint Plan 1 and Plan2==
+2. ==Microsoft Defender for Business==
+3. If u want to onboard servers ==MDE for servers==
+4. ==Microsoft defender for BUSINESS server==
+
+Here is a imp thing to note --> For every active license that u have assigned to a user u can get 5 devices for that user. 
+
+----
 
 Maximize available security capabilities and better protect your enterprise from cyber threats by deploying Microsoft Defender for Endpoint and onboarding your devices. Onboarding your devices will enable you to identify and stop threats quickly, prioritize risks, and evolve your defenses across operating systems and network devices.
 
@@ -92,4 +125,5 @@ P2 includes Defender for Endpoint Plan 1 capabilities, plus:
 - Endpoint Attack Notifications 
 - Support for Windows client and server 
 - Support for Non-Windows platforms (macOS, iOS, Android, and Linux)
+
 
