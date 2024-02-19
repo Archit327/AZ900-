@@ -32,6 +32,10 @@ While first time opening the wizard of MDE you have to provide the data center l
 Here is a imp thing to note --> For every active license that u have assigned to a user u can get 5 devices for that user. 
 
 ----
+### RBAC in MDE
+
+
+---
 
 Maximize available security capabilities and better protect your enterprise from cyber threats by deploying Microsoft Defender for Endpoint and onboarding your devices. Onboarding your devices will enable you to identify and stop threats quickly, prioritize risks, and evolve your defenses across operating systems and network devices.
 
