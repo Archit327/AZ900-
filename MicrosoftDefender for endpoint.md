@@ -49,6 +49,19 @@ Maximize available security capabilities and better protect your enterprise from
 
 This guide provides five steps to help deploy Defender for Endpoint as your multi-platform endpoint protection solution. It will help you choose the best deployment tool, onboard devices, and configure capabilities. Each step corresponds to a separate article.
 
+---
+#### What should be your deployment Plan
+
+![[Pasted image 20240219185209.png]]
+
+So it has 5 STAGES
+1. Deployment Type- decide the type of deployment method you would like to use for onboarding or deploying your all devices.
+2. Prepare - prepare your environment accordingly
+
+
+
+---
+
 The steps to deploy Defender for Endpoint are:
 
 [![The deployment steps](https://learn.microsoft.com/en-us/microsoft-365/media/defender-endpoint/onboard-mde.png?view=o365-worldwide)](https://learn.microsoft.com/en-us/microsoft-365/media/defender-endpoint/onboard-mde.png?view=o365-worldwide#lightbox)

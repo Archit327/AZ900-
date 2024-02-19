@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "onboarding 2019 server.md",
+                "file": "Defender for cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "onboarding 2019 server.md",
+                "file": "Defender for cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "onboarding 2019 server.md"
+                "file": "Defender for cloud.md"
               }
             }
           },
@@ -184,12 +183,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "10b054b588c5a7ff",
+  "active": "eb0c5e32c3096f4f",
   "lastOpenFiles": [
-    "Assets/Pasted image 20240219181726.png",
     "MicrosoftDefender for endpoint.md",
-    "Assets/Pasted image 20240219163514.png",
+    "Assets/Pasted image 20240219185209.png",
     "onboarding 2019 server.md",
+    "Assets/Pasted image 20240219181726.png",
+    "Assets/Pasted image 20240219163514.png",
     "Assets/Pasted image 20240219162247.png",
     "Excalidraw/Drawing 2024-02-18 23.07.32.excalidraw.md",
     "Defender for cloud.md",
@@ -210,9 +210,7 @@
     "Obsidian Vault/AZ 900/CWPP.md",
     "Obsidian Vault/AZ 900/EDR vs XDR vs MDR.md",
     "Obsidian Vault/AZ 900/Security Sessions.md",
-    "Assets/Pasted image 20240125193803.png",
     "Obsidian Vault/AZ 900/AZURE MONITOR.md",
-    "Assets/Pasted image 20240121153304.png",
     "Obsidian Vault/AZ 900/SECURITY BASICS.md",
     "Obsidian Vault/AZ 900/Network Presentation.md",
     "Obsidian Vault/AZ 900/Load balancer.md",
