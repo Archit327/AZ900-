@@ -33,6 +33,14 @@ Here is a imp thing to note --> For every active license that u have assigned to
 
 ----
 ### RBAC in MDE
+To get ==FULL ACCESS== u should have ==Security Administrator or GLOBAL ADMIN role==
+
+For ==reader access== u should have ==SECURITY READER==
+
+You can create custom role accordingly if u have global admin role or security admin role
+
+![[Pasted image 20240219163514.png]]
+
 
 
 ---
@@ -69,7 +77,6 @@ Expand table
 
 Once you have determined the architecture of your environment and have created an inventory as outlined in the [requirements section](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/mde-planning-guide?view=o365-worldwide#requirements), use the table below to select the appropriate deployment tools for the endpoints in your environment. This will help you plan the deployment effectively.
 
-Expand table
 
 |Endpoint|Deployment tool|
 |---|---|

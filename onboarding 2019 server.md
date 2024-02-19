@@ -16,3 +16,13 @@ step 7- now provide all the details of the new vm , such that name , size and ha
 direct onboard
 arc enabled servers
 local script
+
+
+
+onboarding linux server -->
+Prerequisites 
+![[Pasted image 20240219181726.png]]
+
+
+
+![[Pasted image 20240219162247.png]]
