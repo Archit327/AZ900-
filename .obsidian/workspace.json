@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defender for cloud.md",
+                "file": "MicrosoftDefender for endpoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defender for cloud.md",
+                "file": "MicrosoftDefender for endpoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Defender for cloud.md"
+                "file": "MicrosoftDefender for endpoint.md"
               }
             }
           },
@@ -183,8 +184,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "eb0c5e32c3096f4f",
+  "active": "6e92cdffda351164",
   "lastOpenFiles": [
+    "Defender for cloud.md",
     "MicrosoftDefender for endpoint.md",
     "Assets/Pasted image 20240219185209.png",
     "onboarding 2019 server.md",
@@ -192,7 +194,6 @@
     "Assets/Pasted image 20240219163514.png",
     "Assets/Pasted image 20240219162247.png",
     "Excalidraw/Drawing 2024-02-18 23.07.32.excalidraw.md",
-    "Defender for cloud.md",
     "Assets/Pasted image 20240218173711.png",
     "Assets/Pasted image 20240214173339.png",
     "Assets/Pasted image 20240213130154.png",
