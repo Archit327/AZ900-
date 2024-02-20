@@ -88,7 +88,7 @@
 
 
 ----
-Certainly! Let’s compare **Defender for Servers Plan 2** and **Defender for Business Servers**:
+Compare **Defender for Servers Plan 2** and **Defender for Business Servers**:
 
 1. **Defender for Servers Plan 2**:
     
@@ -118,3 +118,16 @@ In summary, if you need comprehensive server protection with extended capabiliti
 
 
 ---
+Which type of org needs M365 Business Premium
+
+
+
+
+---
+### Microsoft Defender  for Business
+
+It is an endpoint security solutions designed specially for small and medium size organizations or businesses(upto 300 employees).
+
+![[Pasted image 20240220220041.png]]
+
+
