@@ -1,0 +1,85 @@
+
+![[Pasted image 20240220151909.png]]
+
+![[Pasted image 20240220151933.png]]
+
+
+
+## Features
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon01_RE44NVe?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Do more with Microsoft 365 apps
+    
+    Get the latest features and capabilities with fully installed and always up-to-date versions of Outlook, Word, Excel, PowerPoint for Windows or Mac, OneNote (features vary), and Access and Publisher (PC only).
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon04_RE453nX?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Defend against cyberthreats
+    
+    Activate Microsoft Defender for Office 365 to help guard against viruses, spam, unsafe attachments, suspicious links, and phishing attacks.
+    
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon03_RE450Zu?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Use 1 TB cloud storage per user
+    
+    Edit and share documents, photos, and other files from anywhere on all your devices with 1 TB of OneDrive cloud storage.
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon06_RE44Lop?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Manage mobile devices, tablets, and computers
+    
+    Apply security policies to help protect work data on company-owned and employee devices. Keep company data within approved apps. Remove business data from lost or stolen devices with Microsoft Intune.
+    
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon05_RE44Lom?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Get email and calendaring
+    
+    Use enterprise-grade email through Outlook with a 50 GB mailbox per user and send attachments of up to 150 MB.
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon08_RE44NVh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Enable secure remote access and protect identity
+    
+    Help employees securely access business apps wherever they work with conditional access. Safeguard against password loss or theft with advanced multifactor authentication.
+    
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon07_RE44Qyb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Collaborate with instant messaging and online meetings
+    
+    Get your team on the same page using group chat, online meetings, calling, and web conferencing with Microsoft Teams.
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_SimplifiedMultiUser_80x35_RE4mHyw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Help protect business data
+    
+    Encrypt sensitive emails and restrict copying and forwarding of confidential business information with Azure Information Protection. Enable unlimited cloud archiving.
+    
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon02_RE44Qy8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Streamline appointment scheduling with customers and partners
+    
+    Simplify how customers schedule and manage appointments with Microsoft Bookings. Provide your customers with an easy-to-navigate webpage where they can find and book appointments around the clock.
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWVJHP_RWWcgn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Get enterprise-grade endpoint security with Microsoft Defender for Business
+    
+    Increase protection against sophisticated ransomware attacks across devices—Windows, macOS, Android, and iOS[4](https://www.microsoft.com/en-in/microsoft-365/business/microsoft-365-business-premium?activetab=pivot:overviewtab#footnote3)—with next-generation antivirus, endpoint detection, and response.
+    
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-video-editing-tools-80x35?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Video editing tools 
+    
+    Create and share professional-looking videos with Microsoft Clipchamp.
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-organize-projects-and-ideas-80x35?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+    
+    ### Organize projects and ideas
+    
+    Think, plan, and create together in collaborative workspaces with Microsoft Loop.

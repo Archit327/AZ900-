@@ -19,7 +19,7 @@ The uses can be divided into 4 baseline stages-
 ### Components of MDE
 ![[Pasted image 20240218173711.png]]
 
-While first time opening the wizard of MDE you have to provide the data center location. The locations present are US, UK, Europe.
+==While first time opening the wizard of MDE you have to provide the data center location. The locations present are US, UK, Europe.==
 
 ---
 ### License Requirements
