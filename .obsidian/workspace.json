@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MicrosoftDefender for endpoint.md",
+                "file": "Licenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MicrosoftDefender for endpoint.md",
+                "file": "Licenses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MicrosoftDefender for endpoint.md"
+                "file": "Licenses.md"
               }
             }
           },
@@ -196,12 +196,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6e92cdffda351164",
+  "active": "6e397b6621a7b00f",
   "lastOpenFiles": [
+    "MicrosoftDefender for endpoint.md",
     "Licenses.md",
     "Assets/Pasted image 20240220151933.png",
     "Assets/Pasted image 20240220151909.png",
-    "MicrosoftDefender for endpoint.md",
     "Defender for cloud.md",
     "Assets/Pasted image 20240219185209.png",
     "onboarding 2019 server.md",
