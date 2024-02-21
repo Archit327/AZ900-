@@ -3,90 +3,6 @@
 
 ![[Pasted image 20240220151933.png]]
 
-
-
-## Features
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon01_RE44NVe?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Do more with Microsoft 365 apps
-    
-    Get the latest features and capabilities with fully installed and always up-to-date versions of Outlook, Word, Excel, PowerPoint for Windows or Mac, OneNote (features vary), and Access and Publisher (PC only).
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon04_RE453nX?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Defend against cyberthreats
-    
-    Activate Microsoft Defender for Office 365 to help guard against viruses, spam, unsafe attachments, suspicious links, and phishing attacks.
-    
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon03_RE450Zu?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Use 1 TB cloud storage per user
-    
-    Edit and share documents, photos, and other files from anywhere on all your devices with 1 TB of OneDrive cloud storage.
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon06_RE44Lop?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Manage mobile devices, tablets, and computers
-    
-    Apply security policies to help protect work data on company-owned and employee devices. Keep company data within approved apps. Remove business data from lost or stolen devices with Microsoft Intune.
-    
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon05_RE44Lom?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Get email and calendaring
-    
-    Use enterprise-grade email through Outlook with a 50 GB mailbox per user and send attachments of up to 150 MB.
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon08_RE44NVh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Enable secure remote access and protect identity
-    
-    Help employees securely access business apps wherever they work with conditional access. Safeguard against password loss or theft with advanced multifactor authentication.
-    
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon07_RE44Qyb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Collaborate with instant messaging and online meetings
-    
-    Get your team on the same page using group chat, online meetings, calling, and web conferencing with Microsoft Teams.
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_SimplifiedMultiUser_80x35_RE4mHyw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Help protect business data
-    
-    Encrypt sensitive emails and restrict copying and forwarding of confidential business information with Azure Information Protection. Enable unlimited cloud archiving.
-    
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon02_RE44Qy8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Streamline appointment scheduling with customers and partners
-    
-    Simplify how customers schedule and manage appointments with Microsoft Bookings. Provide your customers with an easy-to-navigate webpage where they can find and book appointments around the clock.
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWVJHP_RWWcgn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Get enterprise-grade endpoint security with Microsoft Defender for Business
-    
-    Increase protection against sophisticated ransomware attacks across devices—Windows, macOS, Android, and iOS[4](https://www.microsoft.com/en-in/microsoft-365/business/microsoft-365-business-premium?activetab=pivot:overviewtab#footnote3)—with next-generation antivirus, endpoint detection, and response.
-    
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-video-editing-tools-80x35?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Video editing tools 
-    
-    Create and share professional-looking videos with Microsoft Clipchamp.
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-organize-projects-and-ideas-80x35?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
-    
-    ### Organize projects and ideas
-    
-    Think, plan, and create together in collaborative workspaces with Microsoft Loop.
-
-
-
-
 ----
 Compare **Defender for Servers Plan 2** and **Defender for Business Servers**:
 
@@ -124,10 +40,55 @@ Which type of org needs M365 Business Premium
 
 
 ---
-### Microsoft Defender  for Business
+## ==Comparision 1== 
+### 1. Microsoft Defender for Business & MDE plan 1 & 2
 
 It is an endpoint security solutions designed specially for small and medium size organizations or businesses(upto 300 employees).
 
 ![[Pasted image 20240220220041.png]]
 
 
+pretty much all the features available in defender for endpoint plan 1 is same as of in defender for business.
+
+requirements-->
+license --> Defender for business comes with its own standalone license that would be shown down below
+![[Pasted image 20240221151753.png]]
+
+
+So defender fro business doesnt have the feature of deploying server to the endpoint thus it also brings one more license which can be added to the this particular defender for business license. that add-on license is nothing but ==defender for business server==.
+
+- also defender for business license can be included in m365 business premium license.
+- and if we talk about defender for endpoint 
+
+![[Pasted image 20240221153437.png]]
+
+So basically what can we conclude that defender for plan 1 and plan 2 are both included in m365 E3 and E5 licenses respectively such that plan 1 is enabled with m365 E3 and if u want plan 2 then u must have m365 E5 license. 
+### Features of defender for business
+![[Pasted image 20240221152318.png]]
+### Defender for endpoint Plan 1 & 2
+
+![[Pasted image 20240221152414.png]]
+
+
+Both the license have almost same functionality of threat & vulnerability management , attack surface reduction , next gen protection , endpoint detection end response , auto investigation and remediation. 
+
+
+But the usecase they are made or can be used are different such that defender for business is license used by small medium business organizations having employees upto 300.
+
+But for defender for endpoint plan 1 and 2 are used by large organizations, which consist of employees more than 300.
+
+But its not a compulsory for any small org to use the defender for business license it can also take the license of m365E5 its all upto them.
+
+
+## ==comparision 2==
+
+### defender for business server  and defender for server plan 1 & 2
+
+requirements -
+
+| defender for business server                                                   | defender fro server plan 1&2        |
+| ------------------------------------------------------------------------------ | ----------------------------------- |
+| requires either M365 business premium license or defender for business license | u have to enable defender for cloud |
+| this can be done on Microsoft defender portal                                  | this can be done on azure portal    |
+|                                                                                |                                     |
+	
