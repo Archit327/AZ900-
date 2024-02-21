@@ -62,7 +62,7 @@ So defender fro business doesnt have the feature of deploying server to the endp
 
 ![[Pasted image 20240221153437.png]]
 
-So basically what can we conclude that defender for plan 1 and plan 2 are included in m365 E3 and E5 licenses respectively such that plan 1 is enabled with m365 E3 and if u want plan 2 then u must have m365 E5 license. 
+So basically what can we conclude that defender for endpoint plan 1 and plan 2 are included in m365 E3 and E5 licenses respectively such that plan 1 is enabled with m365 E3 and if u want plan 2 then u must have m365 E5 license. 
 ### Features of defender for business
 ![[Pasted image 20240221152318.png]]
 ### Defender for endpoint Plan 1 & 2
@@ -108,9 +108,16 @@ license needed-->
 Defender for server plan 1 & 2
 
 license requirements -->
-this defender for server plan 1&2 are subscription based plans
-and each subscription owner should have either M365 E3 for Plan1 or M365 E5 to access plan 2 features 
+this defender for server plan 1&2 are subscription based plans so if u have m365 E3 or E5
 also if u have M365 Business Premium 
 
-so basically the licenses which provide access to services likeazure active directory , which is essential for managing identities and access to azure resources.
-so with azure ad integration we can use the particular license to sign in to azure portal 
+so basically the licenses which provide access to services like azure active directory , which is essential for managing identities and access to azure resources.
+so with azure ad integration we can use the particular license to sign in to azure portal , and that will get access to defender for sever plan 1& 2 according to the limitations of the license (for example with m365 e3 u get access to azure portal but u get  feature of server plan1 only)
+
+
+#### Features of defender for business server and defender for server plan 1 & 2
+
+while both solutions provide security for servers, Microsoft Defender for Business Server is geared towards smaller organizations with simpler needs, while Microsoft Defender for Server Plan 1 is designed for larger enterprises with more complex security requirements and a broader range of threats to mitigate. 
+The choice between the two licenses would depend on factors such as the size and complexity of the organization's server infrastructure, as well as its specific security needs and budget considerations.
+
+
