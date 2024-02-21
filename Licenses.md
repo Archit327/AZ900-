@@ -62,7 +62,7 @@ So defender fro business doesnt have the feature of deploying server to the endp
 
 ![[Pasted image 20240221153437.png]]
 
-So basically what can we conclude that defender for plan 1 and plan 2 are both included in m365 E3 and E5 licenses respectively such that plan 1 is enabled with m365 E3 and if u want plan 2 then u must have m365 E5 license. 
+So basically what can we conclude that defender for plan 1 and plan 2 are included in m365 E3 and E5 licenses respectively such that plan 1 is enabled with m365 E3 and if u want plan 2 then u must have m365 E5 license. 
 ### Features of defender for business
 ![[Pasted image 20240221152318.png]]
 ### Defender for endpoint Plan 1 & 2
@@ -79,16 +79,38 @@ But for defender for endpoint plan 1 and 2 are used by large organizations, whic
 
 But its not a compulsory for any small org to use the defender for business license it can also take the license of m365E5 its all upto them.
 
+----
+## What are the differences between Defender for Business and Defender for Endpoint Plans 1 and 2?
+
+Both Defender for Business and Defender for Endpoint provide strong threat protection capabilities for your company's devices (computers, phones, and tablets, which are also referred to as endpoints). Defender for Business was designed for small and medium-sized businesses (up to 300 employees). With a simplified configuration process and device onboarding options, Defender for Business enables customers who don't necessarily have a security background to set up, configure, and use Defender for Business to protect company devices.
+
+Defender for Endpoint is an enterprise endpoint security platform designed to help organizations like yours to prevent, detect, investigate, and respond to advanced threats. 
+
+---
 
 ## ==comparision 2==
 
 ### defender for business server  and defender for server plan 1 & 2
 
-requirements -
 
-| defender for business server                                                   | defender fro server plan 1&2        |
-| ------------------------------------------------------------------------------ | ----------------------------------- |
-| requires either M365 business premium license or defender for business license | u have to enable defender for cloud |
-| this can be done on Microsoft defender portal                                  | this can be done on azure portal    |
-|                                                                                |                                     |
-	
+defender for business server
+license needed--> 
+	M365 business premium
+	 defender for business
+	after having those license you can go to microsoft defender portal https://security.microsoft.com
+- with this license user can access to defender portal to manage the endpoints 
+- recommended to small and medium size business or org (upto 300 employees)
+- In order to add on Microsoft Defender for Business servers, you'll need at least one paid license for [Defender for Business](https://learn.microsoft.com/en-us/microsoft-365/security/defender-business/mdb-overview?view=o365-worldwide) (standalone) or [Microsoft 365 Business Premium](https://learn.microsoft.com/en-us/microsoft-365/business-premium/m365bp-overview?view=o365-worldwide).
+- There's a limit of 60 Microsoft Defender for Business servers licenses per subscription to Microsoft 365 Business Premium or Defender for Business.
+- If preferred, you could use [Microsoft Defender for Servers Plan 1 or Plan 2](https://learn.microsoft.com/en-us/azure/defender-for-cloud/plan-defender-for-servers) instead to onboard your servers.
+- You need one Microsoft Defender for Business servers license  for each instance of Windows Server or Linux, and you don't assign that license to users or devices.
+
+Defender for server plan 1 & 2
+
+license requirements -->
+this defender for server plan 1&2 are subscription based plans
+and each subscription owner should have either M365 E3 for Plan1 or M365 E5 to access plan 2 features 
+also if u have M365 Business Premium 
+
+so basically the licenses which provide access to services likeazure active directory , which is essential for managing identities and access to azure resources.
+so with azure ad integration we can use the particular license to sign in to azure portal 
