@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "487f05a233a42e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data collection rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licenses.md",
+                "file": "Data collection rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Licenses.md",
+                "file": "Data collection rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licenses.md"
+                "file": "Data collection rules.md"
               }
             }
           },
@@ -183,11 +196,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6e397b6621a7b00f",
+  "active": "487f05a233a42e56",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240222212305.png",
+    "Assets/Pasted image 20240222212104.png",
+    "Data collection rules.md",
+    "Licenses.md",
     "MicrosoftDefender for endpoint.md",
     "onboarding 2019 server.md",
-    "Licenses.md",
     "Assets/Pasted image 20240221152414.png",
     "Assets/Pasted image 20240221153437.png",
     "Assets/Pasted image 20240221152318.png",
@@ -198,7 +214,6 @@
     "Defender for cloud.md",
     "Assets/Pasted image 20240219185209.png",
     "Assets/Pasted image 20240219181726.png",
-    "Assets/Pasted image 20240219163514.png",
     "Excalidraw/Drawing 2024-02-18 23.07.32.excalidraw.md",
     "Obsidian Vault/AZ 900/Agent vs Agentless.md",
     "Assets/Recording 20240210155347.webm",
