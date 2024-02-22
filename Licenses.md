@@ -55,10 +55,10 @@ license --> Defender for business comes with its own standalone license that wou
 ![[Pasted image 20240221151753.png]]
 
 
-So defender fro business doesnt have the feature of deploying server to the endpoint thus it also brings one more license which can be added to the this particular defender for business license. that add-on license is nothing but ==defender for business server==.
+So defender fro business doesnt have the feature of deploying server to the endpoint it just provides the client's devices to onboard and secure that too 5 devices per client, thus it also brings one more license which can be added to the this particular defender for business license. that add-on license is nothing but ==defender for business server==.
 
 - also defender for business license can be included in m365 business premium license.
-- and if we talk about defender for endpoint 
+- and if we talk about defender for endpoint we can see below
 
 ![[Pasted image 20240221153437.png]]
 
@@ -93,11 +93,11 @@ Defender for Endpoint is an enterprise endpoint security platform designed to he
 ### defender for business server  and defender for server plan 1 & 2
 
 
-defender for business server
+#### Defender for business server
 license needed--> 
 	M365 business premium
 	 defender for business
-	after having those license you can go to microsoft defender portal https://security.microsoft.com
+	after purchasing any of those license you can go to microsoft defender portal https://security.microsoft.com
 - with this license user can access to defender portal to manage the endpoints 
 - recommended to small and medium size business or org (upto 300 employees)
 - In order to add on Microsoft Defender for Business servers, you'll need at least one paid license for [Defender for Business](https://learn.microsoft.com/en-us/microsoft-365/security/defender-business/mdb-overview?view=o365-worldwide) (standalone) or [Microsoft 365 Business Premium](https://learn.microsoft.com/en-us/microsoft-365/business-premium/m365bp-overview?view=o365-worldwide).
@@ -119,5 +119,3 @@ so with azure ad integration we can use the particular license to sign in to azu
 
 while both solutions provide security for servers, Microsoft Defender for Business Server is geared towards smaller organizations with simpler needs, while Microsoft Defender for Server Plan 1 is designed for larger enterprises with more complex security requirements and a broader range of threats to mitigate. 
 The choice between the two licenses would depend on factors such as the size and complexity of the organization's server infrastructure, as well as its specific security needs and budget considerations.
-
-
