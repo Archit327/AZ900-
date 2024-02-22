@@ -119,3 +119,51 @@ so with azure ad integration we can use the particular license to sign in to azu
 
 while both solutions provide security for servers, Microsoft Defender for Business Server is geared towards smaller organizations with simpler needs, while Microsoft Defender for Server Plan 1 is designed for larger enterprises with more complex security requirements and a broader range of threats to mitigate. 
 The choice between the two licenses would depend on factors such as the size and complexity of the organization's server infrastructure, as well as its specific security needs and budget considerations.
+
+
+
+| **Microsoft Defender for Business servers** | **Microsoft Defender for Servers Plan 1 / Plan 2** |
+| ---- | ---- |
+| Microsoft Defender for Business servers is an add-on to Defender for Business and Microsoft 365 Business Premium only. | Microsoft Defender for Servers Plan 1/Plan  2 is an enterprise-focused offering that can be purchased with any other Microsoft cloud plan. |
+| Provides a single endpoint security experience for both clients and servers within the Microsoft Defender portal ([https://security.microsoft.com](https://security.microsoft.com/)). | Part of Microsoft Defender for Cloud also Microsoft Defender Portal |
+| Designed for businesses with up to 300 employees. | Designed for big organizations that has more than 300 employees. |
+| Enables customers who don't necessarily have a security background to set up, configure, and protect company devices, including servers. | The admin experience for Defender for Cloud resides within the Azure portal ([https://portal.azure.com](https://portal.azure.com/)). |
+| Pay of each server that you onboard which will be 3$ for each server per month. | the pricing is included with the license chosen there is no extra charges for onboarding several servers. |
+
+
+
+
+The Microsoft Monitoring Agent (MMA) is a lightweight agent used to monitor Windows and Linux computers in Microsoft's monitoring and management solutions. It's part of the broader suite of tools for monitoring and managing IT infrastructure and applications. The primary purpose of MMA is to collect performance data, events, and other information from the monitored computers and send it to the monitoring solution for analysis and reporting.
+
+MMA is commonly used in conjunction with System Center Operations Manager (SCOM) and Azure Monitor. It enables administrators to monitor the health, performance, and availability of their IT environments, including servers, applications, and services. MMA can be deployed across a range of environments, including on-premises, in the cloud, and in hybrid configurations, providing flexibility for organizations with diverse IT infrastructures.
+
+Key features of the Microsoft Monitoring Agent (MMA) include:
+
+1. **Data Collection**: MMA collects performance metrics, event logs, and other data from Windows and Linux computers.
+
+2. **Heartbeat Monitoring**: It sends regular heartbeat signals to the monitoring solution to indicate that the monitored computer is online and functioning.
+
+3. **Alerting and Notification**: MMA can trigger alerts based on predefined thresholds or conditions and send notifications to administrators or other stakeholders.
+
+4. **Integration**: MMA integrates with other Microsoft monitoring and management solutions, allowing organizations to centralize monitoring and management activities.
+
+Overall, the Microsoft Monitoring Agent (MMA) plays a critical role in enabling proactive monitoring and management of IT infrastructure, helping organizations to maintain high levels of performance, availability, and reliability.
+
+
+
+
+As of my last update in January 2022, Azure Monitor Agent (AMA) is the successor to the Microsoft Monitoring Agent (MMA), offering several improvements and enhancements over its predecessor. Here's how Azure Monitor Agent is better than the older Microsoft Monitoring Agent:
+
+1. **Unified Agent for Azure**: Azure Monitor Agent is designed to be the single agent for collecting telemetry data from Azure resources, on-premises servers, and virtual machines, as well as from other cloud environments. This unified approach simplifies deployment and management compared to the separate agents required for Azure and non-Azure environments with MMA.
+
+2. **Enhanced Scalability**: Azure Monitor Agent is built to handle large-scale environments more efficiently, offering better scalability and performance compared to MMA. It can handle a higher volume of telemetry data while minimizing resource utilization on monitored systems.
+
+3. **Flexible Configuration**: Azure Monitor Agent provides more flexible configuration options, allowing users to customize which data sources and telemetry types are collected based on their specific monitoring requirements. This flexibility enables organizations to optimize data collection for their unique needs, reducing unnecessary data ingestion and storage costs.
+
+4. **Improved Integration with Azure Services**: Azure Monitor Agent offers tighter integration with Azure services and features, providing enhanced monitoring capabilities for Azure resources such as virtual machines, containers, and Azure Kubernetes Service (AKS). It also supports newer features in Azure Monitor, such as Log Analytics workspaces and Application Insights.
+
+5. **Built-in Security Features**: Azure Monitor Agent includes built-in security features to help protect telemetry data during collection and transmission. It supports encrypted communication protocols and authentication mechanisms to ensure the confidentiality and integrity of monitoring data.
+
+6. **Continuous Updates and Support**: Azure Monitor Agent benefits from ongoing updates and support from Microsoft, ensuring that it remains compatible with the latest Azure services and features. This continuous improvement cycle helps organizations stay current with their monitoring capabilities and security requirements.
+
+Overall, Azure Monitor Agent offers a more streamlined and comprehensive solution for monitoring hybrid and multi-cloud environments compared to the older Microsoft Monitoring Agent. Organizations transitioning to Azure-based monitoring solutions can benefit from the enhanced features, scalability, and integration capabilities provided by Azure Monitor Agent.
