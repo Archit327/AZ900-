@@ -5,7 +5,7 @@ reference - [(122) Azure Active Directory connect | Architecture - YouTube](http
 
 ![[Pasted image 20240223155200.png]]
 
-
+Azure AD connect is a sof
 
 Step 1:
 ![[Pasted image 20240223155345.png]]
@@ -19,5 +19,4 @@ Step 3:
 
 Step 4:
 ![[Pasted image 20240223155429.png]]
-
 
