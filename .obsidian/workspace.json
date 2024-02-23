@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf07c52a6fffb0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZure Active Directory Connect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data collection rules.md",
+                "file": "AZure Active Directory Connect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data collection rules.md",
+                "file": "AZure Active Directory Connect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data collection rules.md"
+                "file": "AZure Active Directory Connect.md"
               }
             }
           },
@@ -196,23 +208,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "487f05a233a42e56",
+  "active": "cf07c52a6fffb0ce",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240223155429.png",
+    "Assets/Pasted image 20240223155420.png",
+    "Assets/Pasted image 20240223155356.png",
+    "Assets/Pasted image 20240223155345.png",
+    "Assets/Pasted image 20240223155200.png",
+    "AZure Active Directory Connect.md",
+    "Data collection rules.md",
     "Assets/Pasted image 20240222232113.png",
     "Assets/Pasted image 20240222232108.png",
     "Assets/Pasted image 20240222231911.png",
     "Assets/Pasted image 20240222231454.png",
     "Assets/Pasted image 20240222231434.png",
     "Assets/Pasted image 20240222230658.png",
-    "Assets/Pasted image 20240222212305.png",
-    "Assets/Pasted image 20240222212104.png",
-    "Data collection rules.md",
     "Licenses.md",
     "MicrosoftDefender for endpoint.md",
     "onboarding 2019 server.md",
-    "Assets/Pasted image 20240221152414.png",
-    "Assets/Pasted image 20240221153437.png",
-    "Assets/Pasted image 20240221152318.png",
     "Defender for cloud.md",
     "Excalidraw/Drawing 2024-02-18 23.07.32.excalidraw.md",
     "Obsidian Vault/AZ 900/Agent vs Agentless.md",
