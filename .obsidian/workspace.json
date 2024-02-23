@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "027fa7a8f4c1b68d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MicrosoftDefender for endpoint.md",
+                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MicrosoftDefender for endpoint.md",
+                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MicrosoftDefender for endpoint.md"
+                "file": "LIST.md"
               }
             }
           },
@@ -196,12 +208,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6e92cdffda351164",
+  "active": "027fa7a8f4c1b68d",
   "lastOpenFiles": [
-    "Licenses.md",
-    "Data collection rules.md",
     "AZure Active Directory Connect.md",
     "LIST.md",
+    "MicrosoftDefender for endpoint.md",
+    "Licenses.md",
+    "Data collection rules.md",
     "Assets/Pasted image 20240223155429.png",
     "Assets/Pasted image 20240223155420.png",
     "Assets/Pasted image 20240223155356.png",
@@ -212,7 +225,6 @@
     "Assets/Pasted image 20240222231911.png",
     "Assets/Pasted image 20240222231454.png",
     "Assets/Pasted image 20240222231434.png",
-    "MicrosoftDefender for endpoint.md",
     "onboarding 2019 server.md",
     "Defender for cloud.md",
     "Excalidraw/Drawing 2024-02-18 23.07.32.excalidraw.md",
