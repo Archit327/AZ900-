@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb0c5e32c3096f4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Defender for cloud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e92cdffda351164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MicrosoftDefender for endpoint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e397b6621a7b00f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Licenses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d1cb51997fe20db2",
             "type": "leaf",
             "state": {
@@ -56,7 +20,7 @@
             }
           },
           {
-            "id": "027fa7a8f4c1b68d",
+            "id": "73d1cab989e28b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b9ee7905373c432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure Virtual Desktop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb079e987d8e82e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "Azure Virtual Desktop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "Azure Virtual Desktop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "Azure Virtual Desktop.md"
               }
             }
           },
@@ -208,10 +194,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "027fa7a8f4c1b68d",
+  "active": "fb079e987d8e82e8",
   "lastOpenFiles": [
-    "AZure Active Directory Connect.md",
     "LIST.md",
+    "AZure Active Directory Connect.md",
+    "Azure Virtual Desktop.md",
+    "Assets/Pasted image 20240223222037.png",
+    "Assets/Pasted image 20240223221938.png",
     "MicrosoftDefender for endpoint.md",
     "Licenses.md",
     "Data collection rules.md",
@@ -223,8 +212,6 @@
     "Assets/Pasted image 20240222232113.png",
     "Assets/Pasted image 20240222232108.png",
     "Assets/Pasted image 20240222231911.png",
-    "Assets/Pasted image 20240222231454.png",
-    "Assets/Pasted image 20240222231434.png",
     "onboarding 2019 server.md",
     "Defender for cloud.md",
     "Excalidraw/Drawing 2024-02-18 23.07.32.excalidraw.md",
