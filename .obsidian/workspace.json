@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Active Directory.md",
+                "file": "Obsidian Vault/AZ 900/Networking Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Active Directory.md",
+                "file": "Obsidian Vault/AZ 900/Networking Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Active Directory.md",
+                "file": "Obsidian Vault/AZ 900/Networking Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics Active Directory.md"
+                "file": "Obsidian Vault/AZ 900/Networking Basics.md"
               }
             }
           },
@@ -171,8 +170,8 @@
   },
   "active": "b43447dc07b7ed9d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Basics Active Directory.md",
+    "Untitled.md",
     "Excalidraw/Active Directory Trust.excalidraw.md",
     "Assets/Pasted image 20240225003525.png",
     "Excalidraw/Drawing 2024-02-25 00.33.58.excalidraw.md",
