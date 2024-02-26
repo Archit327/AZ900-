@@ -57,7 +57,7 @@ So the domain has its own DNS and its used as resolver for resolvoing the files 
 - Active directory user and computers (ADUC) -->
   this manages all the creation of users acc. and computer acc. or grps or Oorganizational Unit.
 - Active Directory Administrative Center (ADAC) -->
-  This manages all the powershell run syntaxes for creation of accounts or grps, so all the syntaxes which would be run in powershell for creating any user account or OU etc that syntax will be available in administrative center.
+  this works just same as that of aduc but it serves extra benefits and features which promote using it . Actually u can choose either of them to create accounts of user or grps or computers because both will reflect on the domain.l
 - Active Directory module for Windows Powershell -->
   
 - AD sites and services
