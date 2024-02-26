@@ -51,3 +51,16 @@ So all the data of all the domains is settled down at Global Catalog, and sender
 So Domain Name System is a resolver. It converts the url into its IP Address.
 So why do domains need the DNS it works globally as well such that if you www.google.com then dns will resolve its real IP address and make the site visible to you in your browser.
 So the domain has its own DNS and its used as resolver for resolvoing the files or folder names to its address in that drive.
+
+
+### Active Directory Tools
+- Active directory user and computers (ADUC) -->
+  this manages all the creation of users acc. and computer acc. or grps or Oorganizational Unit.
+- Active Directory Administrative Center (ADAC) -->
+  This manages all the powershell run syntaxes for creation of accounts or grps, so all the syntaxes which would be run in powershell for creating any user account or OU etc that syntax will be available in administrative center.
+- Active Directory module for Windows Powershell -->
+  
+- AD sites and services
+- AD domain and trusts
+- AD schema
+
