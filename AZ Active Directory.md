@@ -1,0 +1,24 @@
+
+
+It is a cloud based identity and access management service by microsoft azure.
+It provides access to Office 365 services. like teams , exchange etc.
+So when an user try to access the office srvices then the user will be authenticated  by the azure entra.
+
+ So it can be used to create idenity of user , devices or create grps as well.
+ 
+## Azure Active Directory Features 
+
+- Azure active directory for developers - as a developer u can use AAD for using features like SSO and other authentication methods. for users to sign in to the apps or websites.
+- Business to business (B2B) - with this feature u can interact to your user in very secure way who are  outside your org.
+- B2C - with this feature u can allow the customers to login to your apps with their local or social accounts.
+- Conditional Access - u can secure your apps and sign in process with applying conditional policy.
+- Device Management - u can register or join your device with AAD or intune.
+- Hybrid Identity- U can use AAD connect to provide single user identity for authentication and authorization to all resources.
+- Privileged Identity Management - with this we can manage control and monitor the access within your org.
+- Reports and monitoring - AAD provides reports which give insights of the resources and its security.
+
+### AAD Licenses
+
+![[Pasted image 20240229190508.png]]
+
+
