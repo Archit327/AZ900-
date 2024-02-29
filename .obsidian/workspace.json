@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZure Active Directory Connect.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZure Active Directory Connect.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZure Active Directory Connect.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -171,8 +172,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b43447dc07b7ed9d",
+  "active": "9e89769da1487c8e",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240229150957.png",
+    "AZure Active Directory Connect.md",
     "Obsidian Vault/AZ 900/Networking Basics.md",
     "Excalidraw/Active Directory Trust.excalidraw.md",
     "Untitled 1.md",
@@ -185,7 +188,6 @@
     "Excalidraw/Drawing 2023-12-29 15.57.50.excalidraw.md",
     "Assets/Pasted image 20240225001520.png",
     "LIST.md",
-    "AZure Active Directory Connect.md",
     "Azure Virtual Desktop.md",
     "Assets/Pasted image 20240223222037.png",
     "Assets/Pasted image 20240223221938.png",
@@ -208,7 +210,6 @@
     "Obsidian Vault/AZ 900/AZURE Identity ,access and security.md",
     "Obsidian Vault/AZ 900/ALZ.md",
     "Obsidian Vault/AZ 900/CWPP.md",
-    "Obsidian Vault/AZ 900/EDR vs XDR vs MDR.md",
-    "Obsidian Vault/AZ 900/Security Sessions.md"
+    "Obsidian Vault/AZ 900/EDR vs XDR vs MDR.md"
   ]
 }
