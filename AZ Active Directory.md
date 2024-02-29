@@ -22,3 +22,4 @@ So when an user try to access the office srvices then the user will be authentic
 ![[Pasted image 20240229190508.png]]
 
 
+### Security Defaults
