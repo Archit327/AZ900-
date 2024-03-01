@@ -1,13 +1,9 @@
 
 
 explicit applying of policy or rbac at subscription level or rg level.
-
 how does policy affect at the rg level
-
 see the precedence
-
 cognos, netrx,products for deployement
-
 DMZ
 nsg controlling traffic
 DNS 
@@ -15,6 +11,7 @@ check all the domains MHA have in their environment
 ports used by google
 
 create a sheet for azure vm created name , name inside the vm, and ip of that vm, and ports open for that vm
+deploying  the new vm and changing the name of the new vm with the old vm
 ![[Pasted image 20240229150957.png]]
 
 

@@ -23,3 +23,16 @@ So when an user try to access the office srvices then the user will be authentic
 
 
 ### Security Defaults
+
+- Require all users to register for multifactor authentication
+- requiring administrator to do multifactor authentication
+- requiring users to do multifactor authentication when necessary
+- blocking the legacy authentication protocol - IMAP,SMTP etc multifactor authentication is mandatory for every user.
+- MFA is required for accessing the following services
+  - Azure portal
+  - Microsft entra admin center
+  - azure powershell
+  - azureCLI
+These policies apply to all the users accessing Azure Resource Manager services whether they are administrator or user.
+
+
