@@ -36,3 +36,14 @@ So when an user try to access the office srvices then the user will be authentic
 These policies apply to all the users accessing Azure Resource Manager services whether they are administrator or user.
 
 
+AZure Ad Tenant -
+It is like a instance of a azure active directory. 
+An org can have multiple tenants , but its not recommended because each tenant is isolated from each other, so there is no benefit in creating 2 or more tenants for single org.
+
+Azure Subscription -
+for using or taking benefit of all the resources of the azure portal , the poerson should have subscription.
+all the resources which are deployed through that subscription are being charged accordingly in  monthly basis.
+a user can be provided with its own subscription as well as can be given some sort of permissions or role for accessing any other subscription.
+
+Azure Active Directory Domain Services -
+
