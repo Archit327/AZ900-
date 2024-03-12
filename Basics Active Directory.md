@@ -64,3 +64,34 @@ So the domain has its own DNS and its used as resolver for resolvoing the files 
 - AD domain and trusts
 - AD schema
 
+### Group policy
+
+Group policy also reduces misconfigurations.
+I can make a change in a single location and I can have that change applied to several users, several computers, potentially thousands or tens of thousands of users and computers will process these settings.
+
+Some of the benefits of using group policy would be the ability to apply consistent security settings. I can manage your Windows firewall, I can manage your password policy, we can manage your account lockout policy.
+
+For example, if you were to enter the wrong password too many times, your account would become locked out.
+I manage all those settings within group policy, so there's a whole host of security settings within
+group policy.I can also manage desktop application settings.
+We can deploy application software with some limitations.
+Application software that we deploy has to be an MSI package.
+Group policy does not support deploying exe files.
+There are four locations that group policies can be linked to.
+I can link a group policy object to the local computer that is the least common location.
+We would apply group policy. If I apply a local group policy object, it only affects the local machine that you're actually using.
+
+If you were to do that in a large environment, it would require physically going to each machine and making that change on each of your computers. If I wanted to view the local group policy, we could run the gpedit.msc command.
+If your computer is not joined to the domain, local group policy would be the only policies you have.
+
+For example, if I had an office in Miami and I also have an office in Seattle, I may only want domain
+controllers between Miami and Seattle to replicate once every three hours. The way I control that is to create two separate sites. One site for Miami, one site for Seattle. Those sites are connected by a replication link.
+That replication link lets me specify the schedule I want replication to occur on.
+I could set a policy at that site level. If you were to do that, it would imply that I want you to get a certain setting because you are in the Seattle office.
+If you physically leave the Seattle office and go to another location, we do not want you to get that policy.
+In the past it was fairly common for default printers to be set at a site level.
+
+The most common level that group policies are linked is the O level.
+The O level is the last and lowest level of policy can be applied.
+It's not possible to apply a policy directly to a user account or directly to a group or a computer
+account. It can only be applied as low as the O.A group policy object that is linked to the organizational unit applies to all the users and computers in the organizational unit. The OO design is heavily influenced by the structure of group policy.

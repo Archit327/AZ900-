@@ -19,10 +19,26 @@
 | what about the rbac for avds                                  |
 
 
-| weekend task              |
-| ------------------------- |
-| start microsoft entra     |
-| what is forest            |
-| hybrid join , domain join |
-| hiw directory is created  |
-|                           |
+
+| 1-3-24                                                                 |
+| ---------------------------------------------------------------------- |
+| on-prem active directory basics -dc, tree, forest                      |
+| on-prem active directory DC creation                                   |
+| creating a dc - deploying server and promoting it to domain controller |
+| creating a dc - deploying server and promoting it to domain controller |
+
+
+| 5-3-24                                                     |
+| ---------------------------------------------------------- |
+| connecting a device to the on-prem active directory - ADAC |
+| connecting a device to the on-prem active directory - ADUC |
+| difference in the features between ADAC and ADUC           |
+| understanding Group policy - documented as well            |
+
+
+| 6-3-24 |
+| ------ |
+|        |
+|        |
+|        |
+|        |
