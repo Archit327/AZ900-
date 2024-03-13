@@ -42,3 +42,5 @@
 |        |
 |        |
 |        |
+
+the snp has its own avd in us region
