@@ -36,11 +36,55 @@
 | understanding Group policy - documented as well            |
 
 
-| 6-3-24 |
-| ------ |
-|        |
-|        |
-|        |
-|        |
+| 6-3-24          |
+| --------------- |
+| documented aduc |
+| documented adac |
+|                 |
+|                 |
 
 the snp has its own avd in us region
+
+| 7-3-24                 |
+| ---------------------- |
+| azure active directory |
+| creating AAD in portal |
+| AAD vs onprem          |
+| AAD license            |
+
+
+| 8-3-24                               |
+| ------------------------------------ |
+| tenants and subscriptions in AAD     |
+| Active directory domain services     |
+| deployement scenarios for Azure ADDS |
+| domain join vs hybrid join           |
+
+
+| 9-3-24                                            |
+| ------------------------------------------------- |
+| creating a custom domain in azure ad              |
+| integrating azure ad with on-prem  - prerquisites |
+| demo - integrating azure ad with on-prem          |
+| joining a windows vm with azure ad                |
+
+| 12-3-24                    |
+| -------------------------- |
+|                            |
+| demo -azure ad join        |
+| demo -azure ad hybrid join |
+| overview vmware solution   |
+
+| 13-3-24           |
+| ----------------- |
+| vmware BASICS     |
+| documented vmware |
+| vsphere           |
+| vcenter           |
+
+| 14-3-24                               |
+| ------------------------------------- |
+| Azure vmware solution overview        |
+| creating avs in azure portal          |
+| documented avs and creation in portal |
+|                                       |
