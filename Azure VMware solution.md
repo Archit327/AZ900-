@@ -24,3 +24,36 @@ Bare-metal hypervisor that installs directly onto your physical server
 ### VMWare vCenter
 - It’s a management tool to manage multiple hypervisors 
 - The interface is same as vSphere client with added functionality.
+
+## Azure vmware solution deployment deep dive
+
+### The five dimension of planning
+
+1. What are you trying to do
+2. where are you going to do
+3. how much of it do we need
+4. how are you going to connect it
+5. how are you going to manage it
+
+
+
+Decisions Before Planning -->
+- do you have any footprint from before?
+- is AVS supported in that region?
+- if not supported than which is the closest AVS supported region to your existing data center or the user?
+- does the customer need AVS private clouds in multiple regions
+
+
+### Planning for the Size considerations
+
+- determine the initial size and number of clusters and number of host per region required?
+
+## Limits -->
+we can have
+- ==1 PRIVAT CLOUD PER SUBSCRIPTION==
+- ==12 CLUSTERS PER PRIVATE CLOUD==
+- ==16 HOSTS PER CLUSTER
+- ==96 HOSTS PER PRIVATE CLOUD==
+
+ 
+

@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "Azure VMware solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "Azure VMware solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "Azure VMware solution.md"
               }
             }
           },
@@ -196,10 +196,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad555d4694dc6462",
+  "active": "7a73c9854004ebe3",
   "lastOpenFiles": [
-    "Azure VMware solution.md",
     "LIST.md",
+    "Azure VMware solution.md",
     "Basics Active Directory.md",
     "Azure Virtual Desktop.md",
     "Obsidian Vault/AZ 900/AZURE Identity ,access and security.md",
