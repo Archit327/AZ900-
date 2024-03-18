@@ -95,3 +95,6 @@ The most common level that group policies are linked is the O level.
 The O level is the last and lowest level of policy can be applied.
 It's not possible to apply a policy directly to a user account or directly to a group or a computer
 account. It can only be applied as low as the O.A group policy object that is linked to the organizational unit applies to all the users and computers in the organizational unit. The OO design is heavily influenced by the structure of group policy.
+
+
+
