@@ -91,7 +91,10 @@ the snp has its own avd in us region
 
 
 
-| avs basics documentation |
-| ------------------------ |
-| PIM                      |
-| CAF and CAf for avs      |
+| avs basics documentation                                                  |
+| ------------------------------------------------------------------------- |
+| PIM                                                                       |
+| CAF and CAf for avs                                                       |
+| security for avs                                                          |
+| arc+ endpoint                                                             |
+| they need bring their onprem vmware to avs so they need security for that |
