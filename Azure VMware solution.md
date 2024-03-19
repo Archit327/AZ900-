@@ -8,6 +8,15 @@
 - Other virtualization companies are, Microsoft (Hyper-V), Oracle (OVM/OLVM), Citrix (Xen server), Redhat (KVM), IBM etc.
 
 
+Availability of the product -->Azure VMware Solution is available in 29 regions only uptill now.
+Pricing of the product --> The basic level starts with $8.5/hr
+according the sizes available -
+- AV36
+- AV36P
+- AV52
+- AV64
+
+Not every type of instance is available in every region as such , and certainly each instance costs different in different regions as
 
 ## VMware Products
 
@@ -15,7 +24,7 @@
 VMware Workstation Player is an ideal utility for running virtual machines on a Windows, Linux or MAC computers. Organizations use Workstation Player to deliver managed corporate desktops, while students and educators use it for learning and training. The free version is available for non-commercial, personal and home use
 ### VMWare vSphere Hypervisor or  ESXi
 It is said to be a main layer of virtualization i.e ESXi. Bare-metal hypervisor that installs directly onto your physical server.
-Now here bare meta means that the hardware does not have its own OS.
+Now here bare metal means that the hardware does not have its own OS.
 
 ### VMWare vSphere Client 
 - Is an interface that allows you to connect to a hypervisor 
@@ -58,3 +67,15 @@ we can have
 
  
 
+## vSphere
+
+- It is known as VMware infratsructure.
+- It is collection of all the VMware server virtualization productswhich includes 
+  - ESXi hypervisor 
+  - vCenter management software
+
+### Features of vSphere 
+- VMware ESXi -> its a hypervisor which is used to combine all the components like processors, storage, memory and other resources into multiple virtual machines.
+- VMware vCenter server -> also known as virtual center, it is the central control point which provides a single pane of glass view across ESXi hosts.
+- VMware vSphere Client -> it is an interface just like RDP or putty which allows the user to remotely access the vCenter server.
+- 
