@@ -13,8 +13,9 @@
 
 ### VMWare Workstation Player 
 VMware Workstation Player is an ideal utility for running virtual machines on a Windows, Linux or MAC computers. Organizations use Workstation Player to deliver managed corporate desktops, while students and educators use it for learning and training. The free version is available for non-commercial, personal and home use
-### VMWare vSphere Hypervisor (ESXi) 
-Bare-metal hypervisor that installs directly onto your physical server 
+### VMWare vSphere Hypervisor or  ESXi
+It is said to be a main layer of virtualization i.e ESXi. Bare-metal hypervisor that installs directly onto your physical server.
+Now here bare meta means that the hardware does not have its own OS.
 
 ### VMWare vSphere Client 
 - Is an interface that allows you to connect to a hypervisor 
