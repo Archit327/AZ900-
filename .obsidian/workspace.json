@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "615e30176874c941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure and VMware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "Azure and VMware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "Azure and VMware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "Azure and VMware.md"
               }
             }
           },
@@ -183,10 +195,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfac0efeda84090f",
+  "active": "615e30176874c941",
   "lastOpenFiles": [
-    "Basics Active Directory.md",
+    "Azure and VMware.md",
     "LIST.md",
+    "Basics Active Directory.md",
     "AZ 900/AZURE Identity ,access and security.md",
     "Azure VMware solution.md",
     "Setup Windows AD- Virtual Box.md",
