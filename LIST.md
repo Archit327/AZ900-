@@ -88,3 +88,10 @@ the snp has its own avd in us region
 | creating avs in azure portal          |
 | documented avs and creation in portal |
 |                                       |
+
+
+
+| avs basics documentation |
+| ------------------------ |
+| PIM                      |
+| CAF and CAf for avs      |
