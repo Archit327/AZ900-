@@ -149,5 +149,22 @@ After completion please verify the status as ==**succeeded**==
 
 ## Now next we connect it to on-prem through express route
 
-- go to portal and search express route and the org should have their existing on-prem
-- 
+- go to portal and search express route circuits and the org should have their existing one that has to be migrated to AVS.
+- then go to authorization blade and get the key which will be required for connectivity
+- Now go to AVS private cloud and go to connectivity blade and go to express route global reach 
+- clicl on ==add==
+- there paste the authorization key of express route circuit.
+- and click create
+
+## Now the last section to create a new Gateway and connect it with the express route
+
+- go to portal and search for virtual network gateways
+- give all the details name and all, remember it to deploy it in same location.
+- choose the virtual network that was made 
+- then after creation go to connections blade in vngateway then add new
+- give it a name and under connection type select Express route
+- now in another tab open AVS private cloud go to connectvity and then to express route 
+- request an authorization key
+- copy that key value and uri value and paste them in the new VNgateway connection that we were creating 
+- finish the task 
+- this will connect the on-prem VMware servers to the the azure and they can leverage all the azure services.
