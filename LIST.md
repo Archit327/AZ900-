@@ -98,3 +98,4 @@ the snp has its own avd in us region
 | security for avs                                                          |
 | arc+ endpoint                                                             |
 | they need bring their onprem vmware to avs so they need security for that |
+| vpn to establish HCX connectivity                                         |
