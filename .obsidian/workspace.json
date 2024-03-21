@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "615e30176874c941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure and VMware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f89c7a7482d8d262",
             "type": "leaf",
             "state": {
@@ -41,14 +29,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "67b5a1493ce67c06",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -75,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privileged Identity Management.md",
+                "file": "Azure VMware solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privileged Identity Management.md",
+                "file": "Azure VMware solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privileged Identity Management.md"
+                "file": "Azure VMware solution.md"
               }
             }
           },
@@ -216,18 +195,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d817591e726d9ad",
+  "active": "7a73c9854004ebe3",
   "lastOpenFiles": [
     "LIST.md",
+    "Azure VMware solution.md",
+    "Azure and VMware.md",
     "Privileged Identity Management.md",
     "Security Defaults vs MFA.md",
     "Assets/Pasted image 20240321071324.png",
     "Assets/Pasted image 20240321071206.png",
     "Assets/Pasted image 20240321071043.png",
     "Assets/Pasted image 20240321071016.png",
-    "Azure VMware solution.md",
     "Assets/Pasted image 20240320064323.png",
-    "Azure and VMware.md",
     "Basics Active Directory.md",
     "AZ 900/AZURE Identity ,access and security.md",
     "Setup Windows AD- Virtual Box.md",
