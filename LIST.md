@@ -99,3 +99,11 @@ the snp has its own avd in us region
 | arc+ endpoint                                                             |
 | they need bring their onprem vmware to avs so they need security for that |
 | vpn to establish HCX connectivity                                         |
+|                                                                           |
+
+
+| 20-03-24          |
+| ----------------- |
+| security defaults |
+| Azure ad MFA      |
+| PIM               |

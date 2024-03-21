@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad555d4694dc6462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics Active Directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7a73c9854004ebe3",
             "type": "leaf",
             "state": {
@@ -54,9 +42,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67b5a1493ce67c06",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d5467d95605eda3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Defaults vs MFA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d817591e726d9ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privileged Identity Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "Privileged Identity Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "Privileged Identity Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "Privileged Identity Management.md"
               }
             }
           },
@@ -196,11 +216,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f89c7a7482d8d262",
+  "active": "2d817591e726d9ad",
   "lastOpenFiles": [
+    "Privileged Identity Management.md",
+    "Security Defaults vs MFA.md",
     "Azure VMware solution.md",
-    "Assets/Pasted image 20240320064323.png",
     "LIST.md",
+    "Assets/Pasted image 20240320064323.png",
     "Azure and VMware.md",
     "Basics Active Directory.md",
     "AZ 900/AZURE Identity ,access and security.md",
@@ -235,7 +257,6 @@
     "Assets/Pasted image 20240223155429.png",
     "Assets/Pasted image 20240223155420.png",
     "Assets/Pasted image 20240223155356.png",
-    "AZ 900/Agent vs Agentless.md",
     "Assets/Recording 20240210155347.webm"
   ]
 }
