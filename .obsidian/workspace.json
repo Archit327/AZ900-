@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privileged Identity Management.md",
+                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privileged Identity Management.md",
+                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privileged Identity Management.md"
+                "file": "LIST.md"
               }
             }
           },
@@ -216,10 +216,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d817591e726d9ad",
+  "active": "f89c7a7482d8d262",
   "lastOpenFiles": [
-    "Security Defaults vs MFA.md",
     "Privileged Identity Management.md",
+    "Security Defaults vs MFA.md",
     "Assets/Pasted image 20240321071324.png",
     "Assets/Pasted image 20240321071206.png",
     "Assets/Pasted image 20240321071043.png",

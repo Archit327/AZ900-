@@ -102,8 +102,15 @@ the snp has its own avd in us region
 |                                                                           |
 
 
-| 20-03-24          |
-| ----------------- |
-| security defaults |
-| Azure ad MFA      |
-| PIM               |
+| 20-03-24                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| security defaults                                                                                                                                              |
+| Azure ad MFA                                                                                                                                                   |
+| PIM                                                                                                                                                            |
+| 21-03                                                                                                                                                          |
+| what can be configured in mha to secure its environment more                                                                                                   |
+| jobs of SOC analyst- 1. acknowledge>> 2.i scope of SOC analyst in that environment >> 2.ii approval based approach before proceeding to remediate the alert >> |
+| severity levels of alers P1 2 3 4                                                                                                                              |
+| what are the scenarios of each                                                                                                                                 |
+| capabilities of crowdstrike                                                                                                                                    |
+| how to determine the security incident is false positive or true positive                                                                                      |
