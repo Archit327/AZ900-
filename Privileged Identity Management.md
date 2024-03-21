@@ -27,5 +27,50 @@ Remember -->
 - the user u r trying to give PIM role should also have P2 license
 - the person who is able to approve or reject activation requests in PIM should also have P2
 - user who perform access review should also have P2
-- 
+- user who set up and manage PIM, receive alerts and setup access review DONT REQUIRE P2
 
+
+==IMPORTANT== --> Account which is used to enable PIM, becomes the member of Privileged Role Administrator and Security Administrator.
+
+
+### What roles can be managed by PIM
+- azure built-in role
+- azure AD built-in roles
+- M365 roles
+
+### Roles that cannot be managed using PIM
+Rather PIM provides granular access control for Azure roles, but there are limitations regarding classic subscription administrator roles and specific Microsoft 365 role.
+PIM does **not** allow management of the following ==classic subscription administrator roles== beacuse in the early days of Azure, access to resources was managed using three classic subscription administrator roles
+- ==**Account Administrator**:== Responsible for billing and subscription management.
+- ==**Service Administrator**:== Manages resources using the Azure portal, Azure Resource Manager APIs, and classic deployment model APIs.
+- ==**Co-Administrator**:== Also assists in managing resources within the subscription.
+
+
+### Configure PIM-->
+
+==Important
+Eligible assigments --> these assignments are role which are managed by PIM, i.e the assignment will be given for particular period of time. These are also calle just in time role assignements.
+Active assignements --> these assignments are role that are permanently assigned to given user==
+
+First of all not everyone can create azure ad role for PIM only the admin or the Privileged role admin or the security admin can make changes in the role or assign role to the user. After getting the role user can either activate the role deactivate the role. and ofc if the role has to be approved then the user has ask for the approval.
+
+Go to azure portal (through eligible account)>> search Privileged Identity Management in search bar >> azure ad roles >> settings >> select any role  from the given roles and edit them
+
+![[Pasted image 20240321071016.png]]
+
+
+Select any role here we take SECURITY READER
+Now edit this role accordingly , here we get 3 sections to configure for creating the role for assignment 
+- Activation
+- Assignment
+- Notification
+
+lets see one by one ACTIVATION -->
+![[Pasted image 20240321071043.png]]
+Here 
+
+Assignment 
+![[Pasted image 20240321071206.png]]
+
+Notification
+![[Pasted image 20240321071324.png]]
