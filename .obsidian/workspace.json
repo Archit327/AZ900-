@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "Privileged Identity Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "Privileged Identity Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "Privileged Identity Management.md"
               }
             }
           },
@@ -216,8 +216,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f89c7a7482d8d262",
+  "active": "2d817591e726d9ad",
   "lastOpenFiles": [
+    "LIST.md",
     "Privileged Identity Management.md",
     "Security Defaults vs MFA.md",
     "Assets/Pasted image 20240321071324.png",
@@ -225,7 +226,6 @@
     "Assets/Pasted image 20240321071043.png",
     "Assets/Pasted image 20240321071016.png",
     "Azure VMware solution.md",
-    "LIST.md",
     "Assets/Pasted image 20240320064323.png",
     "Azure and VMware.md",
     "Basics Active Directory.md",
