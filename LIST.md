@@ -114,3 +114,13 @@ the snp has its own avd in us region
 | what are the scenarios of each                                                                                                                                 |
 | capabilities of crowdstrike                                                                                                                                    |
 | how to determine the security incident is false positive or true positive                                                                                      |
+
+
+| 22-03                          |
+| ------------------------------ |
+| One on one -25 min             |
+| SOC training path              |
+| soc process                    |
+| soc roles and responsibilities |
+| SIEM                           |
+|                                |
