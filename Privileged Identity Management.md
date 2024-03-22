@@ -34,13 +34,13 @@ Remember -->
 
 
 ### What roles can be managed by PIM
-- azure built-in role
-- azure AD built-in roles
-- M365 roles
+- azure built-in role -
+- azure AD built-in roles - 
+- M365 roles - 
 
 ### Roles that cannot be managed using PIM
 Rather PIM provides granular access control for Azure roles, but there are limitations regarding classic subscription administrator roles and specific Microsoft 365 role.
-PIM does **not** allow management of the following ==classic subscription administrator roles== beacuse in the early days of Azure, access to resources was managed using three classic subscription administrator roles
+PIM does **not** allow management of the following ==classic subscription administrator roles== because in the early days of Azure, access to resources was managed using three classic subscription administrator roles
 - ==**Account Administrator**:== Responsible for billing and subscription management.
 - ==**Service Administrator**:== Manages resources using the Azure portal, Azure Resource Manager APIs, and classic deployment model APIs.
 - ==**Co-Administrator**:== Also assists in managing resources within the subscription.
@@ -65,12 +65,24 @@ Now edit this role accordingly , here we get 3 sections to configure for creatin
 - Assignment
 - Notification
 
-lets see one by one ACTIVATION -->
+### lets see one by one ACTIVATION -->
 ![[Pasted image 20240321071043.png]]
-Here 
+- Here determine the activation hr which will define that after what time the user needs to login again.
+- then does the user need to do MFA or not for activation
+- do you want the user to justify or not if yes then tick that box then user must justify while activation
+- do want to get the info of the ticket after it gets activated such that the info will display all the details of the ticket
+- approval should be done by the admin for getting the role activated
+- down there mention who should approve the activation 
 
-Assignment 
+### Assignment 
 ![[Pasted image 20240321071206.png]]
-
-Notification
+- here we determine the two type of assignments 
+  - Eligible (time-bound)– a role assignment where a user is eligible to request elevated admin roles, the user needs to request to activate the role.  
+  - Permanent Eligible – a role assignment where a user is eligible permanently to request elevated admin roles, the user needs to request to activate the role.  
+  - Active(time-bound) – a role assignment that does not require a user to request for role activation, when the role is assigned to a user it is automatically activated.  
+  - Permanent Active – a role assignment like an Active assignment, but the role is assigned permanently to the user.
+  
+###Notification
 ![[Pasted image 20240321071324.png]]
+
+- define the type of notification and to whom it should be send 
