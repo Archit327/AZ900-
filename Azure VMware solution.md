@@ -69,8 +69,8 @@ we can have
 
 ## vSphere
 
-- It is known as VMware infratsructure.
-- It is collection of all the VMware server virtualization productswhich includes 
+- It is known as VMware infrasructure.
+- It is collection of all the VMware server virtualization products which includes 
   - ESXi hypervisor 
   - vCenter management software
 
@@ -79,6 +79,19 @@ we can have
 - VMware vCenter server -> also known as virtual center, it is the central control point which provides a single pane of glass view across ESXi hosts.
 - VMware vSphere Client -> it is an interface just like RDP or putty which allows the user to remotely access the vCenter server.
 - 
+
+
+## VMware HCX
+
+What is VMware HCX? 
+VMware HCX is an application mobility platform basically it helps in moving the workload from one vCenter to another. 
+In very basic terms HCX is tool for migrating the workloads.
+It simplifies application migration, workload rebalancing, and business continuity across data centers and clouds. VMware HCX enables high-performance, large-scale app mobility across VMware vSphere and non-vSphere cloud and on-premises environments to accelerate data center modernization and cloud transformation.
+
+Why VMware HCX?
+VMware HCX unlocks the potential of new environments based on vSphere by building an abstraction layer that links on-premises data centers and clouds. This hybrid interconnect tethers sites so networks can automatically stretch securely across sites, enabling seamless mobility of virtual machines (VMs).
+
+==Important== --> HCX doesnt support the migration of avs through VPN from onprem to avs.
 
 
 # Move on-premises VMware infrastructure to Azure VMWare Solution

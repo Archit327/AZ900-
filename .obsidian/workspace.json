@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privileged Identity Management.md",
+                "file": "Azure VMware solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privileged Identity Management.md",
+                "file": "Azure VMware solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privileged Identity Management.md"
+                "file": "Azure VMware solution.md"
               }
             }
           },
@@ -196,12 +195,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d817591e726d9ad",
+  "active": "7a73c9854004ebe3",
   "lastOpenFiles": [
+    "Privileged Identity Management.md",
     "Azure VMware solution.md",
     "LIST.md",
     "Azure and VMware.md",
-    "Privileged Identity Management.md",
     "Security Defaults vs MFA.md",
     "Assets/Pasted image 20240321071324.png",
     "Assets/Pasted image 20240321071206.png",
