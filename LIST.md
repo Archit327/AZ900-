@@ -124,3 +124,14 @@ the snp has its own avd in us region
 | soc roles and responsibilities |
 | SIEM                           |
 |                                |
+
+| path for SOC                             |
+| ---------------------------------------- |
+| Network basics                           |
+| Security BAsics                          |
+| Attacks and incidents                    |
+| logs and activities                      |
+| cyber sec operation and event monitoring |
+| soc incident response                    |
+| SIEM and tools                           |
+| Threat Hunting                           |
