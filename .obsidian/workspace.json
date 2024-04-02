@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIEM.md",
+                "file": "Azure VMware solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIEM.md",
+                "file": "Azure VMware solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIEM.md"
+                "file": "Azure VMware solution.md"
               }
             }
           },
@@ -208,12 +207,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b440ef4ef4f2b7d5",
+  "active": "7a73c9854004ebe3",
   "lastOpenFiles": [
+    "Security Defaults vs MFA.md",
     "SIEM.md",
     "LIST.md",
     "Privileged Identity Management.md",
-    "Security Defaults vs MFA.md",
     "Azure VMware solution.md",
     "Azure and VMware.md",
     "Assets/Pasted image 20240321071324.png",
