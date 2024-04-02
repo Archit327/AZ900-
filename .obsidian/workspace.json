@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "2d817591e726d9ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privileged Identity Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b440ef4ef4f2b7d5",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,11 +211,11 @@
   "active": "f493841c4ac72fef",
   "lastOpenFiles": [
     "Azure VMware solution.md",
-    "Security Consideration AVS.md",
     "Security Defaults vs MFA.md",
-    "SIEM.md",
-    "LIST.md",
     "Privileged Identity Management.md",
+    "SIEM.md",
+    "Security Consideration AVS.md",
+    "LIST.md",
     "Azure and VMware.md",
     "Assets/Pasted image 20240321071324.png",
     "Assets/Pasted image 20240321071206.png",
