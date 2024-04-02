@@ -89,3 +89,6 @@ You can enforce multifactor authentication for user authentication to provide an
 - Rotate local `cloudadmin` account credentials for VMware vCenter Server and VMware NSX-T Data Center to prevent the misuse and abuse of these administrative accounts. Use these accounts only in _break glass_ scenarios. 
 - Create server groups and users for VMware vCenter Server, and assign them identities from external identity sources. Use these groups and users for specific VMware vCenter Server and VMware NSX-T Data Center operations.
 - Use a centralized identity source for configuring authentication and authorization services for guest VMs and applications.
+
+
+Policy that can 
