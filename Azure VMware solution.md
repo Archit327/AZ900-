@@ -35,6 +35,14 @@ Now here bare metal means that the hardware does not have its own OS.
 - It’s a management tool to manage multiple hypervisors 
 - The interface is same as vSphere client with added functionality.
 
+### Migration solutions for Azure VMware solution 
+
+You aren't required to use VMware HCX as a migration tool, which means you can also migrate physical workloads into Azure VMware Solution. Additionally, migrations to your Azure VMware Solution environment don't need an ExpressRoute connection if it's not available within your source environment. Migrations can be done to multiple locations if you decide to host those workloads in multiple Azure regions.
+You can find more information on these migration solutions here:
+
+- [RiverMeadow](https://www.rivermeadow.com/migrating-to-vmware-on-azure).
+
+
 ## Azure VMware solution deployment deep dive
 
 ### The five dimension of planning
@@ -69,7 +77,7 @@ we can have
 
 ## vSphere
 
-- It is known as VMware infrasructure.
+- It is known as VMware infrastructure.
 - It is collection of all the VMware server virtualization products which includes 
   - ESXi hypervisor 
   - vCenter management software
@@ -181,25 +189,4 @@ After completion please verify the status as ==**succeeded**==
 - copy that key value and uri value and paste them in the new VNgateway connection that we were creating 
 - finish the task 
 - this will connect the on-prem VMware servers to the the azure and they can leverage all the azure services.
-
-### Security Consideration for Azure VMware Solution
-
-This pillar is concerned with implementing measures that help protect your workload from threats. Examples include adding multiple security layers to your applications, including identity and access management (IAM), input validation, data sovereignty, and encryption for distributed denial-of-service (DDoS) mitigation. Other measures include blocking bad actors, preventing data exfiltration, and providing protection from operating system vulnerabilities.
-
-In a shared-responsibility model:
-- Organizations are primarily responsible for managing and operating workloads.
-- Microsoft manages the physical and virtual infrastructure of Azure VMware Solution.
-
-You can employ several methods to secure your Azure VMware Solution environment:
-
-- Monitor security with a security information and event management (SIEM) solution like Microsoft Sentinel.
-- Implement encryption for data at rest and in transit.
-- Use robust IAM practices:
-    - Enforce multi-factor authentication.
-    - Integrate your workload with Microsoft Entra ID.
-    - Implement the principle of least privilege, and use role-based access control to assign roles.
-- Maintaining documentation that captures:
-    - Troubleshooting procedures.
-    - Disaster recovery plans.
-    - Remediation guidance on how to accelerate the process of resolving problems.
 
