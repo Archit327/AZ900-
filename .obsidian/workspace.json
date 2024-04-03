@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIEM.md",
+                "file": "Defender for cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Consideration AVS.md",
+                "file": "Defender for cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Consideration AVS.md",
+                "file": "Defender for cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Consideration AVS.md"
+                "file": "Defender for cloud.md"
               }
             }
           },
@@ -208,21 +207,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f493841c4ac72fef",
+  "active": "b440ef4ef4f2b7d5",
   "lastOpenFiles": [
+    "Data collection rules.md",
+    "Basics Active Directory.md",
     "Azure VMware solution.md",
-    "Security Defaults vs MFA.md",
-    "Privileged Identity Management.md",
+    "Azure Virtual Desktop.md",
+    "Azure and VMware.md",
     "SIEM.md",
     "Security Consideration AVS.md",
+    "Security Defaults vs MFA.md",
+    "Privileged Identity Management.md",
     "LIST.md",
-    "Azure and VMware.md",
     "Assets/Pasted image 20240321071324.png",
     "Assets/Pasted image 20240321071206.png",
     "Assets/Pasted image 20240321071043.png",
     "Assets/Pasted image 20240321071016.png",
     "Assets/Pasted image 20240320064323.png",
-    "Basics Active Directory.md",
     "AZ 900/AZURE Identity ,access and security.md",
     "Setup Windows AD- Virtual Box.md",
     "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers 1.pdf",
@@ -232,7 +233,6 @@
     "ARC.md",
     "2024-02-10.md",
     "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers.pdf",
-    "Azure Virtual Desktop.md",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "MHA KT sessions.md",
     "Defender for cloud.md",
@@ -246,7 +246,6 @@
     "Assets/Pasted image 20240225003525.png",
     "Excalidraw/Drawing 2024-02-25 00.33.58.excalidraw.md",
     "Excalidraw/Drawing 2024-02-10 15.49.59.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-18 23.07.32.excalidraw.md",
     "Assets/Pasted image 20240225001520.png",
     "Assets/Pasted image 20240223222037.png",
     "Assets/Recording 20240210155347.webm"
