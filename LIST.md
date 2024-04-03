@@ -141,3 +141,4 @@ the snp has its own avd in us region
 | Crowdstrike - Crowdscore incidents               |
 | table view of incidents                          |
 | graph view and events timeline view of incidents |
+| creating monitor alerts                          |
