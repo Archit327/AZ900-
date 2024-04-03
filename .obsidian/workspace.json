@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIST.md",
+                "file": "AZ Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "AZ Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "AZ Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "AZ Active Directory.md"
               }
             }
           },
@@ -246,9 +245,11 @@
   },
   "active": "990f6ccbe65654ed",
   "lastOpenFiles": [
-    "Microsoft defender VS Crowdstrike.md",
-    "LIST.md",
     "AZure Active Directory Connect.md",
+    "AZ Active Directory.md",
+    "Azure AD new tenant.md",
+    "LIST.md",
+    "Microsoft defender VS Crowdstrike.md",
     "Untitled.md",
     "Assets/Pasted image 20240403092230.png",
     "Assets/Pasted image 20240403092201.png",
@@ -261,8 +262,6 @@
     "Azure VMware solution.md",
     "Azure Virtual Desktop.md",
     "Azure and VMware.md",
-    "Azure AD new tenant.md",
-    "AZ Active Directory.md",
     "Security Defaults vs MFA.md",
     "Untitled 1.md",
     "Setup Windows AD- Virtual Box.md",
