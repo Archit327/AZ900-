@@ -135,3 +135,9 @@ the snp has its own avd in us region
 | soc incident response                    |
 | SIEM and tools                           |
 | Threat Hunting                           |
+
+| 3-04-24                                          |
+| ------------------------------------------------ |
+| Crowdstrike - Crowdscore incidents               |
+| table view of incidents                          |
+| graph view and events timeline view of incidents |
