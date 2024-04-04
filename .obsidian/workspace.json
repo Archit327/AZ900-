@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d5467d95605eda3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data collection rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b440ef4ef4f2b7d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Defender for cloud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f493841c4ac72fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security Consideration AVS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5bb66b779a000a76",
             "type": "leaf",
             "state": {
@@ -90,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aa0da52e2ea1753f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microsoft defender VS Crowdstrike.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,28 +198,28 @@
   "active": "990f6ccbe65654ed",
   "lastOpenFiles": [
     "AZure Active Directory Connect.md",
+    "Setup Windows AD- Virtual Box.md",
+    "Privileged Identity Management.md",
     "AZ Active Directory.md",
+    "Azure AD vs Windows AD.md",
+    "Basics Active Directory.md",
     "Azure AD new tenant.md",
+    "Custom Domain Name.md",
     "LIST.md",
     "Microsoft defender VS Crowdstrike.md",
     "Untitled.md",
     "Assets/Pasted image 20240403092230.png",
     "Assets/Pasted image 20240403092201.png",
     "Assets/Pasted image 20240403092112.png",
-    "Custom Domain Name.md",
     "Security Consideration AVS.md",
-    "Azure AD vs Windows AD.md",
     "Data collection rules.md",
-    "Basics Active Directory.md",
     "Azure VMware solution.md",
     "Azure Virtual Desktop.md",
     "Azure and VMware.md",
     "Security Defaults vs MFA.md",
     "Untitled 1.md",
-    "Setup Windows AD- Virtual Box.md",
     "Defender for cloud.md",
     "SIEM.md",
-    "Privileged Identity Management.md",
     "Assets/Pasted image 20240321071324.png",
     "Assets/Pasted image 20240321071206.png",
     "Assets/Pasted image 20240321071043.png",

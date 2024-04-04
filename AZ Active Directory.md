@@ -41,7 +41,7 @@ It is like a instance of a azure active directory.
 An org can have multiple tenants , but its not recommended because each tenant is isolated from each other, so there is no benefit in creating 2 or more tenants for single org.
 
 Azure Subscription -
-for using or taking benefit of all the resources of the azure portal , the poerson should have subscription.
+for using or taking benefit of all the resources of the azure portal , the person should have subscription.
 all the resources which are deployed through that subscription are being charged accordingly in  monthly basis.
 a user can be provided with its own subscription as well as can be given some sort of permissions or role for accessing any other subscription.
 
