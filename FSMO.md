@@ -79,3 +79,5 @@ Its a domain wide role can be given to any one DC inthe domain.
 But now there is no use of IM role beacuse 
 - now Microsoft Follows every Domain Controller as Global Catalog because of which the the integrity and consistency will be maintained.
 - the forest are configured to use Recycle bin.
+
+
