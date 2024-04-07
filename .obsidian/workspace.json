@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ Active Directory.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ Active Directory.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ Active Directory.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ Active Directory.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -233,31 +233,31 @@
   },
   "active": "5d10d768950cfbc5",
   "lastOpenFiles": [
-    "Licenses.md",
-    "AZ Active Directory.md",
-    "Azure VMware solution.md",
-    "LIST.md",
-    "FSMO.md",
+    "Untitled.md",
+    "SIEM.md",
+    "Security Consideration AVS.md",
+    "Azure and VMware.md",
+    "Data collection rules.md",
+    "Azure AD new tenant.md",
     "AZure Active Directory Connect.md",
     "Azure AD vs Windows AD.md",
-    "Azure AD new tenant.md",
-    "Basics Active Directory.md",
-    "Data collection rules.md",
     "Custom Domain Name.md",
+    "Basics Active Directory.md",
+    "FSMO.md",
+    "AZ Active Directory.md",
+    "Licenses.md",
+    "Azure VMware solution.md",
+    "LIST.md",
     "Setup Windows AD- Virtual Box.md",
     "Privileged Identity Management.md",
     "Microsoft defender VS Crowdstrike.md",
-    "Untitled.md",
     "Assets/Pasted image 20240403092230.png",
     "Assets/Pasted image 20240403092201.png",
     "Assets/Pasted image 20240403092112.png",
-    "Security Consideration AVS.md",
     "Azure Virtual Desktop.md",
-    "Azure and VMware.md",
     "Security Defaults vs MFA.md",
     "Untitled 1.md",
     "Defender for cloud.md",
-    "SIEM.md",
     "Assets/Pasted image 20240321071324.png",
     "Assets/Pasted image 20240321071206.png",
     "Assets/Pasted image 20240321071043.png",
