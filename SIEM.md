@@ -1,4 +1,17 @@
 
+## What is the SIEM Solution?
+
+SIEM, or Security Information and Event Management, is a solution that gathers logs from all sources of data within your company, examines patterns and occurrences, and notifies the system of any questionable activity.
+
+**By outlining the tool’s two main purposes**
+
+- A safe, central location for gathering log data. It gathers log entry information related to preventing unwanted access from all devices and systems connected to the network.
+- Analysis and correlation of such log entries. SIEM uses ML and AI to identify patterns of harmful activity and trigger alarms.
+
+A sophisticated SIEM technology minimizes false positives and produces alerts in accordance with assessed priorities. By consolidating all relevant security information onto a single platform, it improves visibility. Improved vision results in a more profound comprehension.
+
+It’s crucial to remember that SIEM cannot stop cyberattacks. It’s a tool for detection. Early cyberattack detection allows security professionals to take preventative action. SIEM reduces possible loss or harm and stops it from getting worse. The technology must be configured properly in order to function to its fullest potential, and security specialists must comprehend and act upon the alarms.
+
 Security Information and event management is basically a duo role added to create a more effective security monitoring and management.
 SIEM features and capabilities. Here are the six main features and capabilities of the SIEM. The SIEM technology has evolved with changing threat and technology landscape. In the next lecture, we will be talking about security orchestration, automation and response automation, otherwise known as SOAR.
 
@@ -37,3 +50,4 @@ When you think of security alert, always remember the true positives and true ne
 ### Incident Response 
 
 Refer NIST SP800-61r2 
+

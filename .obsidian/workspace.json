@@ -8,72 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5bb66b779a000a76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure AD new tenant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c00ff2dfc6e975df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure AD vs Windows AD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc1941987f5aada8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AZure Active Directory Connect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "990f6ccbe65654ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AZ Active Directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aa89e48e168cfe18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "FSMO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d10d768950cfbc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crowdstrike.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1a88993f976b59e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crowdstrike.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3fbe3eb641e8ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -159,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crowdstrike.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crowdstrike.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crowdstrike.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -232,12 +195,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d10d768950cfbc5",
+  "active": "f3fbe3eb641e8ffc",
   "lastOpenFiles": [
     "LIST.md",
-    "Crowdstrike.md",
+    "Untitled 1.md",
     "Untitled.md",
     "SIEM.md",
+    "Crowdstrike.md",
     "Security Consideration AVS.md",
     "Azure and VMware.md",
     "Data collection rules.md",
@@ -270,7 +234,6 @@
     "2024-02-10.md",
     "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers.pdf",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
-    "MHA KT sessions.md",
     "Assets/Pasted image 20240229190508.png",
     "Assets/Pasted image 20240229150957.png",
     "Assets/Recording 20240210155347.webm"
