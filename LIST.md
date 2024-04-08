@@ -142,3 +142,12 @@ the snp has its own avd in us region
 | table view of incidents                          |
 | graph view and events timeline view of incidents |
 | creating monitor alerts                          |
+
+
+| 8-4-24                          |     |
+| ------------------------------- | --- |
+| Crowdstrike Documentation       | 2hr |
+| FSMO, DSRM passwords            | 2hr |
+| ADconnect                       | 2hr |
+| how to  manage the AVS security | 2hr |
+|                                 |     |

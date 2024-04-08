@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Crowdstrike.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "Crowdstrike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "Crowdstrike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "Crowdstrike.md"
               }
             }
           },
@@ -232,9 +232,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b94a086cf7e214f6",
+  "active": "5d10d768950cfbc5",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "LIST.md",
+    "Crowdstrike.md",
     "Untitled.md",
     "SIEM.md",
     "Security Consideration AVS.md",
@@ -249,7 +250,6 @@
     "AZ Active Directory.md",
     "Licenses.md",
     "Azure VMware solution.md",
-    "LIST.md",
     "Setup Windows AD- Virtual Box.md",
     "Privileged Identity Management.md",
     "Microsoft defender VS Crowdstrike.md",
