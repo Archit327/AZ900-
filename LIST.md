@@ -151,6 +151,8 @@ the snp has its own avd in us region
 | ADconnect                                                                                      | 2hr |
 | how to  manage the AVS security                                                                | 2hr |
 | Universal grp, global grp, domain local grp                                                    | 1hr |
+| nesting of grps in NATIVE MODE vs MIXED MODE                                                   | 1hr |
 | Active Directory Security Grps                                                                 | 2hr |
 | CrowdStrike MS                                                                                 | 1hr |
 | Crowdstrike ES                                                                                 | 1hr |
+|                                                                                                |     |

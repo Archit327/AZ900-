@@ -97,8 +97,3 @@ It's not possible to apply a policy directly to a user account or directly to a 
 account. It can only be applied as low as the O.A group policy object that is linked to the organizational unit applies to all the users and computers in the organizational unit. The OO design is heavily influenced by the structure of group policy.
 
 
-### Scope of security Groups in AD
-
-- Global - all over the forest
-- Universal - 
-- Domain local
