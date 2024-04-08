@@ -30,7 +30,7 @@ now here is one catch. So for ex in anytime if two DCs start making update then 
 
 ==IMPORTANT== 
 There are two unique role and 3 for every domain.
-Forest WIDE roles are unique and should not be given both to a single DC. and 3 roles are DOMAIN WIDE and they can be divided between 
+Forest WIDE roles are unique and both the roles should not be given to a single DC. and 3 roles are DOMAIN WIDE and they can be divided between the DCs , those Dc can be the DC which have forest wide roles, also can be other DCs.
 The same DC can be assigned multiple FSMO roles, or even all five of them. The DC that is assigned a particular FSMO role is called the **role owner**.
 But giving all the roles to single DC is not recommended and not considered as best practise.
 ### Schema Master Role
@@ -39,7 +39,7 @@ But giving all the roles to single DC is not recommended and not considered as b
 THis is the role which is given to only one DC. which means that among the forest only one Dc will have this Schema master role.
 #### Purpose
 - So this DC willl be responsible for making updates and chnages in the AD schema. which will be then replicated in the other DCs.
-- Also here schema can be known as the blueprint of the AD, such that how the particular object should be created in the AD.
+- Also here schema can be known as the blueprint of the AD, such that how particular object should be created in the AD.
 - For ex - while creating or adding a new object may be like user then what should be the schema or the attribute u have to consider while making it like first name , last name, addr, mobile no.(10 numeric digits limit) etc.
 - Now if u want to make changes to the object like u need to add one more attribute to users that is - their employeeID then these type of things can be done only DC which has the Role OF SCHEMA MASTER.
 
@@ -48,10 +48,10 @@ THis is the role which is given to only one DC. which means that among the fores
 This is the role which is given to only one DC. which means that among the forest only one Dc will have this Schema master role.
 
 #### Purpose
-- It takes care that each Dc in the forest will ahve unique name.
+- It takes care that each Dc in the forest will have unique name.
 - it is responsible for for adding and removing domains in the forest.
 - Only this role has the power to add or remove the DC in the forest.
-- It can also remove or add the cross refernces --> whoch means that the dc with this role DNM will be able to make or break the connection between other directories in the forest.
+- It can also remove or add the cross references --> which means that the dc with this role DNM will be able to make or break the connection between other directories in the forest.
 - So for ex if the company has two dc in different locations and want that these directories should not communicate with each other then DNM-DC  will do that, and if later want the connection to accesss the directories then too DC will again establish the connection.
 
 ### RID Relative ID Master role
@@ -59,12 +59,26 @@ This is the role which is given to only one DC. which means that among the fores
 So in a DOMAIN any one DC should have this role.
 
 #### Purpose
-- The purpose of the DC having this role is that it will be providing the RID pools to the other DCs when requested.
+- The purpose of the DC having this role is that it will be providing the RID pools to the other DCs in the domain when requested.
 - So when a dc creates a new object or OU then they will be assigned with ==UNIQUE SECURITY IDENTIFIER==. 
 - Now these Identifier have unique RID.
 - SO each DC need a pool of RIDs with them to assign it to the new objects they create. And ther Pool of RIDs is provided by this RID MASTER.
 - And when the pool of RID is finished for any DC then it will request the RID MASTER and get a new pool.
 - RID master is also responsible for removing an object from one DC and putting it to another.
+
+WHat happens with RID and SID?
+
+So ==OBJECTSID== is created by using the domain SID(Security Identifier) and the RID pool value.
+For ex--> We create a user "John" in DC whose SID is "A-001-123"
+so while creating it the DC will have a certain RID pool from it will take a RID and give it to the user to be created so that it also has a unique value.
+So now while creating it the OBject i.e the user JOHN will get its own unique ObjectSID which will be combination of DomainSID and RID
+
+DomainSID+RID = ObjectSID
+A-001-123 + 2001 = A-001-123-2001 now this will be the unique ObjectSID of that user which will be unique to the whole domain.
+
+And this is how RID master DC works in the backend to provide the RID pools and see that every object has unique value.
+
+==once the object is created there may be possibility that the name can be changed or other attributes can be changed but the ObjectSID will be unique always==
 
 ### PDC- Primary Domain Controller
 
