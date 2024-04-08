@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f3fbe3eb641e8ffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "LIST.md"
               }
             }
           },
@@ -195,13 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3fbe3eb641e8ffc",
+  "active": "b94a086cf7e214f6",
   "lastOpenFiles": [
+    "Crowdstrike.md",
     "LIST.md",
     "Untitled 1.md",
     "Untitled.md",
     "SIEM.md",
-    "Crowdstrike.md",
     "Security Consideration AVS.md",
     "Azure and VMware.md",
     "Data collection rules.md",
