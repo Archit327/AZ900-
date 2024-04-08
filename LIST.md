@@ -144,10 +144,13 @@ the snp has its own avd in us region
 | creating monitor alerts                          |
 
 
-| 8-4-24                                                                                 |     |
-| -------------------------------------------------------------------------------------- | --- |
-|  Crowdstrike Documentation - how crowdstrike response to a attack with example         | 2hr |
-| FSMO, DSRM passwords                                                                   | 2hr |
-| ADconnect                                                                              | 2hr |
-| how to  manage the AVS security                                                        | 2hr |
-|                                                                                        |     |
+| 8-4-24                                                                                         |     |
+| ---------------------------------------------------------------------------------------------- | --- |
+| Crowdstrike Documentation - how crowdstrike response to a attack with example - bitwise spider | 2hr |
+| FSMO, DSRM password                                                                            | 2hr |
+| ADconnect                                                                                      | 2hr |
+| how to  manage the AVS security                                                                | 2hr |
+| Universal grp, global grp, domain local grp                                                    | 1hr |
+| Active Directory Security Grps                                                                 | 2hr |
+| CrowdStrike MS                                                                                 | 1hr |
+| Crowdstrike ES                                                                                 | 1hr |
