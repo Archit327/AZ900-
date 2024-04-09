@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Consideration AVS.md",
+                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Consideration AVS.md",
+                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Consideration AVS.md"
+                "file": "LIST.md"
               }
             }
           },
@@ -195,8 +196,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3be2038591add311",
+  "active": "b94a086cf7e214f6",
   "lastOpenFiles": [
+    "Security Consideration AVS.md",
     "AD Groups.md",
     "LIST.md",
     "Basics Active Directory.md",
@@ -205,7 +207,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "SIEM.md",
-    "Security Consideration AVS.md",
     "Azure and VMware.md",
     "Data collection rules.md",
     "Azure AD new tenant.md",
