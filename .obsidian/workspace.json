@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AD Groups.md",
+                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AD Groups.md",
+                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD Groups.md"
+                "file": "LIST.md"
               }
             }
           },
@@ -208,8 +207,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4dda485788486563",
+  "active": "b94a086cf7e214f6",
   "lastOpenFiles": [
+    "AD Groups.md",
     "FSMO.md",
     "Security Consideration AVS.md",
     "Security Defaults vs MFA.md",
@@ -220,7 +220,6 @@
     "LIST.md",
     "Basics Active Directory.md",
     "Crowdstrike.md",
-    "AD Groups.md",
     "Azure and VMware.md",
     "Data collection rules.md",
     "Azure AD new tenant.md",
