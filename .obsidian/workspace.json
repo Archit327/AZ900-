@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa89e48e168cfe18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics Active Directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b94a086cf7e214f6",
             "type": "leaf",
             "state": {
@@ -54,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4dda485788486563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aded860549a66fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Consideration AVS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "AD Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "AD Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "AD Groups.md"
               }
             }
           },
@@ -196,17 +208,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b94a086cf7e214f6",
+  "active": "4dda485788486563",
   "lastOpenFiles": [
+    "FSMO.md",
     "Security Consideration AVS.md",
-    "AD Groups.md",
+    "Security Defaults vs MFA.md",
+    "Setup Windows AD- Virtual Box.md",
+    "SIEM.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "LIST.md",
     "Basics Active Directory.md",
     "Crowdstrike.md",
-    "FSMO.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "SIEM.md",
+    "AD Groups.md",
     "Azure and VMware.md",
     "Data collection rules.md",
     "Azure AD new tenant.md",
@@ -216,14 +230,12 @@
     "AZ Active Directory.md",
     "Licenses.md",
     "Azure VMware solution.md",
-    "Setup Windows AD- Virtual Box.md",
     "Privileged Identity Management.md",
     "Microsoft defender VS Crowdstrike.md",
     "Assets/Pasted image 20240403092230.png",
     "Assets/Pasted image 20240403092201.png",
     "Assets/Pasted image 20240403092112.png",
     "Azure Virtual Desktop.md",
-    "Security Defaults vs MFA.md",
     "Defender for cloud.md",
     "Assets/Pasted image 20240321071324.png",
     "Assets/Pasted image 20240321071206.png",
