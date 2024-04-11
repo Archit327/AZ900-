@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crowdstrike.md",
+                "file": "Crowdstrike/Crowdstrike.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Consideration AVS.md",
+                "file": "AVS and VMware/Security Consideration AVS.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AD Groups.md",
+                "file": "Crowdstrike/Falcon.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,22 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Consideration AVS.md",
+                "file": "AVS and VMware/Security Consideration AVS.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "af47fb268fcdfac9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Crowdstrike/Falcon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Crowdstrike/Falcon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Crowdstrike/Falcon.md"
+              }
             }
           },
           {
@@ -212,47 +208,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af47fb268fcdfac9",
+  "active": "4dda485788486563",
   "lastOpenFiles": [
-    "LIST.md",
-    "AD Groups.md",
-    "FSMO.md",
-    "Security Consideration AVS.md",
-    "Security Defaults vs MFA.md",
-    "Setup Windows AD- Virtual Box.md",
-    "SIEM.md",
+    "Azure Virtual desktop",
+    "Microsoft Licenses",
+    "MDE defender for endpoint",
+    "Defender for Cloud",
+    "MHA KT sessions.md",
+    "Windows AD/AD Groups.md",
+    "Sentinel",
+    "AVS and VMware/Security Consideration AVS.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Basics Active Directory.md",
-    "Crowdstrike.md",
-    "Azure and VMware.md",
-    "Data collection rules.md",
-    "Azure AD new tenant.md",
-    "AZure Active Directory Connect.md",
-    "Azure AD vs Windows AD.md",
-    "Custom Domain Name.md",
-    "AZ Active Directory.md",
-    "Licenses.md",
-    "Azure VMware solution.md",
-    "Privileged Identity Management.md",
-    "Microsoft defender VS Crowdstrike.md",
+    "Microsoft Licenses/Licenses.md",
+    "Entra ID - AZure AD/Privileged Identity Management.md",
+    "MDE defender for endpoint/MicrosoftDefender for endpoint.md",
+    "Entra ID - AZure AD",
+    "Crowdstrike/Falcon.md",
+    "Windows AD",
+    "AVS and VMware",
+    "Crowdstrike/Crowdstrike.md",
+    "Crowdstrike",
+    "LIST.md",
+    "Windows AD/FSMO.md",
+    "Entra ID - AZure AD/Security Defaults vs MFA.md",
+    "Windows AD/Setup Windows AD- Virtual Box.md",
+    "Sentinel/SIEM.md",
+    "Windows AD/Basics Active Directory.md",
+    "AVS and VMware/Azure and VMware.md",
+    "Entra ID - AZure AD/Data collection rules.md",
+    "Entra ID - AZure AD/Azure AD new tenant.md",
+    "Entra ID - AZure AD/AZure Active Directory Connect.md",
+    "Entra ID - AZure AD/Azure AD vs Windows AD.md",
+    "Entra ID - AZure AD/Custom Domain Name.md",
+    "Entra ID - AZure AD/AZ Active Directory.md",
+    "AVS and VMware/Azure VMware solution.md",
+    "Crowdstrike/Microsoft defender VS Crowdstrike.md",
     "Assets/Pasted image 20240403092230.png",
     "Assets/Pasted image 20240403092201.png",
     "Assets/Pasted image 20240403092112.png",
-    "Azure Virtual Desktop.md",
-    "Defender for cloud.md",
     "Assets/Pasted image 20240321071324.png",
     "Assets/Pasted image 20240321071206.png",
     "Assets/Pasted image 20240321071043.png",
     "Assets/Pasted image 20240321071016.png",
     "Assets/Pasted image 20240320064323.png",
-    "AZ 900/AZURE Identity ,access and security.md",
     "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers 1.pdf",
-    "ARC.md",
     "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers.pdf",
-    "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "Assets/Pasted image 20240229190508.png",
-    "Assets/Pasted image 20240229150957.png",
-    "Assets/Recording 20240210155347.webm"
+    "Assets/Pasted image 20240229150957.png"
   ]
 }
