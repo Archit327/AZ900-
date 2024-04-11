@@ -66,8 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af47fb268fcdfac9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LIST.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,8 +212,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b94a086cf7e214f6",
+  "active": "af47fb268fcdfac9",
   "lastOpenFiles": [
+    "LIST.md",
     "AD Groups.md",
     "FSMO.md",
     "Security Consideration AVS.md",
@@ -217,7 +223,6 @@
     "SIEM.md",
     "Untitled 1.md",
     "Untitled.md",
-    "LIST.md",
     "Basics Active Directory.md",
     "Crowdstrike.md",
     "Azure and VMware.md",

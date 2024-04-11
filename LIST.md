@@ -100,6 +100,13 @@
 | 10-4-24                                                              |     |
 | -------------------------------------------------------------------- | --- |
 | windows AD two DC joining to single domain and transfering FSMO role | 2hr |
-| Crowdstrike dashboard analysis and documented each tile              | 2hr |
+| What is falcon, need and cpabilities                                 | 2hr |
 | Crowdstrike dashboard analysis and documented each tile              | 2hr |
 |                                                                      |     |
+
+
+| 11-04-24                                                |     |
+| ------------------------------------------------------- | --- |
+| roles in Crowdstrike falcon portal                      | 2hr |
+| Incident investigation in crwodstrike(working)          | 2hr |
+| Crowdstrike dashboard analysis and documented each tile | 2hr |
