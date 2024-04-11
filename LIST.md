@@ -102,11 +102,13 @@
 | windows AD two DC joining to single domain and transfering FSMO role | 2hr |
 | What is falcon, need and cpabilities                                 | 2hr |
 | Crowdstrike dashboard analysis and documented each tile              | 2hr |
-|                                                                      |     |
+| crowdstrike MHAA                                                     |     |
 
 
-| 11-04-24                                                |     |
-| ------------------------------------------------------- | --- |
-| roles in Crowdstrike falcon portal                      | 2hr |
-| Incident investigation in crwodstrike(working)          | 2hr |
-| Crowdstrike dashboard analysis and documented each tile | 2hr |
+| 11-04-24                                                                                     |     |
+| -------------------------------------------------------------------------------------------- | --- |
+| user management in Crowdstrike falcon portal                                                 | 2hr |
+| Incident investigation in crwodstrike(working)                                               | 2hr |
+| falcon, need and cpabilities                                                                 | 2hr |
+| crowdstrike MHA                                                                              | 1hr |
+| AZ vm to DC , create new domain and  create another vm  promote to DC and add to same domain | 1hr |

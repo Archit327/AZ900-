@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crowdstrike/Falcon.md",
+                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crowdstrike/Falcon.md",
+                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crowdstrike/Falcon.md"
+                "file": "LIST.md"
               }
             }
           },
@@ -208,8 +207,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4dda485788486563",
+  "active": "b94a086cf7e214f6",
   "lastOpenFiles": [
+    "Crowdstrike/Falcon.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
@@ -224,7 +224,6 @@
     "Entra ID - AZure AD/Privileged Identity Management.md",
     "MDE defender for endpoint/MicrosoftDefender for endpoint.md",
     "Entra ID - AZure AD",
-    "Crowdstrike/Falcon.md",
     "Windows AD",
     "AVS and VMware",
     "Crowdstrike/Crowdstrike.md",
@@ -253,7 +252,6 @@
     "Assets/Pasted image 20240321071016.png",
     "Assets/Pasted image 20240320064323.png",
     "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers 1.pdf",
-    "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers.pdf",
     "Assets/Pasted image 20240229190508.png",
     "Assets/Pasted image 20240229150957.png"
   ]
