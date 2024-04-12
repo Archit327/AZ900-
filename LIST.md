@@ -112,3 +112,11 @@
 | falcon, need and cpabilities                                                                 | 2hr |
 | crowdstrike MHA                                                                              | 1hr |
 | AZ vm to DC , create new domain and  create another vm  promote to DC and add to same domain | 1hr |
+
+
+| 12-04-24 weekoff                                        |     |
+| ------------------------------------------------------- | --- |
+| falcon, need and cpabilities documentation              |     |
+| user management in crowdstrike documentation            |     |
+| role management in crowdstrike documentation            |     |
+| Crowdstrike dashboard analysis and documented each tile |     |
