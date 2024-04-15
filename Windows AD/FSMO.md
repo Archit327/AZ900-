@@ -45,7 +45,7 @@ THis is the role which is given to only one DC. which means that among the fores
 
 ### Domain Naming Controller
 
-This is the role which is given to only one DC. which means that among the forest only one Dc will have this Schema master role.
+This is the role which is given to only one DC. which means that among the forest only one Dc will have this Domain naming role
 
 #### Purpose
 - It takes care that each Dc in the forest will have unique name.
