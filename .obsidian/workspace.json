@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crowdstrike/Crowdstrike.md",
+                "file": "LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crowdstrike/Falcon Role mangement.md",
+                "file": "Crowdstrike/Scheduled Reports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crowdstrike/Falcon Role mangement.md",
+                "file": "Crowdstrike/Scheduled Reports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crowdstrike/Falcon Role mangement.md"
+                "file": "Crowdstrike/Scheduled Reports.md"
               }
             }
           },
@@ -208,15 +208,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf09421d13db85b5",
+  "active": "4607e60864de1ab1",
   "lastOpenFiles": [
-    "Crowdstrike/Falcon User management.md",
-    "Crowdstrike/Falcon Role mangement.md",
-    "Crowdstrike/Falcon.md",
-    "Crowdstrike/Crowdstrike.md",
-    "Crowdstrike/Scheduled Reports.md",
     "LIST.md",
     "Crowdstrike/Microsoft defender VS Crowdstrike.md",
+    "Crowdstrike/Crowdstrike.md",
+    "Assets/Pasted image 20240415123617.png",
+    "Assets/Pasted image 20240415123550.png",
+    "Crowdstrike/Falcon Role mangement.md",
+    "Crowdstrike/Falcon User management.md",
+    "Crowdstrike/Falcon.md",
+    "Crowdstrike/Scheduled Reports.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
@@ -244,7 +246,6 @@
     "Entra ID - AZure AD/AZure Active Directory Connect.md",
     "Entra ID - AZure AD/Azure AD vs Windows AD.md",
     "Entra ID - AZure AD/Custom Domain Name.md",
-    "Entra ID - AZure AD/AZ Active Directory.md",
     "Assets/Pasted image 20240403092230.png",
     "Assets/Pasted image 20240403092201.png",
     "Assets/Pasted image 20240403092112.png",
@@ -253,8 +254,6 @@
     "Assets/Pasted image 20240321071043.png",
     "Assets/Pasted image 20240321071016.png",
     "Assets/Pasted image 20240320064323.png",
-    "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers 1.pdf",
-    "Assets/Pasted image 20240229190508.png",
-    "Assets/Pasted image 20240229150957.png"
+    "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers 1.pdf"
   ]
 }

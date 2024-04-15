@@ -51,3 +51,36 @@ To view all the default roles
 User accounts use one set of credentials to access multiple CIDs. Once you’ve signed in to your home CID, you have automatic access to any other CIDs associated with your user account.
 
 To change CIDs, on the navigation bar, click the current CID name and select the CID you want to access from the CID list. You can only work in one CID at a time. If you have multiple browser tabs open, they all update when you switch CIDs.
+
+
+### Approved domains
+
+Falcon uses your CID’s allowed domain list to add users. All user accounts that have access to your CID must be created with an email address from the list of approved domains. For example, if a user’s email address is user@local.com , the _@local.com_ domain must be registered in the CID’s domain allowlist.
+
+**Note**: The domain allowlist is configured during a CID’s initial provisioning. To make changes to this list, contact Support.
+
+
+### User Roles
+
+- User roles determine what a user can see and do in the Falcon console. 
+- Every Falcon user is required to have at least one role, which is assigned when a user account is created. 
+- User roles are granted at the CID level, and you can have different roles in each CID you’re associated with. 
+- In each CID, you have access to all of the features that your roles allow.
+
+Falcon offers two types of user roles:
+- global roles -  that are available across all products
+- subscription level roles - that provide access to the features of a specific product.
+
+These role identification will sum up that what is the purpose of that user in that subs. or environment, accordingly got the role.
+
+### User Groups
+We can also create user groups , such that taking a bunch of user and putting them in a group.
+ These groups make it easier to manage access in complex environments by assigning a group of users to specific roles in specific child CIDs.
+
+
+#### Creating a user in a standalone CID or FCTL child CID
+
+1. On the **User management** page (**Host setup and management > Falcon users > User management**), click **Create User**.
+2. Enter the user’s email address, first name, and last name. If you’re planning to enable single sign-on (SSO), the user’s email address must exactly match the information in your IdP.
+3. Select one or more roles. You’ll see only the roles that are associated with the home CID’s purchased Falcon subscriptions, such as Falcon Prevent or Falcon Insight.
+4. Click **Save**.

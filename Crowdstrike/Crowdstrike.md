@@ -98,3 +98,46 @@ let's see how the platform stops an attack in real time.
     - Falcon Firewall Management
     - Falcon OverWatch
     - CrowdStrike Essential Support
+
+
+**CrowdStrike Falcon** subscription options:
+
+1. **Falcon Pro**:
+    - **Annual Price**: $99.99 per device
+    - Features:
+        - Next-gen antivirus
+        - Threat intelligence for deeper environment insight
+        - Automated threat investigations to accelerate alert response
+        - Device control
+        - Integrated threat intelligence
+        - Firewall management
+    
+2. **Falcon Enterprise**:
+    - **Annual Price**: $184.99 per device
+    - Includes everything in Falcon Pro, plus:
+        - Endpoint detection and response (EDR)
+        - Threat hunting capabilities
+    
+3. **Falcon Elite**:
+    - **Pricing**: Contact sales
+    - Enhanced features:
+        - Integrated endpoint and identity protection
+        - Falcon Insight XDR for expanded visibility
+        - Unparalleled threat hunting
+        - Identity security to prevent breaches
+    
+4. **Falcon Complete MDR**:
+    - **Pricing**: Contact sales
+    - Features:
+        - 24/7 managed detection and response across endpoints, identities, cloud workloads, and XDR connectors
+    
+5. **Falcon Go**:
+    - **Annual Price**: $59.99 per year
+    - Flexible access to the entire CrowdStrike portfolio
+    - Deploy only what you need, when you need it
+    - Limited to a maximum of 100 devices
+
+
+
+![[Pasted image 20240415123617.png]]
+![[Pasted image 20240415123550.png]]

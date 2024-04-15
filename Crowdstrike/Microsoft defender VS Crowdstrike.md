@@ -18,5 +18,3 @@ CrowdStrike is an endpoint protection suite designed to protect endpoints and ne
 | Intrusion mitigation | Yes                | Yes         |
 | 2FA                  | Yes                | Yes         |
 | Intrusion detection  | Yes                | Yes         |
-
-### 

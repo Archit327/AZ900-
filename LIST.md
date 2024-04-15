@@ -121,3 +121,15 @@
 | user management in crowdstrike documentation            |     |
 | role management in crowdstrike documentation            |     |
 | Crowdstrike dashboard analysis and documented each tile |     |
+
+
+
+Falcon
+sensors and cloud conncectivity
+user mangement
+roles management , permissions
+triage a endpoint detection
+scheduled reporting - purpose
+products of crowdstrike falcon and their pricings and offering
+users and their risk analysis , risk score
+creating roles by selecting permissions from the list
