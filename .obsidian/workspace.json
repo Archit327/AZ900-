@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf09421d13db85b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Falcon Role mangement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crowdstrike/Crowdstrike.md",
+                "file": "Falcon Role mangement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crowdstrike/Crowdstrike.md",
+                "file": "Falcon Role mangement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crowdstrike/Crowdstrike.md"
+                "file": "Falcon Role mangement.md"
               }
             }
           },
@@ -219,11 +232,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f17f503fca3070dc",
+  "active": "bf09421d13db85b5",
   "lastOpenFiles": [
-    "LIST.md",
+    "Falcon Role mangement.md",
     "Crowdstrike/Falcon.md",
     "Crowdstrike/Crowdstrike.md",
+    "LIST.md",
     "Crowdstrike/Microsoft defender VS Crowdstrike.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
@@ -234,7 +248,6 @@
     "Sentinel",
     "AVS and VMware/Security Consideration AVS.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Microsoft Licenses/Licenses.md",
     "Entra ID - AZure AD/Privileged Identity Management.md",
     "MDE defender for endpoint/MicrosoftDefender for endpoint.md",
