@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b94a086cf7e214f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crowdstrike/Falcon User management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b1a88993f976b59e",
             "type": "leaf",
             "state": {
@@ -66,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfc68dffb386011c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC Training.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a8d8d46afc1efb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crowdstrike/Crowdstrike.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e81245657b6d65d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FAlcon Discover.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -135,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crowdstrike/Scheduled Reports.md",
+                "file": "FAlcon Discover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crowdstrike/Scheduled Reports.md",
+                "file": "FAlcon Discover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crowdstrike/Scheduled Reports.md"
+                "file": "FAlcon Discover.md"
               }
             }
           },
@@ -208,17 +232,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4607e60864de1ab1",
+  "active": "e81245657b6d65d8",
   "lastOpenFiles": [
+    "FAlcon Discover.md",
+    "Crowdstrike/Crowdstrike.md",
+    "Crowdstrike/Scheduled Reports.md",
+    "Crowdstrike/Falcon Role mangement.md",
+    "SOC Training.md",
     "LIST.md",
     "Crowdstrike/Microsoft defender VS Crowdstrike.md",
-    "Crowdstrike/Crowdstrike.md",
     "Assets/Pasted image 20240415123617.png",
     "Assets/Pasted image 20240415123550.png",
-    "Crowdstrike/Falcon Role mangement.md",
     "Crowdstrike/Falcon User management.md",
     "Crowdstrike/Falcon.md",
-    "Crowdstrike/Scheduled Reports.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
@@ -245,7 +271,6 @@
     "Entra ID - AZure AD/Azure AD new tenant.md",
     "Entra ID - AZure AD/AZure Active Directory Connect.md",
     "Entra ID - AZure AD/Azure AD vs Windows AD.md",
-    "Entra ID - AZure AD/Custom Domain Name.md",
     "Assets/Pasted image 20240403092230.png",
     "Assets/Pasted image 20240403092201.png",
     "Assets/Pasted image 20240403092112.png",
