@@ -61,8 +61,22 @@
 - also takes care of the multi factor authentication
 
 
+### CIDs
+In Falcon, a CID (or customer ID) represents a customer account. The CID contains everything relevant to a customer, such as its product subscriptions, data, and users. Depending on the structure and goals of your organization, you can deploy Falcon in 2 configuration models:
 
-  
+- Standalone CID: A standalone CID deployment contains all resources, data collection and processing, and users in one account. This model provides easy management with all work and updates happening in one place.
+    
+- Falcon Flight Control (FCTL): In a FCTL deployment, multiple CIDs are arranged in a hierarchy. This model allows global visibility and operations across all child CIDs from a central parent CID as well as local self-management for each child CID individually.
 
 
+### Home CID
 
+Every user account has a home CID. The home CID is where a user account is created, stored, and managed. The home CID’s configured authentication method, or Falcon credentials (SSO if set up by Support), is used for authentication and logging in to the Falcon console. 
+
+The home CID is defined during user account creation. Your deployment model determines how the home CID is assigned. After a user account is created, the home CID cannot be changed.
+
+- Standalone CIDs: When a user is created in a standalone CID, that CID is the user’s home CID. There is no option to choose a different home CID in standalone accounts.
+- FCTL parent CID: The home CID for Falcon Flight Control parent users is the parent CID.
+- FCTL child CIDs:
+   - When a child CID user is created from the parent CID, you can designate which child CID will be the home CID.
+   - When a user is created locally in a child CID, that child CID is the user’s home CID. There is no option to choose a different home CID.
