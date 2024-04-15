@@ -97,12 +97,13 @@
 | Crowdstrike ES                                                                                 | 1hr | --  |
 | How to transfer FSMO role                                                                      | 2hr | --  |
 
-| 10-4-24                                                              |     |
-| -------------------------------------------------------------------- | --- |
-| windows AD two DC joining to single domain and transfering FSMO role | 2hr |
-| What is falcon, need and cpabilities                                 | 2hr |
-| Crowdstrike dashboard analysis and documented each tile              | 2hr |
-| crowdstrike MHAA                                                     |     |
+| 10-4-24                                                 |     |
+| ------------------------------------------------------- | --- |
+| windows AD two DC joining to single domain              | 2hr |
+| What is falcon, need and cpabilities                    | 2hr |
+| Crowdstrike dashboard analysis and documented each tile | 2hr |
+| crowdstrike MHAA                                        |     |
+|                                                         |     |
 
 
 | 11-04-24                                                                                     |     |

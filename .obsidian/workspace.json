@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIST.md",
+                "file": "Crowdstrike/Falcon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f17f503fca3070dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crowdstrike/Crowdstrike.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "Crowdstrike/Crowdstrike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "Crowdstrike/Crowdstrike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "Crowdstrike/Crowdstrike.md"
               }
             }
           },
@@ -207,9 +219,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b94a086cf7e214f6",
+  "active": "f17f503fca3070dc",
   "lastOpenFiles": [
+    "LIST.md",
     "Crowdstrike/Falcon.md",
+    "Crowdstrike/Crowdstrike.md",
+    "Crowdstrike/Microsoft defender VS Crowdstrike.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
@@ -226,9 +241,7 @@
     "Entra ID - AZure AD",
     "Windows AD",
     "AVS and VMware",
-    "Crowdstrike/Crowdstrike.md",
     "Crowdstrike",
-    "LIST.md",
     "Windows AD/FSMO.md",
     "Entra ID - AZure AD/Security Defaults vs MFA.md",
     "Windows AD/Setup Windows AD- Virtual Box.md",
@@ -242,7 +255,6 @@
     "Entra ID - AZure AD/Custom Domain Name.md",
     "Entra ID - AZure AD/AZ Active Directory.md",
     "AVS and VMware/Azure VMware solution.md",
-    "Crowdstrike/Microsoft defender VS Crowdstrike.md",
     "Assets/Pasted image 20240403092230.png",
     "Assets/Pasted image 20240403092201.png",
     "Assets/Pasted image 20240403092112.png",

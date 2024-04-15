@@ -76,3 +76,25 @@ let's see how the platform stops an attack in real time.
 12. Then you can fully close the loop with cross-domain response actions such as ==adding a compromised identity account to a watch list to force multiactor authentication== all from one unified command console industry leading security that's easy to deploy and operate all while cutting complexity and cost that's crowd strike contact us to learn how you can stop adversaries faster with crowd strike endpoint security.
 
 
+### Volume Flex Bundles
+
+- **Falcon Pro**
+    - Falcon Prevent
+    - Falcon Control and Respond
+    - CrowdStrike Standard Support
+- **Falcon Enterprise**
+    - Falcon Prevent
+    - Falcon Insight XDR/EDR
+    - CrowdStrike Standard Support
+- **Falcon Elite**
+    - Falcon Prevent
+    - Falcon Insight XDR/EDR
+    - Falcon Discover
+    - Falcon Identity Protection
+    - CrowdStrike Standard Support
+- **Optional Falcon Modules or Services**
+    - Falcon Intelligence
+    - Falcon Device Control
+    - Falcon Firewall Management
+    - Falcon OverWatch
+    - CrowdStrike Essential Support
