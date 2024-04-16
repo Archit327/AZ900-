@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "2e53727e888abcd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crowdstrike/Falcon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a074fb74302df1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crowdstrike/Crowdstrike.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4607e60864de1ab1",
             "type": "leaf",
             "state": {
@@ -68,36 +92,12 @@
             }
           },
           {
-            "id": "6a8d8d46afc1efb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crowdstrike/Crowdstrike.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e81245657b6d65d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows AD/FSMO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1fa79795c95c9857",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connecting 2 DCs in a DOMAIN.md",
+                "file": "Windows AD/Connecting 2 DCs in a DOMAIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crowdstrike/Crowdstrike.md",
+                "file": "Crowdstrike/Falcon User management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crowdstrike/Crowdstrike.md",
+                "file": "Crowdstrike/Falcon User management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crowdstrike/Crowdstrike.md"
+                "file": "Crowdstrike/Falcon User management.md"
               }
             }
           },
@@ -244,10 +243,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a8d8d46afc1efb3",
+  "active": "e77a3040509ca8ed",
   "lastOpenFiles": [
+    "SOC Training.md",
+    "Crowdstrike/Falcon User management.md",
+    "Crowdstrike/Scheduled Reports.md",
+    "Crowdstrike/Falcon.md",
+    "Crowdstrike/Falcon Role mangement.md",
+    "Crowdstrike/Crowdstrike.md",
+    "SOC sessions.md",
+    "Windows AD/FSMO.md",
+    "Windows AD/Connecting 2 DCs in a DOMAIN.md",
+    "AZ 900/SECURITY BASICS.md",
     "Assets/Pasted image 20240416110957.png",
-    "Connecting 2 DCs in a DOMAIN.md",
     "Assets/Pasted image 20240416110028.png",
     "Assets/Pasted image 20240416105254.png",
     "Assets/Pasted image 20240416105231.png",
@@ -257,17 +265,9 @@
     "Assets/Pasted image 20240416102200.png",
     "Assets/Pasted image 20240416091744.png",
     "Assets/Pasted image 20240416090117.png",
-    "Windows AD/FSMO.md",
-    "FAlcon Discover.md",
-    "Crowdstrike/Crowdstrike.md",
-    "Crowdstrike/Scheduled Reports.md",
-    "Crowdstrike/Falcon Role mangement.md",
-    "SOC Training.md",
+    "Crowdstrike/FAlcon Discover.md",
     "LIST.md",
     "Crowdstrike/Microsoft defender VS Crowdstrike.md",
-    "Assets/Pasted image 20240415123617.png",
-    "Crowdstrike/Falcon User management.md",
-    "Crowdstrike/Falcon.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
@@ -290,7 +290,6 @@
     "Windows AD/Basics Active Directory.md",
     "AVS and VMware/Azure and VMware.md",
     "Entra ID - AZure AD/Data collection rules.md",
-    "Entra ID - AZure AD/Azure AD new tenant.md",
     "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers 1.pdf"
   ]
 }
