@@ -28,26 +28,10 @@ The main purposes of SIEM tools are to collect event logs and offer actionable s
 - **Data Gathering:** EDR only gathers data from endpoints. Apart from endpoints, SIEM gathers data from numerous sources. The network, users, applications, cloud, and on-premise infrastructure are all included in the multi-layered approach to log gathering.
 - **Threat Hunting:** Because there are several sources for log gathering, there are various levels of log analysis as well. SIEM uses machine learning to filter enormous amounts of log data and provide custom analytical criteria. EDR may overlap with SIEM findings because it only collects data from endpoints.
 
-## What are CrowdStrike’s products?
-
-The main product of Crowd strike is Crowdstrike Falcon. This is a cloud native platform which provides endpoint protection, threat intelligence and attribution. It uses artificial intelligence and behavioral analytics to detect and prevent cyberattacks in real time. It also provides visibility and control over the entire attack lifecycle. Crowd Strike Falcon can be deployed on various devices, such as laptops, desktops, servers, mobile devices and cloud workloads.
-
-**CrowdStrike also has other products that complement its platform, such as:**
-
-- **CrowdStrike Falcon X:** This product keeps a check for threat analysis and delivers customized intelligence to help organizations understand and respond to threats faster. Threats can cause some serious panic and damage to one needs to be careful.
-- **CrowdStrike Falcon Complete:** An overall security of your data is a necessity. This product provides a fully managed service that handles all aspects of endpoint security, from deployment to monitoring of your data.
-- **CrowdStrike Falcon Spotlight:** Every data, no matter how secure it is, always has some vulnerable points. It needs to assessed regularly. This product scans and assesses the vulnerability of endpoints and cloud workloads. It also provides you with the solutions to your problems.
-- **CrowdStrike Falcon Horizon:** Even secured, keeping your cloud in check is important. This product secures and monitors cloud environments, such as AWS, Azure and Google Cloud Platform.
-- **CrowdStrike Falcon Identity Protection:** Along with data, your personal information is also important to safekeep. This product protects user identities and credentials from compromise and misuse.
-- **CrowdStrike Falcon Data Protection:** Ransomware attacks is one of the oldest books in the trick. This product protects sensitive data from exfiltration and ransomware attacks.
-
-Most famous and highly advanced and inuse product of Crwodstrike is FALCON.
-
-### FALCON
-
-Falcon is a endpoint security platform that uses AI and Ml to detect, prevent and respond to the cyber threats.
 
 
+
+---
 
 ## Crowd strike endpoint security with Scenario
 crowd strike is a EDR soluiton provider with an adversary focused approach to Modern endpoint security.
@@ -75,7 +59,17 @@ let's see how the platform stops an attack in real time.
 11. The buil-in AI investigator provides an easy end to end summary of the attack and can uncover additional related context for your xdr incident graph such as highlighting other impacted systems.
 12. Then you can fully close the loop with cross-domain response actions such as ==adding a compromised identity account to a watch list to force multiactor authentication== all from one unified command console industry leading security that's easy to deploy and operate all while cutting complexity and cost that's crowd strike contact us to learn how you can stop adversaries faster with crowd strike endpoint security.
 
+---
 
+## What is CrowdStrike’s product Falcon?
+
+The main product of Crowd strike is Crowdstrike Falcon. This is a cloud native platform which provides endpoint protection, threat intelligence and attribution. It uses artificial intelligence and behavioral analytics to detect and prevent cyberattacks in real time. It also provides visibility and control over the entire attack lifecycle. Crowd Strike Falcon can be deployed on various devices, such as laptops, desktops, servers, mobile devices and cloud workloads.
+
+Most famous and highly advanced and inuse product of Crwodstrike is FALCON.
+
+### FALCON
+
+Falcon is a endpoint security platform that uses AI and Ml to detect, prevent and respond to the cyber threats.
 ### Volume Flex Bundles
 
 - **Falcon Pro**
@@ -141,3 +135,23 @@ let's see how the platform stops an attack in real time.
 
 ![[Pasted image 20240415123617.png]]
 ![[Pasted image 20240415123550.png]]
+
+
+## what is the prupose and what do we get from falcon for running those purpose?
+
+So the main key aspect of crwodstrike falcon is that within the given environment the breaches should be stopped and preidentified.
+
+So basically stopping the breaches to occur it the environment.
+
+### What do we get to use to stop breach?
+
+So falcon provides bunch of tools and features for securing the environment and monitoring proactively.
+
+- Endpoint protection - next Gen AV (falcon prevent), usb control(falcon device control), falcon firewall management
+- Threat Intelligence - Threat intel, search
+- Security Operation - Threat hunting(falcon adversary overwatch), IT hygiene(falcon discover), vulnerability management
+- Managed hunting - falcon insight XDR, falcon identity protection
+
+![[Pasted image 20240416110957.png]]
+
+

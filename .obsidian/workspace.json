@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connecting 2 DCs in a DOMAIN.md",
+                "file": "Crowdstrike/Crowdstrike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Connecting 2 DCs in a DOMAIN.md",
+                "file": "Crowdstrike/Crowdstrike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Connecting 2 DCs in a DOMAIN.md"
+                "file": "Crowdstrike/Crowdstrike.md"
               }
             }
           },
@@ -243,11 +244,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1fa79795c95c9857",
+  "active": "6a8d8d46afc1efb3",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240416110957.png",
+    "Connecting 2 DCs in a DOMAIN.md",
+    "Assets/Pasted image 20240416110028.png",
+    "Assets/Pasted image 20240416105254.png",
+    "Assets/Pasted image 20240416105231.png",
+    "Assets/Pasted image 20240416104806.png",
+    "Assets/Pasted image 20240416104745.png",
+    "Assets/Pasted image 20240416104737.png",
+    "Assets/Pasted image 20240416102200.png",
     "Assets/Pasted image 20240416091744.png",
     "Assets/Pasted image 20240416090117.png",
-    "Connecting 2 DCs in a DOMAIN.md",
     "Windows AD/FSMO.md",
     "FAlcon Discover.md",
     "Crowdstrike/Crowdstrike.md",
@@ -257,7 +266,6 @@
     "LIST.md",
     "Crowdstrike/Microsoft defender VS Crowdstrike.md",
     "Assets/Pasted image 20240415123617.png",
-    "Assets/Pasted image 20240415123550.png",
     "Crowdstrike/Falcon User management.md",
     "Crowdstrike/Falcon.md",
     "Azure Virtual desktop",
@@ -283,13 +291,6 @@
     "AVS and VMware/Azure and VMware.md",
     "Entra ID - AZure AD/Data collection rules.md",
     "Entra ID - AZure AD/Azure AD new tenant.md",
-    "Assets/Pasted image 20240403092230.png",
-    "Assets/Pasted image 20240403092201.png",
-    "Assets/Pasted image 20240403092112.png",
-    "Assets/Pasted image 20240321071324.png",
-    "Assets/Pasted image 20240321071206.png",
-    "Assets/Pasted image 20240321071043.png",
-    "Assets/Pasted image 20240321071016.png",
     "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers 1.pdf"
   ]
 }
