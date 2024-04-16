@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crowdstrike/Falcon User management.md",
+                "file": "SOC Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crowdstrike/Falcon User management.md",
+                "file": "SOC Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crowdstrike/Falcon User management.md"
+                "file": "SOC Training.md"
               }
             }
           },
@@ -243,10 +244,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e77a3040509ca8ed",
+  "active": "bfc68dffb386011c",
   "lastOpenFiles": [
-    "SOC Training.md",
     "Crowdstrike/Falcon User management.md",
+    "SOC Training.md",
     "Crowdstrike/Scheduled Reports.md",
     "Crowdstrike/Falcon.md",
     "Crowdstrike/Falcon Role mangement.md",
