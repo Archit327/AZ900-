@@ -133,3 +133,11 @@ scheduled reporting - purpose
 products of crowdstrike falcon and their pricings and offering
 users and their risk analysis , risk score
 creating roles by selecting permissions from the list
+
+
+| 17-04-24                                                                                                |
+| ------------------------------------------------------------------------------------------------------- |
+| SC-200 module 4                                                                                         |
+| cyber kill chain                                                                                        |
+| crowdstrike MHA                                                                                         |
+| step by step guide "Windows AD joining two DCs and transferring the FSMO roles" - DOcumentation Started |
