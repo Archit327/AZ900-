@@ -22,8 +22,14 @@
 
 
 
-| session 1 soc                                                                     |
-| --------------------------------------------------------------------------------- |
-| [TryHackMe \| SOC Level 1 Training](https://tryhackme.com/path/outline/soclevel1) |
-| network security and traffic  analysis                                            |
-| white shark                                                                       |
+| session 1 soc                                                                     |                                              |
+| --------------------------------------------------------------------------------- | -------------------------------------------- |
+| [TryHackMe \| SOC Level 1 Training](https://tryhackme.com/path/outline/soclevel1) |                                              |
+| network security and traffic  analysis - tryhackme                                |                                              |
+| wire shark                                                                        |                                              |
+| cyber kill chain, unified kill chain                                              |                                              |
+| event viewer                                                                      |                                              |
+| core windows processes                                                            |                                              |
+| phishing analysis - tryhackme                                                     |                                              |
+| SHA keys and their purpose and use                                                |                                              |
+| [TryHackMe                                                                        | Learning Paths](https://tryhackme.com/paths) |

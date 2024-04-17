@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -246,13 +245,13 @@
   },
   "active": "bfc68dffb386011c",
   "lastOpenFiles": [
-    "Crowdstrike/Falcon User management.md",
+    "SOC sessions.md",
     "SOC Training.md",
+    "Crowdstrike/Falcon User management.md",
     "Crowdstrike/Scheduled Reports.md",
     "Crowdstrike/Falcon.md",
     "Crowdstrike/Falcon Role mangement.md",
     "Crowdstrike/Crowdstrike.md",
-    "SOC sessions.md",
     "Windows AD/FSMO.md",
     "Windows AD/Connecting 2 DCs in a DOMAIN.md",
     "AZ 900/SECURITY BASICS.md",
