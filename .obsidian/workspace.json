@@ -32,66 +32,6 @@
             }
           },
           {
-            "id": "4a074fb74302df1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crowdstrike/Crowdstrike.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4607e60864de1ab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crowdstrike/Scheduled Reports.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e77a3040509ca8ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crowdstrike/Falcon User management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfc68dffb386011c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOC Training.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fa79795c95c9857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows AD/Connecting 2 DCs in a DOMAIN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "26efa8c1cd1a6fe9",
             "type": "leaf",
             "state": {
@@ -102,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ffc55ec113e33af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -171,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows AD/Basics Active Directory.md",
+                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows AD/Basics Active Directory.md",
+                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows AD/Basics Active Directory.md"
+                "file": "LIST.md"
               }
             }
           },
@@ -244,11 +195,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26efa8c1cd1a6fe9",
+  "active": "1ffc55ec113e33af",
   "lastOpenFiles": [
+    "Windows AD/Basics Active Directory.md",
     "Crowdstrike/Falcon Role mangement.md",
     "Excalidraw/Active Directory Trust.excalidraw.md",
-    "Windows AD/Basics Active Directory.md",
     "Excalidraw/Drawing 2024-04-17 14.22.46.excalidraw.md",
     "LIST.md",
     "SOC Training.md",
