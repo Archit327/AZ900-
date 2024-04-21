@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9b9ffce202e7079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hjwdvjvdc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "hjwdvjvdc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "hjwdvjvdc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "hjwdvjvdc.md"
               }
             }
           },
@@ -195,13 +207,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ffc55ec113e33af",
+  "active": "c9b9ffce202e7079",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240422021222.png",
+    "Assets/Pasted image 20240422021125.png",
+    "Assets/Pasted image 20240422021057.png",
+    "Assets/Pasted image 20240422020949.png",
+    "LIST.md",
+    "hjwdvjvdc.md",
+    "Assets/Pasted image 20240422020241.png",
     "Windows AD/Basics Active Directory.md",
     "Crowdstrike/Falcon Role mangement.md",
     "Excalidraw/Active Directory Trust.excalidraw.md",
     "Excalidraw/Drawing 2024-04-17 14.22.46.excalidraw.md",
-    "LIST.md",
     "SOC Training.md",
     "SOC sessions.md",
     "Crowdstrike/Falcon User management.md",
@@ -217,10 +235,6 @@
     "Assets/Pasted image 20240416105231.png",
     "Assets/Pasted image 20240416104806.png",
     "Assets/Pasted image 20240416104745.png",
-    "Assets/Pasted image 20240416104737.png",
-    "Assets/Pasted image 20240416102200.png",
-    "Assets/Pasted image 20240416091744.png",
-    "Assets/Pasted image 20240416090117.png",
     "Crowdstrike/FAlcon Discover.md",
     "Crowdstrike/Microsoft defender VS Crowdstrike.md",
     "Azure Virtual desktop",
@@ -240,8 +254,6 @@
     "AVS and VMware",
     "Crowdstrike",
     "Entra ID - AZure AD/Security Defaults vs MFA.md",
-    "Windows AD/Setup Windows AD- Virtual Box.md",
-    "Sentinel/SIEM.md",
     "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers 1.pdf"
   ]
 }
