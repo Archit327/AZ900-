@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hjwdvjvdc.md",
+                "file": "Windows AD/Basics Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hjwdvjvdc.md",
+                "file": "Windows AD/Basics Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hjwdvjvdc.md"
+                "file": "Windows AD/Basics Active Directory.md"
               }
             }
           },
@@ -207,14 +208,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9b9ffce202e7079",
+  "active": "26efa8c1cd1a6fe9",
   "lastOpenFiles": [
+    "LIST.md",
+    "hjwdvjvdc.md",
     "Assets/Pasted image 20240422021222.png",
     "Assets/Pasted image 20240422021125.png",
     "Assets/Pasted image 20240422021057.png",
     "Assets/Pasted image 20240422020949.png",
-    "LIST.md",
-    "hjwdvjvdc.md",
     "Assets/Pasted image 20240422020241.png",
     "Windows AD/Basics Active Directory.md",
     "Crowdstrike/Falcon Role mangement.md",
@@ -234,7 +235,6 @@
     "Assets/Pasted image 20240416105254.png",
     "Assets/Pasted image 20240416105231.png",
     "Assets/Pasted image 20240416104806.png",
-    "Assets/Pasted image 20240416104745.png",
     "Crowdstrike/FAlcon Discover.md",
     "Crowdstrike/Microsoft defender VS Crowdstrike.md",
     "Azure Virtual desktop",
