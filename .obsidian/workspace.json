@@ -47,11 +47,9 @@
             "id": "1ffc55ec113e33af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "LIST.md",
-                "mode": "source",
-                "source": false
+                "file": "AZ 900/AZ900 Notes by Sraj Linkedin.pdf"
               }
             }
           },
@@ -68,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows AD/Basics Active Directory.md",
+                "file": "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows AD/Basics Active Directory.md",
+                "file": "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows AD/Basics Active Directory.md"
+                "file": "AZ 900/AZ900 Notes by Sraj Linkedin.pdf"
               }
             }
           },
@@ -208,16 +206,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26efa8c1cd1a6fe9",
+  "active": "1ffc55ec113e33af",
   "lastOpenFiles": [
-    "LIST.md",
     "hjwdvjvdc.md",
+    "Assets/Pasted image 20240424182700.png",
+    "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
+    "LIST.md",
+    "Windows AD/Basics Active Directory.md",
     "Assets/Pasted image 20240422021222.png",
     "Assets/Pasted image 20240422021125.png",
     "Assets/Pasted image 20240422021057.png",
     "Assets/Pasted image 20240422020949.png",
     "Assets/Pasted image 20240422020241.png",
-    "Windows AD/Basics Active Directory.md",
     "Crowdstrike/Falcon Role mangement.md",
     "Excalidraw/Active Directory Trust.excalidraw.md",
     "Excalidraw/Drawing 2024-04-17 14.22.46.excalidraw.md",
@@ -234,7 +234,6 @@
     "Assets/Pasted image 20240416110028.png",
     "Assets/Pasted image 20240416105254.png",
     "Assets/Pasted image 20240416105231.png",
-    "Assets/Pasted image 20240416104806.png",
     "Crowdstrike/FAlcon Discover.md",
     "Crowdstrike/Microsoft defender VS Crowdstrike.md",
     "Azure Virtual desktop",
@@ -253,7 +252,6 @@
     "Windows AD",
     "AVS and VMware",
     "Crowdstrike",
-    "Entra ID - AZure AD/Security Defaults vs MFA.md",
-    "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers 1.pdf"
+    "Entra ID - AZure AD/Security Defaults vs MFA.md"
   ]
 }
