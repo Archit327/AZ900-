@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows AD/Basics Active Directory.md",
+                "file": "Crowdstrike/Crowdstrike.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,21 +52,9 @@
                 "file": "AZ 900/AZ900 Notes by Sraj Linkedin.pdf"
               }
             }
-          },
-          {
-            "id": "c9b9ffce202e7079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hjwdvjvdc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
+                "file": "Crowdstrike/Crowdstrike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
+                "file": "Crowdstrike/Crowdstrike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ 900/AZ900 Notes by Sraj Linkedin.pdf"
+                "file": "Crowdstrike/Crowdstrike.md"
               }
             }
           },
@@ -206,13 +193,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ffc55ec113e33af",
+  "active": "26efa8c1cd1a6fe9",
   "lastOpenFiles": [
+    "Entra ID - AZure AD/Data collection rules.md",
+    "Entra ID - AZure AD/Privileged Identity Management.md",
+    "Entra ID - AZure AD/Security Defaults vs MFA.md",
+    "MDE defender for endpoint/MicrosoftDefender for endpoint.md",
+    "Sentinel/SIEM.md",
+    "Windows AD/AD Groups.md",
+    "Windows AD/Basics Active Directory.md",
+    "Crowdstrike/Falcon.md",
+    "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "hjwdvjvdc.md",
     "Assets/Pasted image 20240424182700.png",
-    "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "LIST.md",
-    "Windows AD/Basics Active Directory.md",
     "Assets/Pasted image 20240422021222.png",
     "Assets/Pasted image 20240422021125.png",
     "Assets/Pasted image 20240422021057.png",
@@ -225,7 +219,6 @@
     "SOC sessions.md",
     "Crowdstrike/Falcon User management.md",
     "Crowdstrike/Scheduled Reports.md",
-    "Crowdstrike/Falcon.md",
     "Crowdstrike/Crowdstrike.md",
     "Windows AD/FSMO.md",
     "Windows AD/Connecting 2 DCs in a DOMAIN.md",
@@ -241,17 +234,12 @@
     "MDE defender for endpoint",
     "Defender for Cloud",
     "MHA KT sessions.md",
-    "Windows AD/AD Groups.md",
     "Sentinel",
     "AVS and VMware/Security Consideration AVS.md",
     "Untitled 1.md",
-    "Microsoft Licenses/Licenses.md",
-    "Entra ID - AZure AD/Privileged Identity Management.md",
-    "MDE defender for endpoint/MicrosoftDefender for endpoint.md",
     "Entra ID - AZure AD",
     "Windows AD",
     "AVS and VMware",
-    "Crowdstrike",
-    "Entra ID - AZure AD/Security Defaults vs MFA.md"
+    "Crowdstrike"
   ]
 }
