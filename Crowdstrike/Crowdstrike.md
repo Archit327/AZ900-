@@ -69,7 +69,7 @@ Most famous and highly advanced and inuse product of Crwodstrike is FALCON.
 
 ### FALCON
 
-Falcon is a endpoint security platform that uses AI and Ml to detect, prevent and respond to the cyber threats.
+Falcon is a endpoint security platform that uses AI and ML to detect, prevent and respond to the cyber threats.
 ### Volume Flex Bundles
 
 - **Falcon Pro**

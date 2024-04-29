@@ -21,7 +21,7 @@ Each role is listed with a description and this overview info:
 - **Groups**: For Flight Control, the number of user groups and CID groups assigned the role
 
 #### Create a custom role
-1. Go to **Host setup and management > Falcon users > Roles and permissions** and click **Create role**.
+1. Go to **Host setup and management > Falcon users > Roles and permissions** and click **Create role**.(You must have Falcon Administrator role to create new role)
 2. Specify a role name and description, then click **Create role**.
 3. Specify role permissions
 4. Select the check box of permissions you want to enable and clear the check box of permissions you want to disable, then click **Save**.
