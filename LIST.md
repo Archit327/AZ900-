@@ -141,3 +141,10 @@ creating roles by selecting permissions from the list
 | cyber kill chain                                                                                        |
 | crowdstrike MHA                                                                                         |
 | step by step guide "Windows AD joining two DCs and transferring the FSMO roles" - DOcumentation Started |
+
+| plan to get ready for sentinel |
+| ------------------------------ |
+| Sc-200                         |
+| SIEM basics                    |
+| Ninja hands on training        |
+| Microsoft defender XDR         |

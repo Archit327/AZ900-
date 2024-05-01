@@ -64,9 +64,21 @@
                 "file": "AZ 900/AZ900 Notes by Sraj Linkedin.pdf"
               }
             }
+          },
+          {
+            "id": "ad34dd05e3ed0172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows AD/FSMO.md",
+                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows AD/FSMO.md",
+                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows AD/FSMO.md"
+                "file": "LIST.md"
               }
             }
           },
@@ -205,8 +217,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d6f80b84f705d45",
+  "active": "ad34dd05e3ed0172",
   "lastOpenFiles": [
+    "Windows AD/FSMO.md",
     "Crowdstrike/Falcon User management.md",
     "Assets/Pasted image 20240430120859.png",
     "Crowdstrike/Falcon Role mangement.md",
@@ -234,7 +247,6 @@
     "SOC Training.md",
     "SOC sessions.md",
     "Crowdstrike/Scheduled Reports.md",
-    "Windows AD/FSMO.md",
     "Windows AD/Connecting 2 DCs in a DOMAIN.md",
     "AZ 900/SECURITY BASICS.md",
     "Assets/Pasted image 20240416110957.png",
