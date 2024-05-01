@@ -29,3 +29,30 @@ there are 4 elements in MD for cloud apps framework:
 - you can see the what types of apps are being used and alerts and risk identified in them
 - You can see all top users of the app and from where do they come from.
 - you can also customize what data you want to see in cloud discovery.
+
+![[Pasted image 20240501145556.png  | 550]]
+![[Pasted image 20240501145626.png | 450]]
+
+
+ - View where discovered apps are located (based on their headquarters) in the **App Headquarters map**.
+- If you find an app that poses a risk to your organization, you can flag it as **Unsanctioned** in the **Discovered apps** pane.
+
+If your organization is using Microsoft Defender for Endpoint (or a similar solution), any unsanctioned app is automatically blocked.
+
+
+### Conditional Access APP control
+
+Protect your data and apps with Conditional Access App Control.
+
+Now Cloud discovery lets you know the overview of all the apps and users connectivity and how everything is being consumed.
+
+But now we just dont need to see but also we need to stop breaches and leaks in real time before the org and its data comes to risk.
+- Microsoft Defender for Cloud Apps integrates with identity providers (IdPs) to protect your data and devices with access and session controls through **Conditional Access App Control**.
+- If you're using Microsoft Entra ID as your IdP, these controls are integrated directly into Defender for Cloud Apps.
+
+- Conditional Access App Control lets you monitor and control user app access and sessions in real time.
+- In microsoft entra id --> conditional access --> create policy
+  u can create new policy allowing or restricting the users from access the particular cloud apps
+
+![[Pasted image 20240501155603.png | 350]]
+
