@@ -4,81 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "01cc366f1966397c",
+        "id": "17a08f9d989b0415",
         "type": "tabs",
         "children": [
           {
-            "id": "bf09421d13db85b5",
+            "id": "77c41a18bd67d5f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crowdstrike/Falcon Role mangement.md",
+                "file": "CASB.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2e53727e888abcd1",
+            "id": "7316227fa0f1877a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crowdstrike/Falcon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26efa8c1cd1a6fe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crowdstrike/Crowdstrike.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d6f80b84f705d45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows AD/FSMO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ffc55ec113e33af",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AZ 900/AZ900 Notes by Sraj Linkedin.pdf"
-              }
-            }
-          },
-          {
-            "id": "ad34dd05e3ed0172",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIST.md",
+                "file": "Microsoft defender for cloud apps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -144,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "Microsoft defender for cloud apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "Microsoft defender for cloud apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "Microsoft defender for cloud apps.md"
               }
             }
           },
@@ -217,8 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad34dd05e3ed0172",
+  "active": "7316227fa0f1877a",
   "lastOpenFiles": [
+    "CASB.md",
+    "Microsoft defender for cloud apps.md",
+    "Assets/Pasted image 20240501141640.png",
+    "LIST.md",
     "Windows AD/FSMO.md",
     "Crowdstrike/Falcon User management.md",
     "Assets/Pasted image 20240430120859.png",
@@ -236,7 +195,6 @@
     "Crowdstrike/Falcon.md",
     "hjwdvjvdc.md",
     "Assets/Pasted image 20240424182700.png",
-    "LIST.md",
     "Assets/Pasted image 20240422021222.png",
     "Assets/Pasted image 20240422021125.png",
     "Assets/Pasted image 20240422021057.png",
@@ -251,15 +209,12 @@
     "AZ 900/SECURITY BASICS.md",
     "Assets/Pasted image 20240416110957.png",
     "Assets/Pasted image 20240416110028.png",
-    "Assets/Pasted image 20240416105254.png",
     "Crowdstrike/Microsoft defender VS Crowdstrike.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
     "Defender for Cloud",
-    "MHA KT sessions.md",
     "Sentinel",
-    "AVS and VMware/Security Consideration AVS.md",
     "Entra ID - AZure AD",
     "Windows AD",
     "AVS and VMware",
