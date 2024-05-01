@@ -142,9 +142,10 @@ creating roles by selecting permissions from the list
 | crowdstrike MHA                                                                                         |
 | step by step guide "Windows AD joining two DCs and transferring the FSMO roles" - DOcumentation Started |
 
-| plan to get ready for sentinel |
-| ------------------------------ |
-| Sc-200                         |
-| SIEM basics                    |
-| Ninja hands on training        |
-| Microsoft defender XDR         |
+| plan to get ready for sentinel                           |                                                                                                                                                                   | deadline |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Sc-200                                                   | completing the sc-200 certificate module                                                                                                                          | 10 may   |
+| Cloud-native security operations with Microsoft Sentinel | [Cloud-native security operations with Microsoft Sentinel - Training \| Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/security-ops-sentinel/) | 1 week   |
+| Ninja hands on training                                  | getting hands on experience on sentinel                                                                                                                           | 2 weeks  |
+| Splunk                                                   | overview and how it works , its features and how it is different from other siem tools                                                                            | 1 week   |
+|                                                          |                                                                                                                                                                   |          |
