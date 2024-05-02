@@ -25,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft defender for cloud apps.md",
+                "file": "Crowdstrike/Crowdstrike.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd93ac3d4a265814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIST.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft defender for cloud apps.md",
+                "file": "CASB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microsoft defender for cloud apps.md",
+                "file": "CASB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microsoft defender for cloud apps.md"
+                "file": "CASB.md"
               }
             }
           },
@@ -172,21 +183,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7316227fa0f1877a",
+  "active": "77c41a18bd67d5f1",
   "lastOpenFiles": [
+    "Microsoft defender for cloud apps.md",
+    "CASB.md",
+    "LIST.md",
+    "Crowdstrike/Crowdstrike.md",
     "Assets/Pasted image 20240501155603.png",
     "Assets/Pasted image 20240501145626.png",
     "Assets/Pasted image 20240501145556.png",
-    "CASB.md",
-    "Microsoft defender for cloud apps.md",
     "Assets/Pasted image 20240501141640.png",
-    "LIST.md",
     "Windows AD/FSMO.md",
     "Crowdstrike/Falcon User management.md",
     "Assets/Pasted image 20240430120859.png",
     "Crowdstrike/Falcon Role mangement.md",
     "Crowdstrike/FAlcon Discover.md",
-    "Crowdstrike/Crowdstrike.md",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "Entra ID - AZure AD/Data collection rules.md",
     "Entra ID - AZure AD/Privileged Identity Management.md",
@@ -202,7 +213,6 @@
     "Assets/Pasted image 20240422021125.png",
     "Assets/Pasted image 20240422021057.png",
     "Assets/Pasted image 20240422020949.png",
-    "Assets/Pasted image 20240422020241.png",
     "Excalidraw/Active Directory Trust.excalidraw.md",
     "Excalidraw/Drawing 2024-04-17 14.22.46.excalidraw.md",
     "SOC Training.md",
