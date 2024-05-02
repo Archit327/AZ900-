@@ -40,7 +40,7 @@ there are 4 elements in MD for cloud apps framework:
 If your organization is using Microsoft Defender for Endpoint (or a similar solution), any unsanctioned app is automatically blocked.
 
 
-### Conditional Access APP control
+### Conditional Access App control
 
 Protect your data and apps with Conditional Access App Control.
 

@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIST.md",
+                "file": "Microsoft defender for cloud apps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CASB.md",
+                "file": "Microsoft defender for cloud apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CASB.md",
+                "file": "Microsoft defender for cloud apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CASB.md"
+                "file": "Microsoft defender for cloud apps.md"
               }
             }
           },
@@ -183,11 +184,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77c41a18bd67d5f1",
+  "active": "fd93ac3d4a265814",
   "lastOpenFiles": [
-    "Microsoft defender for cloud apps.md",
-    "CASB.md",
     "LIST.md",
+    "CASB.md",
+    "Microsoft defender for cloud apps.md",
     "Crowdstrike/Crowdstrike.md",
     "Assets/Pasted image 20240501155603.png",
     "Assets/Pasted image 20240501145626.png",
