@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "4fdc7fa82f2d99d1",
+            "id": "6c7af8e7c58b294d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDR, XDR, NDR, SIEM.md",
+                "file": "Log analytics workspace.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDR, XDR, NDR, SIEM.md",
+                "file": "Log analytics workspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDR, XDR, NDR, SIEM.md",
+                "file": "Log analytics workspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDR, XDR, NDR, SIEM.md"
+                "file": "Log analytics workspace.md"
               }
             }
           },
@@ -208,10 +208,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4fdc7fa82f2d99d1",
+  "active": "6c7af8e7c58b294d",
   "lastOpenFiles": [
-    "EDR, XDR, NDR, SIEM.md",
+    "Log analytics workspace.md",
     "Microsoft sentinel.md",
+    "EDR, XDR, NDR, SIEM.md",
     "Sentinel/SIEM.md",
     "LIST.md",
     "Microsoft defender for cloud apps.md",
@@ -246,7 +247,6 @@
     "Excalidraw/Active Directory Trust.excalidraw.md",
     "Excalidraw/Drawing 2024-04-17 14.22.46.excalidraw.md",
     "SOC Training.md",
-    "SOC sessions.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",

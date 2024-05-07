@@ -8,4 +8,4 @@ XDR, EDR, NDR, and SIEM. They are among the most prominent acronyms in cybersecu
 - How you might journey from one to another 
 - Which product fits best in your security portfolio
 
-
+further in word document --> 
