@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "Microsoft sentinel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "Microsoft sentinel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "Microsoft sentinel.md"
               }
             }
           },
@@ -208,14 +208,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f97a978403cb453e",
+  "active": "e3b9a82f249c6260",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240510002824.png",
+    "Assets/Pasted image 20240510001956.png",
+    "Assets/Pasted image 20240510001915.png",
+    "Assets/Pasted image 20240510001233.png",
+    "Microsoft defender for cloud apps.md",
+    "Sentinel/SIEM.md",
+    "LIST.md",
     "Log analytics workspace.md",
     "Microsoft sentinel.md",
     "EDR, XDR, NDR, SIEM.md",
-    "Sentinel/SIEM.md",
-    "LIST.md",
-    "Microsoft defender for cloud apps.md",
     "Microsoft Licenses/Licenses.md",
     "Crowdstrike/Crowdstrike.md",
     "AZ 900/AZURE Identity ,access and security.md",
@@ -241,12 +245,8 @@
     "hjwdvjvdc.md",
     "Assets/Pasted image 20240424182700.png",
     "Assets/Pasted image 20240422021222.png",
-    "Assets/Pasted image 20240422021125.png",
-    "Assets/Pasted image 20240422021057.png",
-    "Assets/Pasted image 20240422020949.png",
     "Excalidraw/Active Directory Trust.excalidraw.md",
     "Excalidraw/Drawing 2024-04-17 14.22.46.excalidraw.md",
-    "SOC Training.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
