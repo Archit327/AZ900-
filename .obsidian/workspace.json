@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "724e9efbf780336e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microsoft defender for cloud apps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f97a978403cb453e",
             "type": "leaf",
             "state": {
@@ -56,12 +44,12 @@
             }
           },
           {
-            "id": "6c7af8e7c58b294d",
+            "id": "f7072d3bcd7a3e14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log analytics workspace.md",
+                "file": "Best practices converting detection rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft sentinel.md",
+                "file": "Best practices converting detection rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microsoft sentinel.md",
+                "file": "Best practices converting detection rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microsoft sentinel.md"
+                "file": "Best practices converting detection rules.md"
               }
             }
           },
@@ -208,8 +196,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3b9a82f249c6260",
+  "active": "f7072d3bcd7a3e14",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240511035014.png",
+    "Assets/Pasted image 20240511034931.png",
+    "Best practices converting detection rules.md",
+    "Microsoft sentinel.md",
     "Assets/Pasted image 20240510002824.png",
     "Assets/Pasted image 20240510001956.png",
     "Assets/Pasted image 20240510001915.png",
@@ -218,7 +210,6 @@
     "Sentinel/SIEM.md",
     "LIST.md",
     "Log analytics workspace.md",
-    "Microsoft sentinel.md",
     "EDR, XDR, NDR, SIEM.md",
     "Microsoft Licenses/Licenses.md",
     "Crowdstrike/Crowdstrike.md",
@@ -243,10 +234,7 @@
     "Windows AD/Basics Active Directory.md",
     "Crowdstrike/Falcon.md",
     "hjwdvjvdc.md",
-    "Assets/Pasted image 20240424182700.png",
-    "Assets/Pasted image 20240422021222.png",
     "Excalidraw/Active Directory Trust.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-17 14.22.46.excalidraw.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
