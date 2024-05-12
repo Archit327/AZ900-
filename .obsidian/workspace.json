@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Best practices converting detection rules.md",
+                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Best practices converting detection rules.md",
+                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Best practices converting detection rules.md"
+                "file": "LIST.md"
               }
             }
           },
@@ -196,11 +195,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7072d3bcd7a3e14",
+  "active": "f97a978403cb453e",
   "lastOpenFiles": [
+    "Best practices converting detection rules.md",
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
-    "Best practices converting detection rules.md",
     "Microsoft sentinel.md",
     "Assets/Pasted image 20240510002824.png",
     "Assets/Pasted image 20240510001956.png",
@@ -223,7 +222,6 @@
     "Assets/Pasted image 20240501141640.png",
     "Windows AD/FSMO.md",
     "Crowdstrike/Falcon User management.md",
-    "Assets/Pasted image 20240430120859.png",
     "Crowdstrike/Falcon Role mangement.md",
     "Crowdstrike/FAlcon Discover.md",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
