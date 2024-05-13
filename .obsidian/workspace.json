@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f97a978403cb453e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8860da447eb61155",
             "type": "leaf",
             "state": {
@@ -84,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "group policy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,12 +89,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "Sentinel/SIEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "Sentinel/SIEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "Sentinel/SIEM.md"
               }
             }
           },
@@ -195,8 +183,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f97a978403cb453e",
+  "active": "8860da447eb61155",
   "lastOpenFiles": [
+    "Windows AD/Basics Active Directory.md",
+    "AVS and VMware/Azure VMware solution.md",
+    "AVS and VMware/Security Consideration AVS.md",
+    "LIST.md",
     "Best practices converting detection rules.md",
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
@@ -207,7 +199,6 @@
     "Assets/Pasted image 20240510001233.png",
     "Microsoft defender for cloud apps.md",
     "Sentinel/SIEM.md",
-    "LIST.md",
     "Log analytics workspace.md",
     "EDR, XDR, NDR, SIEM.md",
     "Microsoft Licenses/Licenses.md",
@@ -229,10 +220,8 @@
     "Entra ID - AZure AD/Privileged Identity Management.md",
     "Entra ID - AZure AD/Security Defaults vs MFA.md",
     "MDE defender for endpoint/MicrosoftDefender for endpoint.md",
-    "Windows AD/Basics Active Directory.md",
     "Crowdstrike/Falcon.md",
     "hjwdvjvdc.md",
-    "Excalidraw/Active Directory Trust.excalidraw.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",

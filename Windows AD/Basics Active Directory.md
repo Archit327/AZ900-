@@ -73,7 +73,7 @@ Some of the benefits of using group policy would be the ability to apply consist
 
 For example, if you were to enter the wrong password too many times, your account would become locked out.
 I manage all those settings within group policy, so there's a whole host of security settings within
-group policy.I can also manage desktop application settings.
+group policy. I can also manage desktop application settings.
 We can deploy application software with some limitations.
 Application software that we deploy has to be an MSI package.
 Group policy does not support deploying exe files.
