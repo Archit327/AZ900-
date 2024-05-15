@@ -13,9 +13,10 @@ A sophisticated SIEM technology minimizes false positives and produces alerts in
 It’s crucial to remember that SIEM cannot stop cyberattacks. It’s a tool for detection. Early cyberattack detection allows security professionals to take preventative action. SIEM reduces possible loss or harm and stops it from getting worse. The technology must be configured properly in order to function to its fullest potential, and security specialists must comprehend and act upon the alarms.
 
 Security Information and event management is basically a duo role added to create a more effective security monitoring and management.
-SIEM features and capabilities. Here are the six main features and capabilities of the SIEM. The SIEM technology has evolved with changing threat and technology landscape. In the next lecture, we will be talking about security orchestration, automation and response automation, otherwise known as SOAR.
+## SIEM features and capabilities
+Here are the six main features and capabilities of the SIEM. The SIEM technology has evolved with changing threat and technology landscape. 
 
-In the meantime, let's take a closer look at these SIEM features.
+let's take a closer look at these SIEM features.
 - Log aggregation --> With log aggregation,the SIEM through its log collection layer is capable of collecting and aggregating log data from multiple monitored systems.
 
 - Event correlation --> is a feature that links events from various sources in a meaningful way to generate a high fidelity alert.
@@ -47,7 +48,12 @@ Now, for true negatives, your SIEM will be working as intended if no alert is tr
 A false negative situation, on the other hand, where the SIEM keeps quiet, while you're being attacked is bad.
 When you think of security alert, always remember the true positives and true negatives are the ones that you want. False positives is raising a false alarm, and you know how bad that can be. 
 
-### Incident Response 
 
-Refer NIST SP800-61r2 
+## SIEM in basic terms
+
+SIEM is a platform that ingests all of your security data from various corners of your network. It stores it for compliance needs, and to assist threat hunting and investigations.
+It combines data from various sources and correlates it to
+spot suspicious activity. 
+The heart of a SIEM solution is a big data and analytics engine
+which can be used to apply intelligence to security information and help sift through it. Traditional SIEM provides a single source for your security data and provides actionable intelligence, but doesn't provide any kind of automated remediation.
 
