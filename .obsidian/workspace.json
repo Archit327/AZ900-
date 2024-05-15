@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinel/SIEM.md",
+                "file": "Sentinel/Microsoft defender for cloud apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft sentinel.md",
+                "file": "Sentinel/Microsoft sentinel.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Best practices converting detection rules.md",
+                "file": "Sentinel/Best practices converting detection rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,13 +89,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinel/SIEM.md",
+                "file": "Sentinel/Microsoft defender for cloud apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinel/SIEM.md",
+                "file": "Sentinel/Microsoft defender for cloud apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinel/SIEM.md"
+                "file": "Sentinel/Microsoft defender for cloud apps.md"
               }
             }
           },
@@ -186,28 +184,31 @@
   },
   "active": "8860da447eb61155",
   "lastOpenFiles": [
+    "Sentinel/Log analytics workspace.md",
+    "Sentinel/EDR, XDR, NDR, SIEM.md",
+    "LIST.md",
+    "hjwdvjvdc.md",
+    "Sentinel/Best practices converting detection rules.md",
+    "SOC sessions.md",
+    "SOC Training.md",
+    "Sentinel/SIEM.md",
     "Windows AD/Basics Active Directory.md",
     "AVS and VMware/Azure VMware solution.md",
     "AVS and VMware/Security Consideration AVS.md",
-    "LIST.md",
-    "Best practices converting detection rules.md",
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
-    "Microsoft sentinel.md",
+    "Sentinel/Microsoft sentinel.md",
     "Assets/Pasted image 20240510002824.png",
     "Assets/Pasted image 20240510001956.png",
     "Assets/Pasted image 20240510001915.png",
     "Assets/Pasted image 20240510001233.png",
-    "Microsoft defender for cloud apps.md",
-    "Sentinel/SIEM.md",
-    "Log analytics workspace.md",
-    "EDR, XDR, NDR, SIEM.md",
+    "Sentinel/Microsoft defender for cloud apps.md",
     "Microsoft Licenses/Licenses.md",
     "Crowdstrike/Crowdstrike.md",
     "AZ 900/AZURE Identity ,access and security.md",
     "Entra ID - AZure AD/AZ Active Directory.md",
     "Windows AD/AD Groups.md",
-    "CASB.md",
+    "Sentinel/CASB.md",
     "Assets/Pasted image 20240501155603.png",
     "Assets/Pasted image 20240501145626.png",
     "Assets/Pasted image 20240501145556.png",
@@ -220,9 +221,6 @@
     "Entra ID - AZure AD/Data collection rules.md",
     "Entra ID - AZure AD/Privileged Identity Management.md",
     "Entra ID - AZure AD/Security Defaults vs MFA.md",
-    "MDE defender for endpoint/MicrosoftDefender for endpoint.md",
-    "Crowdstrike/Falcon.md",
-    "hjwdvjvdc.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
