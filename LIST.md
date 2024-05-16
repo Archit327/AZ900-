@@ -159,3 +159,7 @@ Entraa ID
 | defender xdr ninja                                           | [Become a Microsoft 365 Defender Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/become-a-microsoft-defender-xdr-ninja/ba-p/1789376) | 2 week |
 | how to use defender 365 portal                               | defender 365 portal is unified portal for SIEM and XDR. how it works an how can we take advantage from it.                                                     |        |
 
+| syslog, cef and logstash documentation        |
+| --------------------------------------------- |
+| creating custom data connectors documentation |
+| SOC optimization in defender portal           |

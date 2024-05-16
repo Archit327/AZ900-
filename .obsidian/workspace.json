@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinel/Microsoft defender for cloud apps.md",
+                "file": "LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinel/Microsoft defender for cloud apps.md",
+                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinel/Microsoft defender for cloud apps.md",
+                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinel/Microsoft defender for cloud apps.md"
+                "file": "LIST.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "8860da447eb61155",
   "lastOpenFiles": [
+    "Sentinel/Microsoft defender for cloud apps.md",
     "Sentinel/Log analytics workspace.md",
     "Sentinel/EDR, XDR, NDR, SIEM.md",
     "LIST.md",
@@ -202,7 +203,6 @@
     "Assets/Pasted image 20240510001956.png",
     "Assets/Pasted image 20240510001915.png",
     "Assets/Pasted image 20240510001233.png",
-    "Sentinel/Microsoft defender for cloud apps.md",
     "Microsoft Licenses/Licenses.md",
     "Crowdstrike/Crowdstrike.md",
     "AZ 900/AZURE Identity ,access and security.md",
