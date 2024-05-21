@@ -54,8 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd5e9b94e06b8a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEF vs SYSLOG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PIM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entra ID - AZure AD/Privileged Identity Management.md",
+                "file": "CEF vs SYSLOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entra ID - AZure AD/Privileged Identity Management.md",
+                "file": "CEF vs SYSLOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entra ID - AZure AD/Privileged Identity Management.md"
+                "file": "CEF vs SYSLOG.md"
               }
             }
           },
@@ -195,8 +208,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8860da447eb61155",
+  "active": "bd5e9b94e06b8a64",
   "lastOpenFiles": [
+    "CEF vs SYSLOG.md",
+    "Sentinel/Best practices converting detection rules.md",
+    "Entra ID - AZure AD/Privileged Identity Management.md",
     "AZ 900/ALZ.md",
     "Sentinel/SIEM.md",
     "LIST.md",
@@ -204,7 +220,6 @@
     "Sentinel/Log analytics workspace.md",
     "Sentinel/EDR, XDR, NDR, SIEM.md",
     "hjwdvjvdc.md",
-    "Sentinel/Best practices converting detection rules.md",
     "SOC sessions.md",
     "SOC Training.md",
     "Windows AD/Basics Active Directory.md",
@@ -232,8 +247,6 @@
     "Crowdstrike/Falcon Role mangement.md",
     "Crowdstrike/FAlcon Discover.md",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
-    "Entra ID - AZure AD/Data collection rules.md",
-    "Entra ID - AZure AD/Privileged Identity Management.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
