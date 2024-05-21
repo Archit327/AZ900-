@@ -13,6 +13,16 @@ A sophisticated SIEM technology minimizes false positives and produces alerts in
 It’s crucial to remember that SIEM cannot stop cyberattacks. It’s a tool for detection. Early cyberattack detection allows security professionals to take preventative action. SIEM reduces possible loss or harm and stops it from getting worse. The technology must be configured properly in order to function to its fullest potential, and security specialists must comprehend and act upon the alarms.
 
 Security Information and event management is basically a duo role added to create a more effective security monitoring and management.
+
+A SIEM solution is a tool that an organization uses to collect, analyze, and perform security operations. Now, these activities are done on all your computers that are there in your organization. And those systems can be hardware appliance, applications, systems, or maybe all of them.
+In the simplest form, SIEM is helping you collect and query logs from all the systems in your enterprise. It will also help you do correlation, or even anomaly detection. You can go ahead and create alerts and incidents based on your findings.
+There are several functionalities that a SIEM solution will offer. 
+- log management. Log management is the ability to collect, store, and query the log data from resources within your environment. 
+- It can also help you do alerting. 
+  What is alerting? Alerting is a proactive way to look inside the log data for any kind of potential security incidents and anomalies. You can, of course, get visualizations. That means that graphs and dashboards can be created in order to provide a visual insight into your log data. 
+- Incident management is another capability of SIEM solution. So you would have the ability to create, update, assign, and investigate incidents that have been identified.
+- you can also use a Kusto Query Language to query the data. As you know that the Kusto is a rich query language that is something similar to log management, and you can use to query and understand your data.
+Now, this is about a SIEM solution. I just provided you with an overview of what a SIEM solution is, but let's go ahead and understand how Microsoft Sentinel provides all the capabilities that a SIEM solution provides.
 ## SIEM features and capabilities
 Here are the six main features and capabilities of the SIEM. The SIEM technology has evolved with changing threat and technology landscape. 
 
@@ -20,6 +30,7 @@ let's take a closer look at these SIEM features.
 - Log aggregation --> With log aggregation,the SIEM through its log collection layer is capable of collecting and aggregating log data from multiple monitored systems.
 
 - Event correlation --> is a feature that links events from various sources in a meaningful way to generate a high fidelity alert.
+
 - Alerting -->  is the automated event analysis capability. So through the visualization layer, the same notifies the security analysts about actual and suspected security incidents.
 
 - Dashboard -->which we looked at in one of the previous lectures, is part of the visualization layer where security event data are summarized and presented to the analysts in the form of information and charts.

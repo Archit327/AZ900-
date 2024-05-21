@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sentinel/SIEM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3099eb6dea95be8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "LIST.md",
                 "mode": "source",
                 "source": false
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "Sentinel/SIEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "Sentinel/SIEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "Sentinel/SIEM.md"
               }
             }
           },
@@ -184,15 +196,15 @@
   },
   "active": "8860da447eb61155",
   "lastOpenFiles": [
+    "LIST.md",
+    "Sentinel/SIEM.md",
     "Sentinel/Microsoft defender for cloud apps.md",
     "Sentinel/Log analytics workspace.md",
     "Sentinel/EDR, XDR, NDR, SIEM.md",
-    "LIST.md",
     "hjwdvjvdc.md",
     "Sentinel/Best practices converting detection rules.md",
     "SOC sessions.md",
     "SOC Training.md",
-    "Sentinel/SIEM.md",
     "Windows AD/Basics Active Directory.md",
     "AVS and VMware/Azure VMware solution.md",
     "AVS and VMware/Security Consideration AVS.md",

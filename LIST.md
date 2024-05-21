@@ -1,12 +1,10 @@
-
-
 | AVD questionare research          |
 | --------------------------------- |
 | whats avd                         |
 | working of avd                    |
 | requirement of avd in environment |
 | how much avd are necessary        |
-| what about the rbac for avds                                  |
+| what about the rbac for avds      |
 
 | 8-3-24                               |
 | ------------------------------------ |
@@ -148,16 +146,14 @@ creating roles by selecting permissions from the list
 | Cloud-native security operations with Microsoft Sentinel (intro and basics of sentinel) | [Cloud-native security operations with Microsoft Sentinel - Training \| Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/security-ops-sentinel/)                                                                                                            | 1 week   |
 | Ninja hands on training level 400                                                       | getting hands on experience on sentinel [Become a Microsoft Sentinel Ninja: The complete level 400 training - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310) | 3 weeks  |
 | Splunk                                                                                  | overview and how it works , its features and how it is different from other siem tools                                                                                                                                                                                       | 1 week   |
-| defender xdr ninja                                                                      | [Become a Microsoft 365 Defender Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/become-a-microsoft-defender-xdr-ninja/ba-p/1789376)                                                                                                               | 2 week   |
-
-
+| how to use defender 365 portal                                                          | defender 365 portal is unified portal for SIEM and XDR. how it works an how can we take advantage from it.                                                                                                                                                                   |          |
 Entraa ID
 
 | [Manage identity and access in Microsoft Entra ID - Training | (https://learn.microsoft.com/en-us/training/paths/manage-identity-and-access/)                                                                                 |        |
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 |                                                              | [Microsoft Entra ID documentation - Microsoft Entra ID \| Microsoft Learn](https://learn.microsoft.com/en-us/entra/identity/)                                  |        |
 | defender xdr ninja                                           | [Become a Microsoft 365 Defender Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/become-a-microsoft-defender-xdr-ninja/ba-p/1789376) | 2 week |
-| how to use defender 365 portal                               | defender 365 portal is unified portal for SIEM and XDR. how it works an how can we take advantage from it.                                                     |        |
+
 
 | syslog, cef and logstash documentation        |
 | --------------------------------------------- |
