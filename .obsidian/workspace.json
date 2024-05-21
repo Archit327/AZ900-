@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinel/SIEM.md",
+                "file": "Entra ID - AZure AD/Privileged Identity Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "group policy",
+                "query": "PIM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinel/SIEM.md",
+                "file": "Entra ID - AZure AD/Privileged Identity Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinel/SIEM.md",
+                "file": "Entra ID - AZure AD/Privileged Identity Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinel/SIEM.md"
+                "file": "Entra ID - AZure AD/Privileged Identity Management.md"
               }
             }
           },
@@ -196,8 +197,9 @@
   },
   "active": "8860da447eb61155",
   "lastOpenFiles": [
-    "LIST.md",
+    "AZ 900/ALZ.md",
     "Sentinel/SIEM.md",
+    "LIST.md",
     "Sentinel/Microsoft defender for cloud apps.md",
     "Sentinel/Log analytics workspace.md",
     "Sentinel/EDR, XDR, NDR, SIEM.md",
@@ -232,7 +234,6 @@
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "Entra ID - AZure AD/Data collection rules.md",
     "Entra ID - AZure AD/Privileged Identity Management.md",
-    "Entra ID - AZure AD/Security Defaults vs MFA.md",
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
