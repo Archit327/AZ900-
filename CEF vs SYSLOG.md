@@ -15,15 +15,3 @@
 
 
 
-Subject: Unable to Attend Office Today Due to Illness
-
-Hi Firoz,
-
-I hope this message finds you well. I regret to inform you that I won't be able to make it to the office today as I am feeling unwell. I am experiencing symptoms of dehydration and need to focus on recovering my health. 
-
-I apologize for any inconvenience my absence may cause . 
-
-Thank you for your understanding.
-
-Regards 
-Archit Jain
