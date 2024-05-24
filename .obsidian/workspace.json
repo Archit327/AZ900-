@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft Purview.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microsoft Purview.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microsoft Purview.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -232,10 +232,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "162facc09ca4ae41",
+  "active": "a99ef7ce18f49b75",
   "lastOpenFiles": [
-    "Untitled.md",
     "Microsoft Purview.md",
+    "Untitled.md",
     "Assets/Pasted image 20240522163610.png",
     "CEF vs SYSLOG.md",
     "Sentinel/Best practices converting detection rules.md",
