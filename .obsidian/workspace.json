@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows AD/AD Groups.md",
+                "file": "Windows AD/FSMO.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,8 +107,12 @@
             "id": "3e05f55f7c2dc6ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "identity ppt.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -158,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "identity ppt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "identity ppt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "identity ppt.md"
+              }
             }
           },
           {
@@ -250,10 +257,12 @@
   },
   "active": "3e05f55f7c2dc6ac",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Windows AD/AD Groups.md",
-    "Windows AD/onboarding 2019 server.md",
+    "identity ppt.md",
+    "Windows AD/FSMO.md",
     "Windows AD/Basics Active Directory.md",
+    "Windows AD/AD Groups.md",
+    "Untitled 1.md",
+    "Windows AD/onboarding 2019 server.md",
     "Entra ID - AZure AD/AZ Active Directory.md",
     "Entra ID - AZure AD/AZure Active Directory Connect.md",
     "Untitled.md",
@@ -281,8 +290,6 @@
     "Assets/Pasted image 20240510001915.png",
     "Assets/Pasted image 20240510001233.png",
     "Microsoft Licenses/Licenses.md",
-    "Crowdstrike/Crowdstrike.md",
-    "AZ 900/AZURE Identity ,access and security.md",
     "Assets/Pasted image 20240501155603.png",
     "Assets/Pasted image 20240501145626.png",
     "Assets/Pasted image 20240501145556.png",
