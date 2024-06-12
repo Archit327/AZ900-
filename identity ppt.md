@@ -65,4 +65,96 @@ Sure, here's an outline for the PowerPoint presentation:
 
 ---
 
-You can then expand each slide with more detailed information, graphics, and examples as needed. Let me know if you need further assistance!
+**Slide 8: Expanding On-Premises AD to Azure Without Entra Connect Sync**
+
+**Introduction**
+
+Expanding an on-premises Active Directory (AD) to Azure without using Entra Connect Sync involves setting up a hybrid environment where an Azure Virtual Machine (VM) acts as a Domain Controller (DC) replicating with the on-premises DC. This setup allows for direct AD replication and integration without the need for directory synchronization tools.
+
+### Steps to Expand On-Premises AD to Azure
+
+**1. Set Up Azure Environment**
+
+**1.1. Create an Azure Virtual Network (VNet)**
+
+- **Purpose**: Establish a private network in Azure where your resources, including the new DC, will reside.
+- **Steps**:
+  - In the Azure portal, navigate to `Create a resource` > `Networking` > `Virtual network`.
+  - Configure the address space, subnets, and other necessary settings.
+  - Ensure the VNet can communicate with your on-premises network via a VPN or ExpressRoute.
+
+**1.2. Set Up Site-to-Site VPN or ExpressRoute**
+
+- **Purpose**: Establish secure and reliable connectivity between your on-premises network and the Azure VNet.
+- **Steps**:
+  - Create a VPN gateway in Azure.
+  - Configure the on-premises VPN device to establish a site-to-site VPN connection with the Azure VPN gateway.
+  - Verify connectivity by pinging resources between the two networks.
+
+**2. Deploy a Virtual Machine in Azure**
+
+**2.1. Create an Azure VM**
+
+- **Purpose**: Host the new DC in the Azure environment.
+- **Steps**:
+  - In the Azure portal, navigate to `Create a resource` > `Compute` > `Virtual machine`.
+  - Choose a Windows Server image that supports AD DS.
+  - Configure the VM size, network settings, and other parameters.
+  - Ensure the VM is placed in the previously created VNet.
+
+**3. Configure DNS Settings**
+
+**3.1. Set DNS Servers on the Azure VM**
+
+- **Purpose**: Ensure the Azure VM can resolve the on-premises AD domain.
+- **Steps**:
+  - Set the VM's DNS settings to use the on-premises DNS server.
+  - This can be done in the Azure portal under the VM's network interface settings or through the VM's operating system network settings.
+
+**4. Join the Azure VM to the On-Premises Domain**
+
+**4.1. Join the Domain**
+
+- **Purpose**: Integrate the Azure VM into the existing on-premises AD domain.
+- **Steps**:
+  - Connect to the Azure VM via Remote Desktop Protocol (RDP).
+  - Open System Properties, and under the `Computer Name` tab, click `Change`.
+  - Select `Domain`, enter the on-premises domain name, and provide domain administrator credentials.
+  - Restart the VM to complete the domain join process.
+
+**5. Promote the Azure VM to a Domain Controller**
+
+**5.1. Install AD DS Role**
+
+- **Purpose**: Enable the VM to function as a DC.
+- **Steps**:
+  - Open Server Manager on the Azure VM.
+  - Add the Active Directory Domain Services (AD DS) role.
+  - After installation, run the AD DS configuration wizard.
+
+**5.2. Promote to Domain Controller**
+
+- **Purpose**: Complete the configuration to make the VM a DC.
+- **Steps**:
+  - During the AD DS configuration wizard, select to add a new DC to an existing domain.
+  - Ensure proper replication settings are chosen, and verify that the Azure DC can replicate with the on-premises DC.
+
+**6. Verify AD Replication and Functionality**
+
+**6.1. Check Replication Status**
+
+- **Purpose**: Ensure that AD data is replicating correctly between the on-premises DC and the Azure DC.
+- **Steps**:
+  - Use tools such as `repadmin` and Active Directory Sites and Services to monitor replication status.
+  - Address any replication issues promptly.
+
+**6.2. Test Authentication and Access**
+
+- **Purpose**: Validate the functionality of the new Azure DC.
+- **Steps**:
+  - Test logging in with domain accounts on the Azure VM.
+  - Verify that Group Policies, user accounts, and other AD features are functioning correctly.
+
+### Conclusion
+
+By following these steps, you can expand your on-premises Active Directory to Azure without using Entra Connect Sync. This approach leverages direct AD replication between on-premises and Azure-based DCs, ensuring a seamless hybrid identity solution. This setup provides benefits such as improved availability, disaster recovery options, and extended AD services into the Azure cloud.
