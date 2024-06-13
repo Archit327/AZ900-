@@ -114,9 +114,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8e3ed9c7e5ab420",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -255,7 +265,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e05f55f7c2dc6ac",
+  "active": "f8e3ed9c7e5ab420",
   "lastOpenFiles": [
     "identity ppt.md",
     "Windows AD/FSMO.md",

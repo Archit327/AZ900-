@@ -158,3 +158,9 @@ Expanding an on-premises Active Directory (AD) to Azure without using Entra Conn
 ### Conclusion
 
 By following these steps, you can expand your on-premises Active Directory to Azure without using Entra Connect Sync. This approach leverages direct AD replication between on-premises and Azure-based DCs, ensuring a seamless hybrid identity solution. This setup provides benefits such as improved availability, disaster recovery options, and extended AD services into the Azure cloud.
+
+
+---- 
+
+how to create replica of the given dc 
+
