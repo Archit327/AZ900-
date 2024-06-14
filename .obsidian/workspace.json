@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8860da447eb61155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entra ID - AZure AD/Privileged Identity Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3099eb6dea95be8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3b9a82f249c6260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinel/Microsoft sentinel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f7072d3bcd7a3e14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sentinel/Best practices converting detection rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd5e9b94e06b8a64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEF vs SYSLOG.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "identity ppt.md",
+                "file": "Windows AD/FSMO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "identity ppt.md",
+                "file": "Windows AD/FSMO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "identity ppt.md"
+                "file": "Windows AD/FSMO.md"
               }
             }
           },
@@ -256,8 +208,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e05f55f7c2dc6ac",
+  "active": "a99ef7ce18f49b75",
   "lastOpenFiles": [
+    "Microsoft Purview.md",
+    "Sentinel/Best practices converting detection rules.md",
+    "LIST.md",
+    "Entra ID - AZure AD/Privileged Identity Management.md",
+    "Sentinel/Microsoft sentinel.md",
     "identity ppt.md",
     "Windows AD/FSMO.md",
     "Windows AD/Basics Active Directory.md",
@@ -267,14 +224,10 @@
     "Entra ID - AZure AD/AZ Active Directory.md",
     "Entra ID - AZure AD/AZure Active Directory Connect.md",
     "Untitled.md",
-    "Microsoft Purview.md",
     "Assets/Pasted image 20240522163610.png",
     "CEF vs SYSLOG.md",
-    "Sentinel/Best practices converting detection rules.md",
-    "Entra ID - AZure AD/Privileged Identity Management.md",
     "AZ 900/ALZ.md",
     "Sentinel/SIEM.md",
-    "LIST.md",
     "Sentinel/Microsoft defender for cloud apps.md",
     "Sentinel/Log analytics workspace.md",
     "Sentinel/EDR, XDR, NDR, SIEM.md",
@@ -285,7 +238,6 @@
     "AVS and VMware/Security Consideration AVS.md",
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
-    "Sentinel/Microsoft sentinel.md",
     "Assets/Pasted image 20240510002824.png",
     "Assets/Pasted image 20240510001956.png",
     "Assets/Pasted image 20240510001915.png",
