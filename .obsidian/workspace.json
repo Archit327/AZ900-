@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows AD/FSMO.md",
+                "file": "identity ppt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows AD/FSMO.md",
+                "file": "identity ppt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows AD/FSMO.md"
+                "file": "identity ppt.md"
               }
             }
           },
@@ -208,15 +208,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a99ef7ce18f49b75",
+  "active": "3e05f55f7c2dc6ac",
   "lastOpenFiles": [
+    "Windows AD/FSMO.md",
     "Microsoft Purview.md",
     "Sentinel/Best practices converting detection rules.md",
     "LIST.md",
     "Entra ID - AZure AD/Privileged Identity Management.md",
     "Sentinel/Microsoft sentinel.md",
     "identity ppt.md",
-    "Windows AD/FSMO.md",
     "Windows AD/Basics Active Directory.md",
     "Windows AD/AD Groups.md",
     "Untitled 1.md",
