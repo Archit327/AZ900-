@@ -1,6 +1,4 @@
 
-Sure, here's an outline for the PowerPoint presentation:
-
 ---
 
 **Title: Overview of Entra ID and Expanding On-Premises Domain Controller to Azure**
