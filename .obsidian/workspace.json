@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md",
+                "file": "SKIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md",
+                "file": "SKIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md"
+                "file": "SKIT.md"
               }
             }
           },
@@ -242,12 +242,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5597f8ff5efad43",
+  "active": "f0e3a20ccf1429f6",
   "lastOpenFiles": [
-    "Assets/Pasted Image 20240625201641_564.png",
-    "SKIT.md",
-    "Untitled 1.md",
     "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md",
+    "SKIT.md",
+    "Assets/Pasted Image 20240625201641_564.png",
+    "Untitled 1.md",
     "Assets/Pasted Image 20240625173552_218.png",
     "Assets/Pasted Image 20240625173404_275.png",
     "Assets/Pasted Image 20240625173227_713.png",
@@ -279,7 +279,6 @@
     "Assets/Pasted image 20240510002824.png",
     "Assets/Pasted image 20240510001956.png",
     "Assets/Pasted image 20240510001915.png",
-    "Assets/Pasted image 20240510001233.png",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "Azure Virtual desktop",
     "Microsoft Licenses",
