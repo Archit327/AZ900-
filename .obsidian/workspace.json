@@ -61,14 +61,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "identity ppt.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "36b63f29ab25d242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD Expansion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5597f8ff5efad43",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "identity ppt.md",
+                "file": "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "identity ppt.md",
+                "file": "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "identity ppt.md"
+                "file": "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md"
               }
             }
           },
@@ -207,22 +229,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e05f55f7c2dc6ac",
+  "active": "f5597f8ff5efad43",
   "lastOpenFiles": [
+    "Assets/Pasted Image 20240625173552_218.png",
+    "Assets/Pasted Image 20240625173404_275.png",
+    "Assets/Pasted Image 20240625173227_713.png",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md",
+    "AD Expansion.md",
+    "Untitled.md",
+    "identity ppt.md",
     "Windows AD/Basics Active Directory.md",
     "Windows AD/FSMO.md",
-    "identity ppt.md",
     "Microsoft Purview.md",
     "Sentinel/Best practices converting detection rules.md",
     "LIST.md",
     "Entra ID - AZure AD/Privileged Identity Management.md",
     "Sentinel/Microsoft sentinel.md",
     "Windows AD/AD Groups.md",
-    "Untitled 1.md",
     "Windows AD/onboarding 2019 server.md",
     "Entra ID - AZure AD/AZ Active Directory.md",
     "Entra ID - AZure AD/AZure Active Directory Connect.md",
-    "Untitled.md",
     "Assets/Pasted image 20240522163610.png",
     "CEF vs SYSLOG.md",
     "AZ 900/ALZ.md",
@@ -233,18 +260,13 @@
     "hjwdvjvdc.md",
     "SOC sessions.md",
     "SOC Training.md",
-    "AVS and VMware/Azure VMware solution.md",
-    "AVS and VMware/Security Consideration AVS.md",
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
     "Assets/Pasted image 20240510002824.png",
     "Assets/Pasted image 20240510001956.png",
     "Assets/Pasted image 20240510001915.png",
     "Assets/Pasted image 20240510001233.png",
-    "Microsoft Licenses/Licenses.md",
     "Assets/Pasted image 20240501155603.png",
-    "Assets/Pasted image 20240501145626.png",
-    "Assets/Pasted image 20240501145556.png",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "Azure Virtual desktop",
     "Microsoft Licenses",
