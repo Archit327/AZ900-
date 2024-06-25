@@ -88,6 +88,18 @@
                 "file": "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "f0e3a20ccf1429f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SKIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 6
@@ -140,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -231,11 +244,12 @@
   },
   "active": "f5597f8ff5efad43",
   "lastOpenFiles": [
+    "SKIT.md",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md",
     "Assets/Pasted Image 20240625173552_218.png",
     "Assets/Pasted Image 20240625173404_275.png",
     "Assets/Pasted Image 20240625173227_713.png",
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md",
     "AD Expansion.md",
     "Untitled.md",
     "identity ppt.md",
@@ -266,7 +280,6 @@
     "Assets/Pasted image 20240510001956.png",
     "Assets/Pasted image 20240510001915.png",
     "Assets/Pasted image 20240510001233.png",
-    "Assets/Pasted image 20240501155603.png",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "Azure Virtual desktop",
     "Microsoft Licenses",
