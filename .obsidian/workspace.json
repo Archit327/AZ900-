@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "812161c5ed0065fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "3e05f55f7c2dc6ac",
             "type": "leaf",
             "state": {
@@ -90,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -230,7 +240,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "976cea755d38fddb",
+  "active": "812161c5ed0065fa",
   "lastOpenFiles": [
     "AD Expansion.md",
     "SKIT.md",
