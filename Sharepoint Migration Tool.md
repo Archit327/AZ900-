@@ -1,8 +1,4 @@
-
-hey i wanna migrate all my azure file share data and file from file share to microsoft teams. but the thing is i dont want to change and mix the hierarchy of the folders in fiel share, can u suggest me how we can do that
-
-
-Sure, you can achieve this migration from Azure File Share to Microsoft Teams while maintaining the folder hierarchy using Microsoft's SharePoint Migration Tool (SPMT). Here's a step-by-step guide:
+migration from Azure File Share to Microsoft Teams while maintaining the folder hierarchy using Microsoft's SharePoint Migration Tool (SPMT). Here's a step-by-step guide:
 
 1. **Prepare Microsoft Teams and SharePoint:**
     

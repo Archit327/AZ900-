@@ -8,113 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7072d3bcd7a3e14",
+            "id": "f58b9810505985ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinel/Best practices converting detection rules.md",
+                "file": "Windows AD/DNS server and benefits.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "162facc09ca4ae41",
+            "id": "69010bfbeace83f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft Purview.md",
+                "file": "Federation in AD.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a99ef7ce18f49b75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows AD/Basics Active Directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "976cea755d38fddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e05f55f7c2dc6ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "windows server license.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9708852b0e6f423b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AVS and VMware/Azure VMware solution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3add5c766ab1ea5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Incident investigation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f09831e697af5a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "767647b813281436",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Federation in AD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Federation in AD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 3.md"
+                "file": "Federation in AD.md"
               }
             }
           },
@@ -253,24 +171,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "767647b813281436",
+  "active": "69010bfbeace83f8",
   "lastOpenFiles": [
+    "Federation in AD.md",
+    "Entra ID - AZure AD/Errors during export to Microsoft Entra ID.md",
+    "Windows AD/DNS server and benefits.md",
     "Untitled 3.md",
+    "Sharepoint Migration Tool.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "SKIT.md",
+    "Windows AD/windows server license.md",
+    "AVS and VMware/Azure VMware solution.md",
     "Incident investigation.md",
     "Assets/Pasted image 20240717064327.png",
-    "windows server license.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "AVS and VMware/Azure VMware solution.md",
     "AVS and VMware/Azure and VMware.md",
-    "SKIT.md",
-    "AD Expansion.md",
     "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md",
     "Assets/Pasted Image 20240625201641_564.png",
     "Assets/Pasted Image 20240625173552_218.png",
     "Assets/Pasted Image 20240625173404_275.png",
     "Assets/Pasted Image 20240625173227_713.png",
-    "Untitled.md",
     "identity ppt.md",
     "Windows AD/Basics Active Directory.md",
     "Windows AD/FSMO.md",
@@ -285,8 +205,6 @@
     "Entra ID - AZure AD/AZure Active Directory Connect.md",
     "Assets/Pasted image 20240522163610.png",
     "CEF vs SYSLOG.md",
-    "AZ 900/ALZ.md",
-    "Sentinel/SIEM.md",
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
     "Assets/Pasted image 20240510002824.png",
