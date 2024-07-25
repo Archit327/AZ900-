@@ -102,9 +102,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "767647b813281436",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -243,7 +253,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f09831e697af5a9d",
+  "active": "767647b813281436",
   "lastOpenFiles": [
     "Untitled 3.md",
     "Incident investigation.md",
