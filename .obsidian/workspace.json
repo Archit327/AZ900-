@@ -37,14 +37,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "External DNS Servers.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "891a0e24d754b39b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crowdstrike weekly reports.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ffe3da535a492cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -110,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md"
               }
             }
           },
@@ -183,9 +206,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "277bd14609b1ac1d",
+  "active": "6ffe3da535a492cb",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Assets/Pasted Image 20240805201048_809.png",
+    "Crowdstrike weekly reports.md",
+    "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md",
+    "External DNS Servers.md",
     "Federation in AD.md",
     "Entra ID - AZure AD/Errors during export to Microsoft Entra ID.md",
     "Windows AD/DNS server and benefits.md",
@@ -213,9 +239,6 @@
     "Entra ID - AZure AD/Privileged Identity Management.md",
     "Sentinel/Microsoft sentinel.md",
     "Windows AD/AD Groups.md",
-    "Windows AD/onboarding 2019 server.md",
-    "Entra ID - AZure AD/AZ Active Directory.md",
-    "Entra ID - AZure AD/AZure Active Directory Connect.md",
     "Assets/Pasted image 20240522163610.png",
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
