@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md",
+                "file": "External DNS Servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md",
+                "file": "External DNS Servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md"
+                "file": "External DNS Servers.md"
               }
             }
           },
@@ -206,11 +206,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ffe3da535a492cb",
+  "active": "277bd14609b1ac1d",
   "lastOpenFiles": [
-    "Assets/Pasted Image 20240805201048_809.png",
     "Crowdstrike weekly reports.md",
     "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md",
+    "Assets/Pasted Image 20240805201048_809.png",
     "External DNS Servers.md",
     "Federation in AD.md",
     "Entra ID - AZure AD/Errors during export to Microsoft Entra ID.md",
@@ -243,7 +243,6 @@
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
     "Assets/Pasted image 20240510002824.png",
-    "Assets/Pasted image 20240510001956.png",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "Azure Virtual desktop",
     "Microsoft Licenses",
