@@ -159,3 +159,7 @@ Entraa ID
 | --------------------------------------------- |
 | creating custom data connectors documentation |
 | SOC optimization in defender portal           |
+
+| Adcs |
+| ---- |
+|      |
