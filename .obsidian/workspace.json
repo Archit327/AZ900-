@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de66730519aadba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raise Forest functional level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "897aa9efb1e0fcc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demotion of DC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Demotion of DC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Demotion of DC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Demotion of DC.md"
               }
             }
           },
@@ -219,11 +243,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1413f2e6190f7e40",
+  "active": "897aa9efb1e0fcc3",
   "lastOpenFiles": [
+    "Demotion of DC.md",
+    "Raise Forest functional level.md",
+    "Untitled.md",
     "Crowdstrike weekly reports.md",
     "LIST.md",
-    "Untitled.md",
     "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md",
     "External DNS Servers.md",
     "Assets/Pasted Image 20240805201048_809.png",
@@ -233,7 +259,6 @@
     "Untitled 3.md",
     "Sharepoint Migration Tool.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "SKIT.md",
     "Windows AD/windows server license.md",
     "AVS and VMware/Azure VMware solution.md",
@@ -252,7 +277,6 @@
     "Sentinel/Best practices converting detection rules.md",
     "Entra ID - AZure AD/Privileged Identity Management.md",
     "Sentinel/Microsoft sentinel.md",
-    "Windows AD/AD Groups.md",
     "Assets/Pasted image 20240522163610.png",
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
