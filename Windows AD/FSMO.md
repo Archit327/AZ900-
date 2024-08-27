@@ -95,3 +95,41 @@ But now there is no use of IM role beacuse
 - the forest are configured to use Recycle bin.
 
 
+---
+
+Some users' email messages containing images may be incorrectly flagged as malware and quarantined
+
+Issue ID: EX873252
+Affected services: Exchange Online
+Status: Service degradation
+Issue type: Incident
+Start time: Aug 26, 2024, 7:39 PM GMT+5:30
+
+User impact
+Users' email messages containing images may be incorrectly flagged as malware and quarantined.
+
+Scope of impact
+Impact is specific to some users who are served through the affected infrastructure.
+
+Root cause
+A recent change to our Malware detection caused emails which contained a specific filetype signature to be incorrectly flagged as Malware.
+
+
+Current status
+Aug 26, 2024, 11:49 PM GMT+5:30
+Our mitigation has successfully prevented new legitimate emails from mistakenly being flagged as malware. Emails sent after Monday, August 26, 2024 at 10:05 PM GMT+5:30
+will not be impacted by this issue. We’re continuing to unblock and replay previously impacted emails, and many customers should already be experiencing relief from impact. Telemetry indicates that approximately 95 percent of that impacted emails have been resubmitted so far. 
+
+Organizations will not need to action to resolve this issue, as the service will automatically replay the impacted emails. We currently estimate that all emails will be submitted within the next few hours, and we'll provide a more precise ETA once available.
+Next update by:
+Tuesday, August 27, 2024 at 1:00 AM GMT+5:30
+
+
+History of updates
+Aug 26, 2024, 11:29 PM GMT+5:30
+Aug 26, 2024, 10:01 PM GMT+5:30
+We've identified a recent change that may have affected our malware detection systems. We've implemented a mitigation intended to unblock legitimate emails that were mistakenly flagged as malware. We're working to replay the impacted emails and expect that affected emails will automatically be resent within the next several hours. We'll provide a more accurate ETA when it becomes available. In parallel, we’re continuing to investigate to determine if additional workstreams are needed to mitigate impact.
+Aug 26, 2024, 8:58 PM GMT+5:30
+We're analyzing provided Message IDs to isolate the reason that email containing images are being flagged as potential malware and determine the next steps to remediate the impact.
+Aug 26, 2024, 7:40 PM GMT+5:30
+We're reviewing service monitoring telemetry to isolate the root cause and develop a remediation plan.
