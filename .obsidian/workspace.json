@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f58b9810505985ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows AD/DNS server and benefits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "69010bfbeace83f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Federation in AD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "277bd14609b1ac1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "External DNS Servers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "891a0e24d754b39b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crowdstrike weekly reports.md",
+                "file": "Windows AD/Federation in AD.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de66730519aadba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Raise Forest functional level.md",
+                "file": "ADDS vs ADFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows AD/FSMO.md",
+                "file": "Domain controller/FSMO.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demotion of DC.md",
+                "file": "Domain controller/Demotion of DC.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "317055e48df0daa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows AD/FRS vs DFSR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Governance session - MADHU.md",
+                "file": "Windows AD/FRS vs DFSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Governance session - MADHU.md",
+                "file": "Windows AD/FRS vs DFSR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Governance session - MADHU.md"
+                "file": "Windows AD/FRS vs DFSR.md"
               }
             }
           },
@@ -255,21 +219,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d7e7c367f2f8c45",
+  "active": "317055e48df0daa7",
   "lastOpenFiles": [
-    "Governance session - MADHU.md",
-    "Demotion of DC.md",
-    "Raise Forest functional level.md",
-    "Windows AD/FSMO.md",
-    "Untitled.md",
-    "Crowdstrike weekly reports.md",
+    "ADDS vs ADFS.md",
+    "Microsoft Purview.md",
+    "MHA KT sessions.md",
     "LIST.md",
-    "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md",
-    "External DNS Servers.md",
-    "Assets/Pasted Image 20240805201048_809.png",
-    "Federation in AD.md",
-    "Entra ID - AZure AD/Errors during export to Microsoft Entra ID.md",
+    "identity ppt.md",
+    "CEF vs SYSLOG.md",
+    "Domain controller",
+    "Windows AD/Raise Forest functional level.md",
+    "Windows AD/Federation in AD.md",
+    "Crowdstrike weekly reports.md",
+    "Windows AD/External DNS Servers.md",
     "Windows AD/DNS server and benefits.md",
+    "Windows AD/FRS vs DFSR.md",
+    "Domain controller/Demotion of DC.md",
+    "Governance session - MADHU.md",
+    "Domain controller/FSMO.md",
+    "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md",
+    "Assets/Pasted Image 20240805201048_809.png",
+    "Entra ID - AZure AD/Errors during export to Microsoft Entra ID.md",
     "Untitled 3.md",
     "Sharepoint Migration Tool.md",
     "Untitled 2.md",
@@ -284,11 +254,6 @@
     "Assets/Pasted Image 20240625173552_218.png",
     "Assets/Pasted Image 20240625173404_275.png",
     "Assets/Pasted Image 20240625173227_713.png",
-    "identity ppt.md",
-    "Windows AD/Basics Active Directory.md",
-    "Microsoft Purview.md",
-    "Sentinel/Best practices converting detection rules.md",
-    "Entra ID - AZure AD/Privileged Identity Management.md",
     "Assets/Pasted image 20240522163610.png",
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
@@ -301,7 +266,6 @@
     "Sentinel",
     "Entra ID - AZure AD",
     "Windows AD",
-    "AVS and VMware",
-    "Crowdstrike"
+    "AVS and VMware"
   ]
 }

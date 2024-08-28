@@ -68,3 +68,7 @@ Alternatively, you can demote a DC using PowerShell:
 - **Replication Health**: Continue to monitor the replication health across your domain controllers to ensure the environment remains stable.
 
 By following these steps, you can safely and effectively demote a domain controller in your Active Directory environment.
+
+
+---
+
