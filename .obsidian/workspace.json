@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows AD/FRS vs DFSR.md",
+                "file": "Governance session - MADHU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows AD/FRS vs DFSR.md",
+                "file": "Governance session - MADHU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows AD/FRS vs DFSR.md"
+                "file": "Governance session - MADHU.md"
               }
             }
           },
@@ -219,8 +219,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "317055e48df0daa7",
+  "active": "1d7e7c367f2f8c45",
   "lastOpenFiles": [
+    "Windows AD/FRS vs DFSR.md",
     "ADDS vs ADFS.md",
     "Microsoft Purview.md",
     "MHA KT sessions.md",
@@ -233,7 +234,6 @@
     "Crowdstrike weekly reports.md",
     "Windows AD/External DNS Servers.md",
     "Windows AD/DNS server and benefits.md",
-    "Windows AD/FRS vs DFSR.md",
     "Domain controller/Demotion of DC.md",
     "Governance session - MADHU.md",
     "Domain controller/FSMO.md",
