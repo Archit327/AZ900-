@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d7e7c367f2f8c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Governance session - MADHU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demotion of DC.md",
+                "file": "Governance session - MADHU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demotion of DC.md",
+                "file": "Governance session - MADHU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demotion of DC.md"
+                "file": "Governance session - MADHU.md"
               }
             }
           },
@@ -243,11 +255,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21a0a56f5da9052c",
+  "active": "1d7e7c367f2f8c45",
   "lastOpenFiles": [
+    "Governance session - MADHU.md",
+    "Demotion of DC.md",
     "Raise Forest functional level.md",
     "Windows AD/FSMO.md",
-    "Demotion of DC.md",
     "Untitled.md",
     "Crowdstrike weekly reports.md",
     "LIST.md",
@@ -276,7 +289,6 @@
     "Microsoft Purview.md",
     "Sentinel/Best practices converting detection rules.md",
     "Entra ID - AZure AD/Privileged Identity Management.md",
-    "Sentinel/Microsoft sentinel.md",
     "Assets/Pasted image 20240522163610.png",
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
