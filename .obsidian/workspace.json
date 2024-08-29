@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -221,6 +222,8 @@
   },
   "active": "1d7e7c367f2f8c45",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240829162347.png",
+    "Assets/Pasted image 20240829153411.png",
     "Windows AD/FRS vs DFSR.md",
     "ADDS vs ADFS.md",
     "Microsoft Purview.md",
@@ -249,7 +252,6 @@
     "Incident investigation.md",
     "Assets/Pasted image 20240717064327.png",
     "AVS and VMware/Azure and VMware.md",
-    "Excalidraw/Drawing 2024-06-25 16.32.20.excalidraw.md",
     "Assets/Pasted Image 20240625201641_564.png",
     "Assets/Pasted Image 20240625173552_218.png",
     "Assets/Pasted Image 20240625173404_275.png",
@@ -257,7 +259,6 @@
     "Assets/Pasted image 20240522163610.png",
     "Assets/Pasted image 20240511035014.png",
     "Assets/Pasted image 20240511034931.png",
-    "Assets/Pasted image 20240510002824.png",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "Azure Virtual desktop",
     "Microsoft Licenses",
