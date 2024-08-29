@@ -75,3 +75,8 @@ Real time enforcement, compliance assessment and remediation at scale.
 - policy will help monitoring and alerting.
 - it can be assigned to management grp , subcription and resource grps and those will be inherited to child scope.
 
+
+
+DAY 2 - hierarchy, policies, blueprints, azure resource graphs, cost management
+
+policy - basics, types
