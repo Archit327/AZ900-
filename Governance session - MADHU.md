@@ -77,15 +77,6 @@ Real time enforcement, compliance assessment and remediation at scale.
 
 
 
-DAY 2 - hierarchy, policies, blueprints, azure resource graphs, cost management
-
-policy - basics, types
+---
 
 
-Discussed about the management grp and subscription and the hierarchy
-RBAC roles and how are they inherited from parent scope to child scope
-what are the roles required for performing governance in any kind of environment(green field or brown field)
-Azure policies - definitions, assignments , exemptions and remediation
-Blue print - overview , pros and cons. 
-azure resource graph - overview 
-cost management -  overview on budget and cost alerts
