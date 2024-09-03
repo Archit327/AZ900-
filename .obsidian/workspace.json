@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81307e549e6dcab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -231,8 +243,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b816e92fe1f140a1",
+  "active": "81307e549e6dcab2",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Untitled.md",
     "Governance session - MADHU.md",
     "Assets/Pasted image 20240829162347.png",
@@ -263,7 +276,6 @@
     "AVS and VMware/Azure VMware solution.md",
     "Incident investigation.md",
     "Assets/Pasted image 20240717064327.png",
-    "AVS and VMware/Azure and VMware.md",
     "Assets/Pasted Image 20240625201641_564.png",
     "Assets/Pasted Image 20240625173552_218.png",
     "Assets/Pasted Image 20240625173404_275.png",
