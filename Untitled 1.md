@@ -146,3 +146,33 @@ If the IT Ops team is working on TDMP, they are likely focused on setting up, co
 5. **Automate Responses**: Automating responses to identified risks with services like Microsoft Sentinel's SOAR capabilities can help reduce the time taken to respond to incidents.
 
 By leveraging these Azure tools and best practices, organizations can manage risks effectively across their cloud environments.
+
+
+----
+
+In the context of **Microsoft Defender for Cloud (DFC)**, a **CIS (Center for Internet Security) report** refers to a security assessment report that helps ensure that your Azure resources comply with the **CIS Benchmarks**. These benchmarks are globally recognized best practices for securing IT systems and data.
+
+The **CIS report** in Defender for Cloud assesses the security of your environment against these benchmarks and provides insights on how well your infrastructure aligns with the CIS guidelines. It highlights compliance status and identifies areas where you may need to improve your security posture.
+
+### Key Components of a CIS Report in Defender for Cloud:
+1. **CIS Benchmarks**: The report uses a set of recommended practices defined by the Center for Internet Security to assess your Azure resources. These guidelines cover areas such as identity and access management, network security, data protection, and auditing.
+   
+2. **Security Recommendations**: Based on the CIS benchmarks, the report will provide specific recommendations on how to improve security configurations, address vulnerabilities, and reduce risk.
+   
+3. **Compliance Score**: The CIS report provides a compliance score or percentage that reflects how closely your environment adheres to CIS best practices. A higher score indicates stronger security alignment.
+   
+4. **Non-Compliant Resources**: The report identifies resources that do not comply with CIS benchmarks and categorizes them based on the level of risk they pose.
+   
+5. **Remediation Actions**: For each non-compliant item, the report includes suggestions or steps to remediate the issue and bring the environment into compliance with the CIS benchmarks.
+
+### How to Access CIS Reports in Defender for Cloud:
+1. **Enable Defender for Cloud**: Ensure that Microsoft Defender for Cloud is enabled for your subscription.
+2. **Security Benchmark**: Go to the **Defender for Cloud** dashboard and navigate to the **Regulatory compliance** section, where you'll see the **CIS Benchmark** listed as a compliance standard.
+3. **View Reports**: Review the detailed CIS report, which will highlight areas where your Azure resources are not in compliance and provide actionable recommendations for remediation.
+
+### Importance of CIS Reports:
+- **Security Assurance**: Ensures that your cloud infrastructure follows best practices for securing Azure resources.
+- **Regulatory Compliance**: Many industries require adherence to security benchmarks like CIS, and these reports help demonstrate compliance.
+- **Continuous Improvement**: Regularly reviewing CIS reports can help you maintain and enhance the security of your Azure environment over time.
+
+By following the recommendations in the CIS report, organizations can better protect their cloud resources and minimize security risks.
