@@ -176,3 +176,48 @@ The **CIS report** in Defender for Cloud assesses the security of your environme
 - **Continuous Improvement**: Regularly reviewing CIS reports can help you maintain and enhance the security of your Azure environment over time.
 
 By following the recommendations in the CIS report, organizations can better protect their cloud resources and minimize security risks.
+
+---
+
+For your SOC weekly analysis presentation, you’ve covered critical information like incident counts by severity, affected endpoints, and recommendations. To make your presentation more comprehensive and valuable to decision-makers, consider adding the following:
+
+1. **Trend Analysis**:  
+   - Highlight trends in incidents over time. Are certain types of incidents increasing? Are specific endpoints or users frequently affected?
+   - Visualize trends using graphs showing the rise or fall of incident types, severity, or specific endpoints targeted.
+
+2. **Incident Response Timelines**:  
+   - Show how quickly incidents were detected, escalated, and resolved. This could help authorities understand the efficiency of current response protocols and where improvements are needed.
+   - Include a breakdown of average resolution times for each severity level.
+
+3. **Root Cause Analysis**:  
+   - Present a summary of the root causes behind key incidents. Identifying these causes can help implement targeted security measures to prevent recurrence.
+   - Categorize incidents by root causes, such as misconfigurations, malware, phishing, etc.
+
+4. **Attack Vectors and Methods**:  
+   - Provide insights into the most common attack vectors and methods used in the incidents. For example, were most attacks phishing-based, or did they exploit software vulnerabilities?
+   - This can guide the authority in focusing on specific defensive measures.
+
+5. **Vulnerabilities**:  
+   - Highlight any vulnerabilities that were exploited or discovered during the incidents. Include recommendations for patching or mitigating these vulnerabilities.
+   - Mention whether these vulnerabilities are recurring or newly discovered.
+
+6. **Incident Cost/Impact**:  
+   - If possible, estimate the cost or impact of the incidents in terms of downtime, data loss, or potential risks to critical assets. This can help authority prioritize mitigation strategies.
+   - Mention any potential compliance implications if incidents involved sensitive data.
+
+7. **Preventive Actions Taken**:  
+   - List any immediate measures already implemented during the week to mitigate similar future incidents (e.g., patching, endpoint isolation, updated firewall rules, etc.).
+
+8. **Comparison to Previous Periods**:  
+   - Compare the current week’s analysis to previous weeks/months. Are there improvements in security posture, or has the frequency of incidents changed?
+   - Highlight whether past recommendations were followed and the impact they had.
+
+9. **Next Steps**:  
+   - Propose actionable next steps for management, including investments in new tools, additional training for staff, or adjustments to current security policies.
+   - Offer a timeline for implementing these changes.
+
+10. **Key Metrics**:  
+   - Add any metrics related to incident detection, response, and remediation (e.g., detection rate, false positives, MTTR - Mean Time to Resolve).
+   - Present this in a dashboard-style format to provide a quick, at-a-glance view of SOC performance.
+
+These additions will provide more actionable insights, help stakeholders prioritize efforts, and present a clear roadmap for securing and optimizing the environment further.
