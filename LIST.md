@@ -163,3 +163,47 @@ Entraa ID
 | Adcs |
 | ---- |
 |      |
+Crowdstrike - 
+Daily basis monitoring and investigating the incidents on crowdstrike.
+PPT weekly incidents report, power-bi reports 
+by extracting the data from the portal of Identity Protections on weekly basis in the form of excel.
+And transforming the data into presentable visuals which will help the MHA understand the incidents occurrence and how they can remediate. Also providing the recommendations which can decrease the incident detections as well as it will help SNP to work efficiently.
+
+Governance session - whats GRC, azure governance, its components-RBACs, policies, resource locks, blueprints and azure cost management.
+Risk Management - how does it work. Risk management lifecycle.
+CCO dashboard - basic overview. 
+Compliance - Cooperate and regulatory. Audits - internal, external, surveillance.
+Standards and LAWs basic differences.
+Basics on Purview and Priva Portal.
+Really need to go ahead and give some time on purview and priva.
+
+Projects - Middlesboro Coke 
+Task Worked on:
+1. Created identity questionnaire to know about the customers onprem architecture and what should be changed and updated before starting the hybrid environment
+2. Getting details of their onprem architecture- like what are the number of DCs, what are the FSMO roles given to them, what are the DNS server IPs they are using
+3. Created Identity deployment plan documentation, approved by the customer as well.
+
+Pending Taks:
+Current situation: waiting for the S2S connection for starting the identity deployment.
+
+Yakima & Tri-Cities 
+Tasks Completed:
+1. Created the Identity questionnaire to the customer and is filled by the customer.
+
+after reviewing the questionnaire filled -> 
+ blocker identified by SNP in customer's environment  
+1. Customer did not had the forest functional level 2012 which need to be updated
+2. They had plan of removing some DCs from environment and have RODCs in place.
+
+Current situation-
+1. The above blockers are resolved by the customer. But we need to know the current environment and what they need to have in azure environment.
+
+Remaining tasks -
+Customer not yet completed the questionnaire after making changes in their environment.
+SNP have been asking from Rob to fill it since last 2 weeks.
+
+
+
+Working on Landing zone deployment through terraform - paused
+
+How to decommission the DC - paused
