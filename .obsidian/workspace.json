@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c2ec506a25dd86f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning and initiatives and projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST.md",
+                "file": "learning and initiatives and projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST.md",
+                "file": "learning and initiatives and projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST.md"
+                "file": "learning and initiatives and projects.md"
               }
             }
           },
@@ -219,8 +231,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2daac2d5e584ffa",
+  "active": "7c2ec506a25dd86f",
   "lastOpenFiles": [
+    "learning and initiatives and projects.md",
+    "LIST.md",
     "Untitled.md",
     "Untitled 1.md",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
@@ -233,7 +247,6 @@
     "ADDS vs ADFS.md",
     "Microsoft Purview.md",
     "MHA KT sessions.md",
-    "LIST.md",
     "identity ppt.md",
     "CEF vs SYSLOG.md",
     "Domain controller",
@@ -249,7 +262,6 @@
     "Entra ID - AZure AD/Errors during export to Microsoft Entra ID.md",
     "Untitled 3.md",
     "Sharepoint Migration Tool.md",
-    "Untitled 2.md",
     "SKIT.md",
     "Assets/Pasted image 20240717064327.png",
     "Assets/Pasted Image 20240625201641_564.png",
