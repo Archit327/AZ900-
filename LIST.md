@@ -6,6 +6,16 @@
 | how much avd are necessary        |
 | what about the rbac for avds      |
 
+
+| 25-10 Time entries                                                                      |
+| --------------------------------------------------------------------------------------- |
+| 2 mha CS - 0 incident                                                                   |
+| 1 mha sentinel - 4 incident - resolved                                                  |
+| 1 SNP sentinel - 3 incident - resolved                                                  |
+| 1 hr what is multistaging attacks                                                       |
+| 2 hr foundation to AI security                                                          |
+| 1 hr creating report in power bi by connecting Azure resource graph and running queries |
+
 | 8-3-24                               |
 | ------------------------------------ |
 | tenants and subscriptions in AAD     |
