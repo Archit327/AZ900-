@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "d028af477e65c9e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "12893e2e56e4e761",
             "type": "leaf",
             "state": {
@@ -174,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -190,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows AD/Federation in AD.md",
+                "file": "LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Federation in AD"
+              "title": "Backlinks for LIST"
             }
           },
           {
@@ -209,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows AD/Federation in AD.md",
+                "file": "LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Federation in AD"
+              "title": "Outgoing links from LIST"
             }
           },
           {
@@ -236,10 +249,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows AD/Federation in AD.md"
+                "file": "LIST.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Federation in AD"
+              "title": "Outline of LIST"
             }
           },
           {
@@ -273,7 +286,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12893e2e56e4e761",
+  "active": "d028af477e65c9e4",
   "lastOpenFiles": [
     "SOC sessions.md",
     "learning and initiatives and projects.md",
