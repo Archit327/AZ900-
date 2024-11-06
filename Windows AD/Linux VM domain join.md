@@ -16,27 +16,27 @@ Joining a Linux VM to an Active Directory (AD) domain involves a few steps, incl
      sudo apt upgrade -y
      ```
 
+Become super user
+ 
+ sudo su - 
+ 
+ now the $ will become # 
+ 
+ $- normal user
+ # - superuser
 #### 2. **Install Required Packages**
    - For Debian-based systems (Ubuntu):
      ```bash
      sudo apt install realmd sssd adcli krb5-user samba-common-bin -y
      ```
-   - For RedHat-based systems (RHEL/CentOS):
-     ```bash
-     sudo yum install realmd sssd adcli krb5-workstation samba-common-tools -y
-     ```
-
-#### 3. **Configure DNS**
+  #### 3. **Configure DNS**
    - Ensure the DNS server is set to the IP address of the AD Domain Controller. For example:
      ```bash
-     sudo nano /etc/resolv.conf
+     sudo vi /etc/resolv.conf
      ```
-     Add your DC’s IP address:
-     ```
-     nameserver <AD_DC_IP>
-     ```
-   - Save and exit.
 
+editor box is shown 
+type "i" start insert
 #### 4. **Discover the AD Domain**
    - Verify that the domain can be discovered by using the `realm` command:
      ```bash
