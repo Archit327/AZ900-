@@ -162,3 +162,5 @@ After the server restarts, it should be a Domain Controller. You can validate th
 ### **Summary**
 
 This guide provides a step-by-step process to create an Azure VM with Terraform, join it to a domain, and promote it to a Domain Controller. This setup is critical for organizations that need to extend their on-premises AD environment to Azure or for those setting up a new AD environment in Azure.   
+
+
