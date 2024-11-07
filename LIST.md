@@ -217,3 +217,9 @@ SNP have been asking from Rob to fill it since last 2 weeks.
 Working on Landing zone deployment through terraform - paused
 
 How to decommission the DC - paused
+
+
+| steps   | public IP     | priivate Ip |
+| ------- | ------------- | ----------- |
+| test vm | 52.224.89.104 | 10.50.3.4   |
+| dc1     |               | 10.50.11.5  |
