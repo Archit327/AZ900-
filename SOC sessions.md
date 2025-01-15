@@ -21,7 +21,7 @@ It is like an illegal activity and data theft by cyber criminals.
 ### What is Hacking in context to cyber security?
 
 It is the misuse of devices like computer , smartphones, tablets and network to cause damage to the systems or corrupt the systems.
-It can be gathering information or data of users or documents in malicious manner.
+It can be used for gathering information or data of users or documents in malicious manner.
 
 
 In this modern era Hackers are now growing increasingly , using stealthy attack methods  designed to go completely unnoticed by cybersecurity software and IT teams. They are highly skilled programmers in coding and modifying computer software and hardware systems.
@@ -128,7 +128,7 @@ Stealing of sensitive info , or hacking the software, writing malicious codes , 
 
 ==vulnerability -- galti
 exploit - the object or the zariya uss galti (vulnerability ) ka fayeda uthaane ka 
-payload -- its the impact caused after that exploit on vulnerability
+payload -- its the impact caused by the exploit on the vulnerability
 risk - its the loss or the haani (hindi)
 
 
@@ -174,7 +174,6 @@ in the version 2.0-2.14 there is a vulnerability in log4j utility.
 #### Confidentiality
 it serves as securing the sensitive data from unwanted access or unauthorized user, secure from the internet or any other way that can make that data available out of the org.
 basically hiding the data and info from outside the org.
-
 
 ### Integrity
 Maintaining the consistency , accuracy and trustworthiness of data through out the lifecycle .
