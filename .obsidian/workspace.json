@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC sessions.md",
+                "file": "ADDS vs ADFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOC sessions"
+              "title": "ADDS vs ADFS"
             }
           },
           {
@@ -177,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pass through syn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +198,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -301,15 +302,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c2ec506a25dd86f",
+  "active": "1e639603131a4315",
   "lastOpenFiles": [
+    "Entra ID - AZure AD/Custom Domain Name.md",
+    "Entra ID - AZure AD/Azure AD vs Windows AD.md",
+    "Entra ID - AZure AD/Azure AD new tenant.md",
+    "Entra ID - AZure AD/AZure Active Directory Connect.md",
+    "Microsoft Licenses/Licenses.md",
+    "SOC sessions.md",
     "Untitled 2.md",
     "ecom.md",
     "Windows AD/Linux VM domain join.md",
     "LIST.md",
     "Untitled.md",
     "Untitled 1.md",
-    "SOC sessions.md",
     "learning and initiatives and projects.md",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "AZ 900/Networking Basics.md",
@@ -328,12 +334,7 @@
     "Windows AD/Federation in AD.md",
     "Crowdstrike weekly reports.md",
     "Windows AD/External DNS Servers.md",
-    "Windows AD/DNS server and benefits.md",
-    "Domain controller/Demotion of DC.md",
-    "Domain controller/FSMO.md",
-    "Excalidraw/Drawing 2024-08-05 20.10.33.excalidraw.md",
     "Assets/Pasted Image 20240805201048_809.png",
-    "Entra ID - AZure AD/Errors during export to Microsoft Entra ID.md",
     "Assets/Pasted image 20240717064327.png",
     "Assets/Pasted Image 20240625201641_564.png",
     "Assets/Pasted Image 20240625173552_218.png",
