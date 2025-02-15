@@ -144,9 +144,21 @@
               "icon": "lucide-file",
               "title": "ecom"
             }
+          },
+          {
+            "id": "112d559d4c5def33",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -302,7 +314,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e639603131a4315",
+  "active": "112d559d4c5def33",
   "lastOpenFiles": [
     "Entra ID - AZure AD/Custom Domain Name.md",
     "Entra ID - AZure AD/Azure AD vs Windows AD.md",
