@@ -149,12 +149,14 @@
             "id": "112d559d4c5def33",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "AZ 900/Networking Basics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Networking Basics"
             }
           }
         ],
@@ -177,7 +179,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -189,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pass through syn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,8 +213,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -316,6 +318,7 @@
   },
   "active": "112d559d4c5def33",
   "lastOpenFiles": [
+    "AZ 900/NETWORKING.md",
     "Entra ID - AZure AD/Custom Domain Name.md",
     "Entra ID - AZure AD/Azure AD vs Windows AD.md",
     "Entra ID - AZure AD/Azure AD new tenant.md",
@@ -331,7 +334,6 @@
     "learning and initiatives and projects.md",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "AZ 900/Networking Basics.md",
-    "AZ 900/NETWORKING.md",
     "Governance session - MADHU.md",
     "Assets/Pasted image 20240829162347.png",
     "Assets/Pasted image 20240829153411.png",
