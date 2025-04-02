@@ -146,6 +146,18 @@
             }
           },
           {
+            "id": "33d5be1be536fb24",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "5f043d83bd862b1d",
             "type": "leaf",
             "state": {
@@ -158,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -303,7 +315,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -316,7 +327,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f2067e72f086d256",
+  "active": "33d5be1be536fb24",
   "lastOpenFiles": [
     "COPY Vault SNP/Welcome.md",
     "COPY Vault SNP",
