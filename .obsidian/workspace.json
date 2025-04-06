@@ -137,12 +137,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Training.md",
+                "file": "ADDS vs ADFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOC Training"
+              "title": "ADDS vs ADFS"
+            }
+          },
+          {
+            "id": "a18f594fbd3b90a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Hacking/Ethical Hacking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ethical Hacking"
+            }
+          },
+          {
+            "id": "805fdeaed7150993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Hacking/Learning Plan week.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning Plan week"
             }
           },
           {
@@ -158,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -315,8 +343,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f2067e72f086d256",
+  "active": "805fdeaed7150993",
   "lastOpenFiles": [
+    "Ethical Hacking/Ethical Hacking.md",
+    "Ethical Hacking/Learning Plan week.md",
+    "ADDS vs ADFS.md",
+    "Ethical Hacking",
+    "Untitled",
+    "Governance session - MADHU 1.md",
+    "Governance session - MADHU.md",
+    "Incident investigation.md",
+    "identity ppt.md",
+    "hjwdvjvdc.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Assets/Untitled",
+    "SOC Training.md",
     "SOC sessions.md",
     "AZ 900/Agent vs Agentless.md",
     "COPY Vault SNP/Welcome.md",
@@ -332,21 +374,10 @@
     "Entra ID - AZure AD/Azure AD new tenant.md",
     "Entra ID - AZure AD/AZure Active Directory Connect.md",
     "Microsoft Licenses/Licenses.md",
-    "Untitled 2.md",
     "Windows AD/Linux VM domain join.md",
-    "LIST.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "learning and initiatives and projects.md",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
-    "Governance session - MADHU.md",
     "Assets/Pasted image 20240829162347.png",
     "Assets/Pasted image 20240829153411.png",
-    "Windows AD/FRS vs DFSR.md",
-    "ADDS vs ADFS.md",
-    "Microsoft Purview.md",
-    "MHA KT sessions.md",
-    "identity ppt.md",
     "Domain controller",
     "Assets/Pasted Image 20240805201048_809.png",
     "Assets/Pasted image 20240717064327.png",
@@ -359,9 +390,6 @@
     "Azure Virtual desktop",
     "Microsoft Licenses",
     "MDE defender for endpoint",
-    "Defender for Cloud",
-    "Sentinel",
-    "Entra ID - AZure AD",
-    "Windows AD"
+    "Defender for Cloud"
   ]
 }
