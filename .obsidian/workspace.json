@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacking/Learning Plan week.md",
+                "file": "Windows AD/Raise Forest functional level.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Plan week"
+              "title": "Raise Forest functional level"
             }
           },
           {
@@ -343,10 +343,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "805fdeaed7150993",
+  "active": "731a745d1864f7db",
   "lastOpenFiles": [
-    "Ethical Hacking/Ethical Hacking.md",
+    "Windows AD/Linux VM domain join.md",
+    "Windows AD/Federation in AD.md",
+    "Windows AD/External DNS Servers.md",
+    "Windows AD/DNS server and benefits.md",
+    "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
+    "AZ 900/ALZ.pdf",
+    "AZ 900/Agent vs Agentless.md",
+    "AZ 900/Benefits of Cloud Computing.md",
+    "AZ 900/AZURE VIRTUAL NETWORK.md",
+    "AZ 900/Network Presentation.md",
+    "AZ 900/Pasted image 20231102190053.png",
+    "AZ 900/SECURITY BASICS.md",
+    "AZ 900/Unsolved questions.md",
     "Ethical Hacking/Learning Plan week.md",
+    "Ethical Hacking/Ethical Hacking.md",
     "ADDS vs ADFS.md",
     "Ethical Hacking",
     "Untitled",
@@ -360,22 +373,11 @@
     "Assets/Untitled",
     "SOC Training.md",
     "SOC sessions.md",
-    "AZ 900/Agent vs Agentless.md",
     "COPY Vault SNP/Welcome.md",
     "COPY Vault SNP",
     "AZ 900/Azure Landing Zone.md",
     "AZ 900/EDR vs XDR vs MDR.md",
     "AZ 900/CWPP.md",
-    "ecom.md",
-    "AZ 900/Networking Basics.md",
-    "AZ 900/NETWORKING.md",
-    "Entra ID - AZure AD/Custom Domain Name.md",
-    "Entra ID - AZure AD/Azure AD vs Windows AD.md",
-    "Entra ID - AZure AD/Azure AD new tenant.md",
-    "Entra ID - AZure AD/AZure Active Directory Connect.md",
-    "Microsoft Licenses/Licenses.md",
-    "Windows AD/Linux VM domain join.md",
-    "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "Assets/Pasted image 20240829162347.png",
     "Assets/Pasted image 20240829153411.png",
     "Domain controller",
@@ -386,10 +388,8 @@
     "Assets/Pasted Image 20240625173404_275.png",
     "Assets/Pasted Image 20240625173227_713.png",
     "Assets/Pasted image 20240522163610.png",
-    "Assets/Pasted image 20240511035014.png",
     "Azure Virtual desktop",
     "Microsoft Licenses",
-    "MDE defender for endpoint",
-    "Defender for Cloud"
+    "MDE defender for endpoint"
   ]
 }
