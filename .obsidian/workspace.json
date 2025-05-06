@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows AD/Raise Forest functional level.md",
+                "file": "Entra ID - AZure AD/AZure Active Directory Connect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raise Forest functional level"
+              "title": "AZure Active Directory Connect"
             }
           },
           {
@@ -343,8 +343,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "731a745d1864f7db",
+  "active": "805fdeaed7150993",
   "lastOpenFiles": [
+    "AZ 900/AZURE Identity ,access and security.md",
+    "Windows AD/Raise Forest functional level.md",
     "Windows AD/Linux VM domain join.md",
     "Windows AD/Federation in AD.md",
     "Windows AD/External DNS Servers.md",
@@ -376,8 +378,6 @@
     "COPY Vault SNP/Welcome.md",
     "COPY Vault SNP",
     "AZ 900/Azure Landing Zone.md",
-    "AZ 900/EDR vs XDR vs MDR.md",
-    "AZ 900/CWPP.md",
     "Assets/Pasted image 20240829162347.png",
     "Assets/Pasted image 20240829153411.png",
     "Domain controller",
