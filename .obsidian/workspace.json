@@ -149,16 +149,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solar Panels.md",
+                "file": "Entra ID - AZure AD/AZure Active Directory Connect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solar Panels"
+              "title": "AZure Active Directory Connect"
+            }
+          },
+          {
+            "id": "24148196347d6995",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -315,7 +327,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37e34936a00a3e96",
+  "active": "24148196347d6995",
   "lastOpenFiles": [
     "Solar Panels.md",
     "Ethical Hacking/Ethical Hacking.md",
