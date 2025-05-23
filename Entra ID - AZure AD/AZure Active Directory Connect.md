@@ -51,3 +51,9 @@ Step 4:
 11. Testing with one task -- such that create 2 users in your Onprem  and see whether they get reflected on AZure AD.
 
 IF YES THEN YOU MADE IT.
+
+
+Entra ID and windows AD force sync powershell script
+
+1. Import-Module ADSync
+2. Start-ADSyncSyncCycle -PolicyType Initial
