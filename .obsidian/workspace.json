@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Security"
             }
+          },
+          {
+            "id": "6abbe9f3017cc0ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-20 04.04.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-20 04.04.11.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5110321044922,
-    "collapsed": true
+    "width": 227.5110321044922
   },
   "right": {
     "id": "36a138203165c5aa",
@@ -194,11 +205,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dbc900fb02b91930",
+  "active": "6abbe9f3017cc0ff",
   "lastOpenFiles": [
+    "Security.md",
+    "Excalidraw/Drawing 2025-06-20 04.04.11.excalidraw.md",
     "Untitled.md",
     "Entra ID - AZure AD/AZure Active Directory Connect.md",
-    "Security.md",
     "Solar Panels.md",
     "Ethical Hacking/Ethical Hacking.md",
     "Windows AD/Linux VM domain join.md",
@@ -226,7 +238,6 @@
     "Untitled",
     "Governance session - MADHU 1.md",
     "Governance session - MADHU.md",
-    "Incident investigation.md",
     "Assets/Untitled",
     "COPY Vault SNP",
     "Assets/Pasted image 20240829162347.png",
