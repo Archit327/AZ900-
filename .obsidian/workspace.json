@@ -39,12 +39,14 @@
             "id": "6abbe9f3017cc0ff",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-20 04.04.11.excalidraw.md"
+                "file": "Ethical Hacking/Ethical Hacking.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-20 04.04.11.excalidraw"
+              "icon": "lucide-file",
+              "title": "Ethical Hacking"
             }
           }
         ],
@@ -205,7 +207,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0914e13dfe3b08be",
+  "active": "6abbe9f3017cc0ff",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-06-20 04.04.11.excalidraw.md",
     "Security.md",
