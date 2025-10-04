@@ -200,3 +200,19 @@ You can:
 
 ----
 
+**Top Books for Beginners to Start Learning Cybersecurity & Ethical Hacking**  
+If you're new to cybersecurity and want to become a good ethical hacker, these books provide strong foundations and practical skills:
+
+1. **Hacking: The Art of Exploitation** by Jon Erickson — Combines programming, networking, and hacking concepts with practical exercises.
+    
+2. **Penetration Testing: A Hands-On Introduction to Hacking** by Georgia Weidman — Practical guidance on penetration testing stages including info gathering and exploiting vulnerabilities.
+    
+3. **The Hacker Playbook 3** by Peter Kim — Advanced tactics and real-world red team techniques.
+    
+4. **The Web Application Hacker’s Handbook** by Dafydd Stuttard and Marcus Pinto — Deep dive into web application security vulnerabilities and exploitation methods.
+    
+5. **Cybersecurity for Dummies** by Joseph Steinberg — An accessible guide explaining cybersecurity basics and safety measures.
+    
+6. **Practical Malware Analysis** by Michael Sikorski and Andrew Honig — For understanding and analyzing malicious software.
+    
+7. **Social Engineering: The Science of Human Hacking** by Christopher Hadnagy — Highlights the human manipulation aspect of security breaches.
