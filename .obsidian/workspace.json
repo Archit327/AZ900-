@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Ethical Hacking"
             }
+          },
+          {
+            "id": "7887aab3100fa2b5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -207,7 +220,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6abbe9f3017cc0ff",
+  "active": "7887aab3100fa2b5",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-06-20 04.04.11.excalidraw.md",
     "Security.md",
