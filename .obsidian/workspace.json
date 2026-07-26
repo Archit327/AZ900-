@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "fd5fa35b6f942d24",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "7887aab3100fa2b5",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,7 +246,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "97bda4aaf6cd5bf9",
+  "active": "fd5fa35b6f942d24",
   "lastOpenFiles": [
     "Security.md",
     "Sentinel rulesss.md",
