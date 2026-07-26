@@ -36,59 +36,21 @@
             }
           },
           {
-            "id": "6abbe9f3017cc0ff",
+            "id": "1589c1a96312975f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security"
-            }
-          },
-          {
-            "id": "97bda4aaf6cd5bf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinel rulesss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sentinel rulesss"
-            }
-          },
-          {
-            "id": "fd5fa35b6f942d24",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
-          },
-          {
-            "id": "7887aab3100fa2b5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,14 +184,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "04172bfd18676bd5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,53 +217,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fd5fa35b6f942d24",
+  "active": "1589c1a96312975f",
   "lastOpenFiles": [
+    "Untitled.md",
     "Security.md",
+    "AZ 900/STORAGE.md",
+    "Untitled.base",
+    "VM using Terraform.md",
+    "Excalidraw/Active Directory Trust.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-29 15.57.50.excalidraw.md",
+    "Governance session - MADHU 1.md",
+    "Solar Panels.md",
+    "hjwdvjvdc.md",
+    "SOC sessions.md",
+    "SOC Training.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers.pdf",
+    "Assets/Pasted image 20231107171006.png",
+    "Assets/Pasted image 20231107164706.png",
+    "Assets/Pasted image 20231103132010.png",
+    "Assets/Pasted image 20231103131916.png",
+    "Assets/ns-arch-cust-expanded.svg",
+    "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers 1.pdf",
+    "Defender for Cloud/Defender for cloud.md",
+    "ecom.md",
+    "LIST.md",
+    "MHA KT sessions.md",
+    "Incident investigation.md",
+    "identity ppt.md",
+    "learning and initiatives and projects.md",
+    "Microsoft Purview.md",
     "Sentinel rulesss.md",
+    "COPY Vault SNP/Welcome.md",
     "Ethical Hacking/Ethical Hacking.md",
     "Excalidraw/Drawing 2025-06-20 04.04.11.excalidraw.md",
-    "Untitled.md",
     "Entra ID - AZure AD/AZure Active Directory Connect.md",
-    "Solar Panels.md",
     "Windows AD/Linux VM domain join.md",
-    "LIST.md",
     "Windows AD/FRS vs DFSR.md",
-    "AZ 900/Networking Basics.md",
-    "ADDS vs ADFS.md",
-    "VM using Terraform.md",
-    "Windows AD/Federation in AD.md",
-    "AZ 900/AZURE Identity ,access and security.md",
-    "Windows AD/Raise Forest functional level.md",
-    "Windows AD/External DNS Servers.md",
-    "Windows AD/DNS server and benefits.md",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "AZ 900/ALZ.pdf",
-    "AZ 900/Agent vs Agentless.md",
-    "AZ 900/Benefits of Cloud Computing.md",
-    "AZ 900/AZURE VIRTUAL NETWORK.md",
-    "AZ 900/Network Presentation.md",
     "AZ 900/Pasted image 20231102190053.png",
-    "AZ 900/SECURITY BASICS.md",
-    "AZ 900/Unsolved questions.md",
-    "Ethical Hacking/Learning Plan week.md",
     "Ethical Hacking",
     "Untitled",
-    "Governance session - MADHU 1.md",
     "Assets/Untitled",
-    "COPY Vault SNP",
     "Assets/Pasted image 20240829162347.png",
     "Assets/Pasted image 20240829153411.png",
-    "Domain controller",
     "Assets/Pasted Image 20240805201048_809.png",
-    "Assets/Pasted image 20240717064327.png",
-    "Assets/Pasted Image 20240625201641_564.png",
-    "Assets/Pasted Image 20240625173552_218.png",
-    "Assets/Pasted Image 20240625173404_275.png",
-    "Assets/Pasted Image 20240625173227_713.png",
-    "Assets/Pasted image 20240522163610.png",
-    "Azure Virtual desktop",
-    "Microsoft Licenses",
-    "MDE defender for endpoint"
+    "Assets/Pasted image 20240717064327.png"
   ]
 }
