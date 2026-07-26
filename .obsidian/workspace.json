@@ -36,21 +36,49 @@
             }
           },
           {
-            "id": "1589c1a96312975f",
+            "id": "5e5a1dda28322cad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "ADFS active directory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "ADFS active directory"
+            }
+          },
+          {
+            "id": "e24857a44052826b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KQL query.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KQL query"
+            }
+          },
+          {
+            "id": "cc2b0403b85d2435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "all analytic rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "all analytic rules"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,8 +245,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1589c1a96312975f",
+  "active": "cc2b0403b85d2435",
   "lastOpenFiles": [
+    "all analytic rules.md",
+    "KQL query.md",
+    "ADFS active directory.md",
+    "identity ppt.md",
+    "Untitled 1.base",
+    "Excalidraw/Drawing 2026-07-26 08.39.04.excalidraw.md",
     "Untitled.md",
     "Security.md",
     "AZ 900/STORAGE.md",
@@ -231,7 +265,6 @@
     "hjwdvjvdc.md",
     "SOC sessions.md",
     "SOC Training.md",
-    "Untitled 1.base",
     "Untitled 2.base",
     "Assets/How to Setup Active Directory Domain With VirtualBox and Join Computers.pdf",
     "Assets/Pasted image 20231107171006.png",
@@ -245,16 +278,11 @@
     "LIST.md",
     "MHA KT sessions.md",
     "Incident investigation.md",
-    "identity ppt.md",
     "learning and initiatives and projects.md",
     "Microsoft Purview.md",
     "Sentinel rulesss.md",
     "COPY Vault SNP/Welcome.md",
     "Ethical Hacking/Ethical Hacking.md",
-    "Excalidraw/Drawing 2025-06-20 04.04.11.excalidraw.md",
-    "Entra ID - AZure AD/AZure Active Directory Connect.md",
-    "Windows AD/Linux VM domain join.md",
-    "Windows AD/FRS vs DFSR.md",
     "AZ 900/AZ900 Notes by Sraj Linkedin.pdf",
     "AZ 900/ALZ.pdf",
     "AZ 900/Pasted image 20231102190053.png",
